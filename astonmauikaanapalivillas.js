@@ -461,12 +461,12 @@ const hotel = {
 			url: "https://www.astonmauikaanapalivillas.com/guest-rooms",
 
 			// URL from where the room can be booked (if applicable)
-			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=STGVD&src=MKV.STGVD.schema",
+			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=STGVP&src=MKV.STGVP.schema",
 
 			// description of the room
 			description: "This deluxe studio offers serene tropical views of our surrounding gardens. Studio features quality furnishings and a contemporary kitchen and bathroom.",
 
-			// maximum number of guests that can stay in this accommodation
+			// maximum number of guests that can stay in this accommodation (D)
 			maxOccupancy: 3,
 
 			// 24 hours time. ex: 14:00
