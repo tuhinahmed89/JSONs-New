@@ -318,31 +318,31 @@ const hotel = {
 		{
 
 			// must be either 'Suite' or 'Room'
-			type: "Suite",
+			type: "HotelRoom",
 
 			// name of the room
-			name: "1-Bedroom 1-Bath Standard Suite",
+			name: "Hotel Room Premium",
 
 			// URL of this specific room
-			url: "https://www.astonkaanapalishoresresort.com/rooms-suites",
+			url: "https://www.astonmauikaanapalivillas.com/guest-rooms",
 
 			// URL from where the room can be booked (if applicable)
-			bookUrl: "https://be.synxis.com/?hotel=14892&level=hotel&locale=en-US&room=1BST&src=AKS.1BST.schema",
+			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=0HP&src=MKV.0HP.schema",
 
 			// description of the room
-			description: "You’ll enjoy over 900 square feet in this home-away-from-home one-bedroom suite. These suites have a separate bedroom, private balcony, fully equipped kitchen, and in-suite washer/dryer.",
+			description: "For an upgraded stay, our hotel room premium features upscale décor and a modern well-appointed bathroom. This room includes central air conditioning, a coffee maker, and mini-refrigerator.",
 
 			// maximum number of guests that can stay in this accommodation
-			maxOccupancy: 4,
+			maxOccupancy: 2,
 
 			// 24 hours time. ex: 14:00
 			checkInTime: "16:00",
 			checkOutTime: "11:00",
 
 			// total number of beds in this accommodation
-			bedCount: "2",
+			bedCount: "1",
 
-			bedType: "King or Queen and Sofa Bed",
+			bedType: "King or Queen",
 
 			// total number of bathrooms in this accommodation (ex: 1 or 2.5, etc)
 			bathroomCount: "1",
@@ -353,44 +353,265 @@ const hotel = {
 			// images of the room
 			images: [
 				{
-					caption: "1-Bedroom 1-Bath Standard Suite Interior",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-1-bedroom-1-bathroom-standard-suite-livingroom-1440x960-1.jpeg"
+					caption: 'Hotel Room Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-premium-bed-1440x964-1-1030x690.jpg', // url
 				},
 				{
-					caption: "1-Bedroom 1-Bath Standard Suite Bedroom Interior View",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/11/aston-kaanapali-shores-hotel-bedroom-937-017-1440x960-min.jpeg"
+					caption: 'Hotel Room Premium', // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg', // url
 				},
 				{
-					caption: "Junior Suite Room with Kitchen - Bathroom",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-jr-suite-kitchen-932-011-1440x960-2.jpeg"
-				}
+
+			// must be either 'Suite' or 'Room'
+			type: "HotelRoom",
+
+			// name of the room
+			name: "Studio Garden View",
+
+			// URL of this specific room
+			url: "https://www.astonmauikaanapalivillas.com/guest-rooms",
+
+			// URL from where the room can be booked (if applicable)
+			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=STGV&src=MKV.STGV.schema",
+
+			// description of the room
+			description: "Take in views of our tropical gardens and lush landscape. Simple and equipped with the basic necessities, this studio features a full kitchen and bathroom.",
+
+			// maximum number of guests that can stay in this accommodation
+			maxOccupancy: 3,
+
+			// 24 hours time. ex: 14:00
+			checkInTime: "16:00",
+			checkOutTime: "11:00",
+
+			// total number of beds in this accommodation
+			bedCount: "2",
+
+			bedType: "King and Sofa Bed OR Queen and Sofa Bed OR 2 Queens",
+
+			// total number of bathrooms in this accommodation (ex: 1 or 2.5, etc)
+			bathroomCount: "1",
+
+			// total number of rooms in this accommodation
+			roomCount: "",
+
+			// images of the room
+			images: [
+				{
+					caption: "Aston Maui Kaanapali Villa – Studio Garden View Bed", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-1-8192x5464-large-1030x687.jpg", // url
+				},
+				{
+					caption: "Aston Maui Kaanapali Villa – Studio Garden View", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-Living-Area-1-8192x5464-large-1030x687.jpg", // url
+				},
+				{
+					caption: "Aston Maui Kaanapali Villa – Studio Garden View Living Space", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-2-8192x5464-large-1030x687.jpg", // url
+				},
+				{
+					caption: "Aston Maui Kaanapali Villa – Studio Garden View Bedroom Patio", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-Patio-Edited-2-8192x5464-R-large-1030x687.jpg", // url
+				},
+				{
+					caption: "Aston Maui Kaanapali Villa – Studio Garden View Kitchen", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-Kitchen-2-8192x5464-large-1030x687.jpg", // url
+				},
+				{
+					caption: "Aston Maui Kaanapali Villa – Studio Garden View Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-Bathroom-1-8192x5464-large-1030x687.jpg", // url
+				},
+				
 			],
 
 			// list of room amenities
 			roomAmenitiesArr: [
 				{
-					name: "Central air-conditioning",
-					url: "https://www.astonkaanapalishoresresort.com/rooms-suites/",
+					name: 'Air conditioning', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				},
 				{
-					name: "Full kitchen",
-					url: "https://www.astonkaanapalishoresresort.com/rooms-suites/",
+					name: 'Mini-refrigerator', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				},
 				{
-					name: "Private balcony",
-					url: "https://www.astonkaanapalishoresresort.com/rooms-suites/",
+					name: 'Private balcony (subject to availability)', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				},
 				{
-					name: "Washer/dryer",
-					url: "https://www.astonkaanapalishoresresort.com/rooms-suites/",
+					name: 'Upscale decor', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				},
 				{
-					name: "WiFi access",
-					url: "https://www.astonkaanapalishoresresort.com/rooms-suites/",
+					name: 'WiFi access', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				}
 			]
 
-		}		
+		}
+				{
+
+			// must be either 'Suite' or 'Room'
+			type: "HotelRoom",
+
+			// name of the room
+			name: "Studio Garden View Premium",
+
+			// URL of this specific room
+			url: "https://www.astonmauikaanapalivillas.com/guest-rooms",
+
+			// URL from where the room can be booked (if applicable)
+			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=STGVD&src=MKV.STGVD.schema",
+
+			// description of the room
+			description: "This deluxe studio offers serene tropical views of our surrounding gardens. Studio features quality furnishings and a contemporary kitchen and bathroom.",
+
+			// maximum number of guests that can stay in this accommodation
+			maxOccupancy: 3,
+
+			// 24 hours time. ex: 14:00
+			checkInTime: "16:00",
+			checkOutTime: "11:00",
+
+			// total number of beds in this accommodation
+			bedCount: "2",
+
+			bedType: "King and Sofa Bed OR Queen and Sofa Bed",
+
+			// total number of bathrooms in this accommodation (ex: 1 or 2.5, etc)
+			bathroomCount: "1",
+
+			// total number of rooms in this accommodation
+			roomCount: "",
+
+			// images of the room
+			images: [
+				{
+					caption: "Studio Garden View Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bedroom-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Kitchen", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-kitchen-1440x993-1-1030x710.jpg
+				{
+					caption: "Studio Garden View Deluxe Living Area", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-living-area-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Setting Area", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-seating-area-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bathroom-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-shower-1440x993-2-1030x710.jpg", // url
+				},
+				
+			],
+
+			// list of room amenities
+			roomAmenitiesArr: [
+				{
+					name: 'Air conditioning', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Mini-refrigerator', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Private balcony (subject to availability)', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Upscale decor', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'WiFi access', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				}
+			]
+
+		}
+
+		// description of the room
+			description: "This deluxe studio offers serene tropical views of our surrounding gardens. Studio features quality furnishings and a contemporary kitchen and bathroom.",
+
+			// maximum number of guests that can stay in this accommodation
+			maxOccupancy: 3,
+
+			// 24 hours time. ex: 14:00
+			checkInTime: "16:00",
+			checkOutTime: "11:00",
+
+			// total number of beds in this accommodation
+			bedCount: "2",
+
+			bedType: "King and Sofa Bed OR Queen and Sofa Bed",
+
+			// total number of bathrooms in this accommodation (ex: 1 or 2.5, etc)
+			bathroomCount: "1",
+
+			// total number of rooms in this accommodation
+			roomCount: "",
+
+			// images of the room
+			images: [
+				{
+					caption: "Studio Garden View Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bedroom-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Kitchen", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-kitchen-1440x993-1-1030x710.jpg
+				{
+					caption: "Studio Garden View Deluxe Living Area", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-living-area-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Setting Area", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-seating-area-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bathroom-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Studio Garden View Deluxe Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-shower-1440x993-2-1030x710.jpg", // url
+				},
+				
+			],
+
+			// list of room amenities
+			roomAmenitiesArr: [
+				{
+					name: 'Air conditioning', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Mini-refrigerator', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Private balcony (subject to availability)', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Upscale decor', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'WiFi access', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				}
+			]
+
+		}
 	],
 
 	// list of restaurants at the hotel
