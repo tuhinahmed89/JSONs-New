@@ -24,19 +24,19 @@ const hotel = {
 	// the website of the hotel
 	// include 'https://' and any subdomain such as 'www' (if applicable)
 	// must not end with a '/'
-	homepage: "https://www.astonkaanapalishoresresort.com",
+	homepage: "https://www.astonmauikaanapalivillas.com",
 
 	// slogan/motto/tagline of the hotel
-	slogan: "An Unforgettable Experience",
+	slogan: "A modern resort with old Hawaii at heart",
 
 	// a brief description of the hotel
-	description: "Welcome to the gorgeous Kaanapali coast on West Maui, where the Aston Kaanapali Shores beachfront resort rests on 10 acres of white sand, tropical gardens, and flowing waterfalls. Our Kaanapali resort boasts the quintessential Hawaii experience.",
+	description: "Aston Maui Kaanapali Villas is set on 11 acres of exotic tropical gardens in the Kaanapali Resort area on one of the finest stretches of Kaanapali Beach.",
 
 	// if pets are allowed in the hotel or not
 	petsAllowedTrueFalse: "false",
 
 	// total number of rooms that are used as accommodations
-	totalRoomCount: "null",
+	totalRoomCount: "187",
 
 	// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
 	priceRange: "$$$",
@@ -45,10 +45,10 @@ const hotel = {
 	currenciesAccepted: ['USD'],
 
 	// array of accepted payment methods
-	paymentAccepted: ['Credit Card', 'Debit Card'],
+	paymentAccepted: ["Credit Cards Are Accepted"],
 
 	// array of languages spoken by the staff
-	availableLanguage: ['English', 'Filipino'],
+	availableLanguage: ["English"],
 
 	// based on 24 hours time. ex: 14:00
 	checkInTime: "16:00",
@@ -56,109 +56,85 @@ const hotel = {
 
 	// rating
 	rating: {
-		value: 4.3,
-		count: 2371
+		value: 4.4,
+		count: 1225
 	},
 
 	// contact
 	contact: {
 
 		// format: 1-234-567-8910
-		phone: "808-667-2211",
+		phone: "808-667-7791",
 
-		email: "res.aks@astonreservations.com"
+		email: "res.mkv@astonreservations.com"
 	},
 	
 	// location
 	location: {
-		street: "3445 Lower Honoapiilani Road",
+		street: "45 Kai Ala Drive",
 		city: "Lahaina",
 		state: "HI", // 2 letter state abbreviation
 		zip: "96761",
 		country: "USA",
-		lat: 20.9494, // latitude coordinates
-		long: -156.6891 // longitude coordinates
+		lat: 20.9343, // latitude coordinates
+		long: -156.6913 // longitude coordinates
 	},
 
 	// links
-	logoUrl: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/White-Copy.png",
+	logoUrl: "https://s40340.pcdn.co/wp-content/uploads/2016/08/MKV-logo_02.png",
 
 	// this is required - every hotel must have a copyright or privacy link
-	copyrightUrl: "https://www.astonkaanapalishoresresort.com/privacy-policy",
+	copyrightUrl: "https://www.astonmauikaanapalivillas.com/privacy-policy",
 
 	// social media URLs
 	// no '/' at the end of the URL
-	facebookUrl: "https://www.facebook.com/KaanapaliShores",
-	twitterUrl: "https://twitter.com/aquaaston",
-	instagramUrl: "https://www.instagram.com/aquaaston",
-	linkedinUrl: "https://www.linkedin.com/company/aston-maui-kaanapali-villas",
+	facebookUrl: "https://www.facebook.com/MauiKaanapaliVillas",
+	twitterUrl: "https://twitter.com/astonhotels",
+	instagramUrl: "https://www.instagram.com/mauikaanapalivillas",
+	linkedinUrl: "https://www.linkedin.com/company/aston-maui-kaanapali-villas/about",
 
 	// list of hotel amenities
 	amenitiesArr: [
 		
 		{
-			name: "Coffee kiosk",
-			url: "https://www.astonkaanapalishoresresort.com/amenities",
+			name: 'Swimming Pools',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2016/02/MKV-Pool-Aerial-495x400.jpg'
 		},
 		{
-			name: "Convenience store",
-			url: "https://www.astonkaanapalishoresresort.com/amenities",
+			name: 'Dining at the Castaway Café',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2021/05/castaway-front-entrance-845x684-1-495x400.jpg'
 		},
 		{
-			name: "Fitness center",
-			url: "https://www.astonkaanapalishoresresort.com/amenities",
+			name: 'Kaanapali Trolley',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2015/10/Kaanapali-Trolley-495x400.jpg'
 		},
 		{
-			name: "Gift & apparel shops",
-			url: "https://www.astonkaanapalishoresresort.com/amenities",
+			name: 'Beach Activities Center',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities/',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2016/02/K43A4789-495x400.jpg'
 		},
 		{
-			name: "Guest activities desk",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: 'Lobby Concierge by Pleasant Activities',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2016/02/K43A4789-495x400.jpg'
 		},
 		{
-			name: "Jet spas (2)",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: 'Fitness Center',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/Aston-Maui-Kaanapali-Villas-Fitness-Center-3_1440-495x400.jpg'
 		},
 		{
-			name: "Meeting rooms",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: 'Spa La Mer',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2022/03/spa-la-mer-495x400-1.jpg'
 		},
 		{
-			name: "On-site cultural experiences",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Outdoor barbecues",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Pickleball court",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Restaurant & bar",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Salon/spa",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Sauna",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Shuffleboard court",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Swimming pools (2)",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
-		},
-		{
-			name: "Wi-Fi Internet access throughout the hotel",
-			url: "https://www.astonkaanapalishoresresort.com/amenities/",
+			name: 'On-site Yoga Class and Water Aerobics',
+			url: 'https://www.astonmauikaanapalivillas.com/featured-amenities',
+			imageUrl: 'https://s40340.pcdn.co/wp-content/uploads/2021/09/In-House-Retreats-1-495x400.jpg'
 		}
 		
 	],
@@ -166,23 +142,29 @@ const hotel = {
 	// list of hotel images
 	imageArr: [
 		{
-		
-			caption: "Aston Kaanapali Shores Beach Oceanfront",
-			url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/230619_AKS_GW_PoolBeach-9-min-scaled.jpg"
+			caption: 'Set your watch to “Island Time”',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villas-Pool-View_5040x3360-1500x430-1.jpg',
 		},
 		{
-			caption: "Aston Kaanapali Shores Ocean View",
-			url: "http://www.astonkaanapalishoresresort.com/wp-content/uploads/2023/10/230619_AKS_GW_Rooms-8-min-min-scaled.jpg"
+			caption: 'Overhead view of Kaanapali Beach',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2016/01/Aston-Maui-Kaanapali-Villas_Aerial-2-1030x756.jpg',
 		},
 		{
-			caption: "Aston Kaanapali Shores Sky View of Pool",
-			url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/09/leisure-at-its-finest-min-scaled.jpeg"
+			caption: 'View of a rainbow and a sailboat from the beach',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2016/02/K43A4341-1030x687.jpg',
 		},
 		{
-			caption: "Aston Kaanapali Shores Hotel & Pool",
-			url: "http://www.astonkaanapalishoresresort.com/wp-content/uploads/2023/12/Aston-Kaanapali-Shores-Garden-Pool-1903x1281-1.jpg"
+			caption: 'The pool at Aston Maui Kaanapali Villas',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/Aston-Maui-Kaanapali-Villas-_Pool_5040x3360-1030x687.jpg',
+		},
+		{
+			caption: 'Kaanapali Beach',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2015/11/Homepage-Kaanapali-Beach.jpg',
+		},
+		{
+			caption: 'Serenity in Kaanapali',
+			url: 'https://s40340.pcdn.co/wp-content/uploads/2015/11/mkv_495x400-1.jpg',
 		}
-		
 	],
 
 	// list of rooms
@@ -197,13 +179,13 @@ const hotel = {
 			name: "Hotel Room",
 
 			// URL of this specific room
-			url: "https://www.astonkaanapalishoresresort.com/rooms-suites",
+			url: "https://www.astonmauikaanapalivillas.com/guest-rooms",
 
 			// URL from where the room can be booked (if applicable)
-			bookUrl: "https://be.synxis.com/?hotel=14892&level=hotel&locale=en-US&room=HR00&src=AKS.HR00.schema",
+			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=HR00&src=MKV.HR00.schema",
 
 			// description of the room
-			description: "Get cozy in one of our attractive hotel rooms with resort view. Resort view may include one or more views of mountains, courtyard, or neighboring resorts.",
+			description: "Our spacious hotel room offers the basic necessities for a comfortable place to unwind. Amenities include central air conditioning, a coffee maker, and mini-refrigerator.",
 
 			// maximum number of guests that can stay in this accommodation
 			maxOccupancy: 2,
@@ -215,7 +197,7 @@ const hotel = {
 			// total number of beds in this accommodation
 			bedCount: "1",
 
-			bedType: "Queen",
+			bedType: "King or Queen",
 
 			// total number of bathrooms in this accommodation (ex: 1 or 2.5, etc)
 			bathroomCount: "1",
@@ -226,41 +208,45 @@ const hotel = {
 			// images of the room
 			images: [
 				{
-					caption: "aston kaanapali shores hotel bedroom",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-bedroom-937-017-1440x960-1.jpeg"
+					caption: "Hotel Room", // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-rooms-standard-bedroom-1440x993-1-1030x710.jpg', // url
 				},
 				{
-					caption: "aston kaanapali shores hotel bathroom",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-bathroom-937-026-1440x960-1.jpeg"
+					caption: "Hotel Room Shower", // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg', // url
 				},
 				{
-
+					caption: "Hotel Room Shower", // string
+					url: 'https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg', // url
+				}
+				]
+				
 			// must be either 'Suite' or 'Room'
-			type: "Suite",
+			type: "HotelRoom",
 
 			// name of the room
-			name: "Junior Suite with Kitchen",
+			name: "Hotel Room Deluxe",
 
 			// URL of this specific room
-			url: "https://www.astonkaanapalishoresresort.com/rooms-suites",
+			url: "https://www.astonmauikaanapalivillas.com/guest-rooms",
 
 			// URL from where the room can be booked (if applicable)
-			bookUrl: "https://be.synxis.com/?hotel=14892&level=hotel&locale=en-US&room=STST&src=AKS.STST.schema",
+			bookUrl: "https://be.synxis.com/?hotel=14894&level=hotel&locale=en-US&room=0HDST&src=MKV.0HDST.schema",
 
 			// description of the room
-			description: "For a Kaanapali Shores condo to call your own, our spacious Junior Suite includes a full kitchen, sofa bed and private balcony.",
+			description: "This hotel room deluxe features upgraded décor and a contemporary bathroom. Amenities include central air conditioning, a coffee maker, and mini-refrigerator.",
 
 			// maximum number of guests that can stay in this accommodation
-			maxOccupancy: 3,
+			maxOccupancy: 2,
 
 			// 24 hours time. ex: 14:00
 			checkInTime: "16:00",
 			checkOutTime: "11:00",
 
 			// total number of beds in this accommodation
-			bedCount: "2",
+			bedCount: "1",
 
-			bedType: "Queen and Sofa Bed",
+			bedType: "King or Queen",
 
 			// total number of bathrooms in this accommodation (ex: 1 or 2.5, etc)
 			bathroomCount: "1",
@@ -271,24 +257,60 @@ const hotel = {
 			// images of the room
 			images: [
 				{
-					caption: "Junior Suite Room with Kitchen - Bedroom",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/junior-suite-with-kitchen-suite-min.jpeg"
+					caption: "Hotel Room Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-1440x993-1-1030x710.jpg", // url
 				},
 				{
-					caption: "Full Kitchen",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-jr-suite-kitchen-932-011-1440x960-2.jpeg"
+					caption: "Hotel Room Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-view-1440x993-1-1030x710.jpg", // url
 				},
 				{
-					caption: "Junior Suite Room with Kitchen - Bathroom",
-					url: "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-jr-suite-kitchen-932-011-1440x960-2.jpeg"
-				}
+					caption: "Hotel Room Deluxe Bedroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-refreshment-center-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Refreshment Center", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-refreshment-center-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Balcony", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-balcony-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Balcony View", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-balcony-view-1440x993-1-1030x710.jpg", // url
+				},
+				{
+					caption: "Hotel Room Deluxe Bathroom", // string
+					url: "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bathroom-1440x993-1-1030x710.jpg", // url
+				},
 			],
 
 			// list of room amenities
 			roomAmenitiesArr: [
 				{
-					name: "Integrative Health Plan",
-					url: "https://theranchlife.com/health-and-fitness-programs/functional-health-programs/#the-ranch",
+					name: 'Air conditioning', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Mini-refrigerator', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Private balcony (subject to availability)', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'Upgraded decor', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'contemporary bathroom', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
+				},
+				{
+					name: 'WiFi access', // string
+					url: 'https://www.astonmauikaanapalivillas.com/guest-rooms/', // url
 				}
 			]
 
