@@ -20,7 +20,7 @@ const hotel = {
 	name: "The Global Ambassador Hotel",
 
 	// MUST be either "Hotel" or "Resort"
-	type: "Hotel & Resort",
+	type: "Hotel",
 
 	// the website of the hotel
 	// include 'https://' and any subdomain such as 'www' (if applicable)
