@@ -16,10 +16,10 @@ const hotel = {
 
 	// the exact name of the hotel
 	// be sure to include any letter accents or special characters correctly
-	name: "The Global Ambassador Hotel",
+	name: "Aston at The Whaler on Kaanapali Beach",
 
 	// MUST be either "Hotel" or "Resort"
-	type: "Hotel",
+	type: "Resort",
 
 	// the website of the hotel
 	// include 'https://' and any subdomain such as 'www' (if applicable)
@@ -27,16 +27,16 @@ const hotel = {
 	homepage: "https://www.globalambassadorhotel.com",
 
 	// slogan/motto/tagline of the hotel
-	slogan: "Hotel • Restaurants • Wellness",
+	slogan: "A Tranquil Oasis on Kaanapali Beach",
 
 	// a brief description of the hotel
-	description: "Step into a haven of elegance, where cosmopolitan style meets warm service and vibrant culinary experiences. Welcome to The Global Ambassador, a luxury hotel carefully curated for the most discerning travelers and set against the stunning backdrop of Arizona’s Camelback Mountain.",
+	description: "Beachfront leisure at its finest, Aston at The Whaler on Kaanapali Beach offers the tropical escape that dreams are made of.",
 
 	// if pets are allowed in the hotel or not
-	petsAllowedTrueFalse: "true",
+	petsAllowedTrueFalse: "false",
 
 	// total number of rooms that are used as accommodations
-	totalRoomCount: "141",
+	totalRoomCount: "463",
 	priceRange: "$$$",
 
 	// array of accepted currencies
@@ -50,56 +50,111 @@ const hotel = {
 
 	// based on 24 hours time. ex: 14:00
 	checkInTime: "16:00",
-	checkOutTime: "00:00",
+	checkOutTime: "11:00",
 
 	// rating
 	rating: {
-		value: '4.4',
-		count: '104',
+		value: '4.6',
+		count: '865',
 	},
 
 	// contact
 	contact: {
 
 		// format: 1-234-567-8910
-		phone: "1-480-800-2211",
-
-		email: "sales@globalambassadorhotel.com"
+		phone: "1-244-008-002",
+		email: "info@astonhotels.com"
 	},
 	
 	// location
 	location: {
-		street: '4360 E Camelback Rd',
-		city: 'Phoenix',
-		state: 'AZ',
-		zip: '85018',
+		street: '2481 Kaanapali Parkway',
+		city: 'Lahaina',
+		state: 'HI',
+		zip: '96761',
 		country: 'USA',
-		lat: '33.5215', // latitude coordinates
-		long: '-111.9868' // longitude coordinates
+		lat: '21.3904', // latitude coordinates
+		long: '-156.8466' // longitude coordinates
 	},
 
 	// links
-	logoUrl: "https://www.globalambassadorhotel.com/images/layout/site-logo-780.png",
+	logoUrl: "http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-logo-blue.png",
 
 	// this is required - every hotel must have a copyright or privacy link
-	copyrightUrl: "https://www.globalambassadorhotel.com/privacy-policy",
+	copyrightUrl: "https://www.aquaaston.com/about-us/terms-of-use",
 
 	// social media URLs
-	facebookUrl: "https://www.facebook.com/TheGlobalAmbassadorHotel",
-	twitterUrl: "null",
-	instagramUrl: "https://www.instagram.com/theglobalambassadorhotel",
+	facebookUrl: "https://www.facebook.com/WhalerKaanapali",
+	twitterUrl: "https://twitter.com/aquaaston",
+	instagramUrl: "https://www.instagram.com/aquaaston",
 	linkedinUrl: "null",
 
 	// list of hotel amenities
 	amenitiesArr: [
 		
 		{
-			name: "The Spa",
-			url: "https://www.globalambassadorhotel.com/health-and-wellness/the-spa",
+			name: "Barbecue grills",
+			url: "https://www.astonwhaler.com/amenities/",
 		},
 		{
-			name: "Fitness & Pool",
-			url: "https://www.globalambassadorhotel.com/health-and-wellness/pool-and-fitness",
+			name: "Beach Concierge",
+			url: "https://www.astonwhaler.com/amenities/",
+		},
+		{
+			name: "Fitness center access",
+			url: "https://www.astonwhaler.com/amenities/",
+		},
+		{
+			name: "Laundry facilities",
+			url: "https://www.astonwhaler.com/amenities/",
+		},
+		{
+			name: "Pool",
+			url: "https://www.astonwhaler.com/amenities/",
+		},
+		{
+			name: 'Self-parking',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Tennis/pickleball courts and equipment',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Airline boarding pass printing',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'HD digital cable service with HBO',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Poolside and lobby refreshments',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Housekeeping service',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'In-room safe',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Security - 24 hours',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Sun deck',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Meeting room',
+			url: 'https://www.astonwhaler.com/amenities/',
+		},
+		{
+			name: 'Kaanapali Trolley shuttle to Kaanapali Resort area',
+			url: 'https://www.astonwhaler.com/amenities/',
 		}
 		
 	],
@@ -107,993 +162,1124 @@ const hotel = {
 	// list of hotel images
 	imageArr: [
 		{
-			caption: "Immersed in culture & culinary inpiration",
-			url: "https://www.globalambassadorhotel.com/images/content/dining/tiles/dine1.jpg"
+			caption: 'The Spirit of Aloha',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg',
 		},
 		{
-			caption: "Immersed in culture & culinary inpiration",
-			url: "https://www.globalambassadorhotel.com/images/content/dining/tiles/dine3.jpg"
+			caption: 'Your Home Away From Home',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/slide-home-4-1.jpg',
 		},
 		{
-			caption: "Immersed in culture & culinary inpiration",
-			url: "https://www.globalambassadorhotel.com/images/content/dining/tiles/dine2.jpg"
+			caption: 'Select Your Condo',
+			url: 'http://www.astonwhaler.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-exterior-aerial-2560x1440_rc-1.jpg',
 		},
 		{
-			caption: "Immersed in culture & culinary inpiration",
-			url: "https://www.globalambassadorhotel.com/images/content/dining/tiles/dine4.jpg"
+			caption: 'Elevate Your Experience',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/home-fullbleed-1.jpg',
 		},
 		{
-			caption: "Immersed in culture & culinary inpiration",
-			url: "https://www.globalambassadorhotel.com/images/content/dining/tiles/dine6.jpg"
+			caption: 'Camera Ready',
+			url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-firetable-008-scaled.jpg',
 		},
-		{
-			caption: "Immersed in culture & culinary inpiration",
-			url: "https://www.globalambassadorhotel.com/images/content/dining/tiles/dine5.jpg"
-		},
-		{
-			caption: "Inspiring the spirit of the traveler",
-			url: "https://www.globalambassadorhotel.com/images/content/homepagealtrow/Riding_TGA_Lifestyle-38.jpg?06941032605970812"
-		},
-		{
-			caption: "Rising to every occasion",
-			url: "https://www.globalambassadorhotel.com/images/content/homepagealtrow/Riding_TGA_OpenHouse-90.jpg?06488751440949685"
-		},
-		{
-			caption: "a new era of wellness begins here",
-			url: "https://www.globalambassadorhotel.com/images/content/homepagealtrow/3-br.jpg?03459780893368509"
-		},
-		{
-			caption: "our neighborhood",
-			url: "https://www.globalambassadorhotel.com/images/content/homepagealtrow/Riding_TGA_OpenHouse-155.jpg?006747441450546221"
-		}
-		
 	],
 
 	// list of rooms
 	roomsArr: [
 	
 		{
-			type: "GuestRoom",
-			name: "King",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Meticulous design and warm luxury are the hallmarks that create a haven of comfort and elegance. Featuring a comfort and elegance in our King Guest Room.",
-			maxOccupancy: "4",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
-			bathroomCount: "1",
-			roomCount: "",
-			
-			images: [
-				{
-					caption: "King",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/2-all-rooms.jpg.jpg?030961835650130665"
-				},
-				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
-				},
-				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
-				},
-				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
-			],
-			roomAmenitiesArr: [
-
-				// In Room dining
-				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
-				},
-			]
-		},
-		{
-			type: "GuestRoom",
-			name: "two queens",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Accept our warm welcome in the Two Queens Guest Room, with a charming Juliet balcony, writing desk, Waterworks bathroom fixtures and a curated collection of Maison Plage books. Designed for comfort and elegance, discover hand-selected art, a lavish in-room bar, Dyson Supersonic Hair Dryer, Frette bathrobe and Byredo Bal d’Afrique products.",
-			maxOccupancy: "4",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "2",
-			bedType: "Queen",
-			smokingBoolean: "false",
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Garden View', // string
+			url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.studios&room=STGV&nights=2&_gl=1*9n3rkk*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODM5MS4wLjAuMA..#_ga=2.257561736.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Soak up the aromatic magic of tropical garden views from this comfortable studio. Unit is one large space and features a fully equipped kitchen and private balcony.', // string
+			defaultPrice: '300', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Murphy Bed', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "two queens",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/_twoqueens-copy.jpg?06154714514645772"
+					caption: 'Studio Garden View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Bed-Living-Area-316-005-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: 'Studio Garden View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-BD-Living-Area-213-008-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: 'Studio Garden View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/62455141_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					caption: 'Studio Garden View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Balcony-316-011-scaled.jpg', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
+					caption: 'Studio Garden View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-View-scaled.jpg', // url
 				},
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Hair Dryer', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Coffee Maker', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Iron/Ironing Board', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Non-Smoking', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+			],
 		},
 		{
-			type: "GuestRoom",
-			name: "camelback king",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Soak up captivating views of Camelback Mountain from this room, featuring a stylish King bed, Juliet balcony, writing desk and Waterworks bathroom fixtures along with a collection of Maison Plage books and hand-selected art pieces. Enjoy the luxury of a Dyson Supersonic Hair Dryer, a sumptuous Frette bathrobe and Byredo Bal d’Afrique products.": "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Garden View Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.studios&room=STGVP&nights=2&_gl=1*1msuze2*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODM5MS4wLjAuMA..#_ga=2.257021064.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'This premium studio offers tropical garden views. Unit is one large space and features updated furnishings, a fully equipped designer kitchen, and private balcony.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Murphy Bed', // string
+			smokingBoolean: '', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "camelback king",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/2-all-rooms.jpg.jpg?06673277692883823"
+					caption: 'Studio Garden View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Premium-Bed-Living-Area-263-002-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: 'Studio Garden View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Premium-Living-Area-263-007-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: 'Studio Garden View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Premium-Kitchen-263-012-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					caption: 'Studio Garden View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Premium-BA-263-015-scaled.jpg', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
+					caption: 'Studio Garden View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-View-scaled.jpg', // url
 				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+				
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
-				},
-			]
-		},
-		{
-			type: "Suite",
-			name: "camelback two queens",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "A stunning room in one of the most beautiful hotels in Phoenix, this retreat features two queen beds, a private Juliet balcony overlooking Camelback Mountain, writing desk, Waterworks bathroom features and hand-selected art. You’ll find a Dyson Supersonic Hair Dryer, a Frette bathrobe, a collection of books by Maison Plage, Byredo Bal d’Afrique products.",
-			maxOccupancy: "4",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "2",
-			bedType: "Queen",
-			smokingBoolean: "false",
-			images: [
-				{
-					caption: "camelback two queens",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/_twoqueens-copy.jpg?09079908105073409"
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
 				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
 			],
-			roomAmenitiesArr: [
-
-				// In Room dining
-				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
-				},
-			]
 		},
 		{
-			type: "GuestRoom",
-			name: "camelback king with balcony",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Treat yourself to sweeping Camelback Mountain views from your outdoor patio. Thoughtfully designed, this premium room features hand-picked art pieces and a curated collection of Maison Plage books, a writing desk, lavish in-room bar and Waterworks bathroom features, as well as a Frette bathrobe, Byredo Bal d’Afrique products and Dyson Supersonic Hair Dryer.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Ocean View', // string
+			url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.studios&room=STOV&nights=2&_gl=1*1msuze2*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODM5MS4wLjAuMA..#_ga=2.257021064.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Enjoy beautiful views of the Pacific Ocean from this studio. Unit is one large space and features a fully equipped kitchen.', // string
+			defaultPrice: '350', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Murphy Bed', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "camelback king with balcony",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/2-all-rooms.jpg.jpg?008061366868527453"
+					caption: 'Studio Ocean View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-213-001-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: 'Studio Ocean View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Balcony-213-006-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: 'Studio Ocean View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/66918749_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: 'Studio Ocean View', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Bathroom-213-012-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "GuestRoom",
-			name: "pool view two queens",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "With two queen beds and a view over the Pink Dolphin Pool, this luxury hotel room features a lavish in-room bar, collection of Maison Plage books and hand-selected art. A Juliet balcony, writing desk and Waterworks bathroom fixtures are accompanied by a Dyson Supersonic Hair Dryer, Frette bathrobe and Byredo Bal d’Afrique products.",
-			maxOccupancy: "4",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "2",
-			bedType: "Queen",
-			smokingBoolean: "false",
+			type: 'HotelRoom', // string -> HotelRoom or Suite
+			name: 'Studio Ocean View Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.studios&room=STOVP&nights=2&_gl=1*zewnno*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODM5MS4wLjAuMA..#_ga=2.253885323.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Take in stunning ocean views from this upgraded studio. Unit features updated furnishings, a fully equipped kitchen with modern appliances, and private balcony.', // string
+			defaultPrice: '500', // number
+			maxOccupancy: '3', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King or Murphy Bed', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "pool view two queens",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/_twoqueens-copy.jpg?008202366152150486"
+					caption: 'Studio Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Premium-Living-Area-Bed-718-008-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: 'Studio Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Premium-Bed-718-005-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: 'Studio Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Premium-Kitchen-718-022-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: 'Studio Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Ocean-View-Premium-BA-718-024-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "pool view king",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/rooms",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Elevate your stay with a King bed and views of the gleaming Pink Dolphin Pool, alongside meticulously selected features. With a pretty Juliet balcony, writing desk, hand-picked art pieces and a wonderful in-room bar, sink into luxury with a Dyson Supersonic Hair Dryer, Frette bathrobe and Byredo Bal d’Afrique products.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "2",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '1-Bedroom Garden View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/1-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.1bedroom&room=1BG2&nights=2&_gl=1*yv89t7*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODc4Ni4wLjAuMA..#_ga=2.224441497.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Enjoy tropical garden views from this suite with one bedroom. Suite features one bathroom, a living area, a fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: true, // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "pool view king",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/2-all-rooms.jpg.jpg?08784981557966307"
+					caption: '1-Bedroom Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Garden-View-Living-Area-4000x2667-1-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '1-Bedroom Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Garden-View-BDRM-319-011-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '1-Bedroom Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1-Bedroom-1-Bath-Ocean-View-Living-Area-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					caption: '1-Bedroom Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-View-scaled.jpg', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '1-Bedroom Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-BA-4000x2667-1-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "petite camelback suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Discover a welcoming retreat that meets the highest standards of accessibility. The furnished outdoor patio offers Camelback Mountain views, there is a writing desk, open shower, double vanity and walk-in closet. This suite features hand-picked art and Maison Plage book collection, with an in-room bar, Dyson Supersonic Hair Dryer, and Frette bathrobe.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '1-Bedroom Ocean View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/1-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.1bedroom&room=1BOV&nights=2&_gl=1*16v3t2k*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODc4Ni4wLjAuMA..#_ga=2.165402812.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'This ocean view suite with one bedroom offers beautiful views of the Pacific Ocean. Suite features one bathroom, a living area, fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "petite camelback suite",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/_bedroom-copy.jpg?047211471303220853"
+					caption: '1-Bedroom Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Living-Area-459-008-1-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '1-Bedroom Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-BDRM-4000x2667-1-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '1-Bedroom Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Balcony-4000x2667-1-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '1-Bedroom Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-BA-4000x2667-1-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "petite suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Step into an inviting space, with a king bed, furnished outdoor patio, writing desk and shower. With a double vanity and walk-in closet, you’ll also enjoy design elements, including the hand-picked art and collection of Maison Plage books, and the lavish in-room bar, Dyson Supersonic Hair Dryer, and Frette bathrobe.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '1-Bedroom Ocean View Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/1-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.1bedroom&room=1BOVP&nights=2&_gl=1*f1dbb6*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODc4Ni4wLjAuMA..#_ga=2.189914024.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Relax with peaceful ocean views from this suite with one bedroom and a separate living area. Suite features one bathroom, updated furnishings, a fully equipped designer kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "petite suite",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/closet-copy.jpg?06915294156413945"
+					caption: '1-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/65560588_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '1-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-Living-Area-359-018-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '1-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-Kitchen-359-022-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '1-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-BA-359-006-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/1-bedrooms', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "studio suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Sophisticated with a welcoming ambience, this suite combines thoughtful art pieces and a charming patio. Along with the king bed, writing desk, walk-in closet, and dual vanities, there is an in-room bar and Waterworks bathroom fixtures, Byredo Bal d’Afrique products, a curated Maison Plage book collection, Dyson Supersonic Hair Dryer, and luxurious Frette bathrobe.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '1-Bedroom / 2-Bath Ocean View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/1-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.1bedroom&room=1BO2&nights=2&_gl=1*1dq3lol*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODc4Ni4wLjAuMA..#_ga=2.258543625.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Relax with peaceful ocean views from this suite with one bedroom and a separate living area. Suite features one bathroom, updated furnishings, a fully equipped designer kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "studio suite",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/_bedroom-petite.jpg?004689290704173432"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-Living-Area-874-005-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-BDRM-874-004-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/65605090_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-BA-874-023-scaled.jpg', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-Balcony3-874-036-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/65679378_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/66942812_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/66942814_4K-scaled.jpg', // url
 				},
 				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/66942826_4K-scaled.jpg', // url
 				},
+				{
+					caption: '1-Bedroom / 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/66942828_4K-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "camelback terrace suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Luxury meets incredible vistas in this sophisticated suite. Wake up to Camelback Mountain views from your king bed, enjoy the walk-in closet, freestanding bathtub and shower, double vanity and furnished patio. Hand-picked art and Maison Plage books add creative flair and there are Byredo Bal d’Afrique products, a Frette bathrobe and a Dyson Supersonic Hair Dryer.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '1 Bedroom / 2-Bath Ocean View Premium', // string
+			url: 'https://astonwhaler.com/rooms/1-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.1bedroom&room=1B2OVP&nights=2&_gl=1*1no1s2n*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODc4Ni4wLjAuMA..#_ga=2.258701321.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Enjoy this premium style one-bedroom suite with tranquil ocean views. Suite features updated furnishings, two bathrooms, a living area, fully equipped designer kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '4', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "camelback terrace suite",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/_BedroomTerrace.jpg?049487685816008975"
+					caption: '1 Bedroom / 2-Bath Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-Premium-1-Bedroom-2-Bath-Ocean-View-Living-Area-1-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '1 Bedroom / 2-Bath Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-Premium-Dining-Area-874-008-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '1 Bedroom / 2-Bath Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-Premium-BDRM-974-019-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '1 Bedroom / 2-Bath Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-Premium-BA-974-015-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "terrace suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "A luxurious suite that welcomes you into a haven of sophistication, this suite offers 800 square feet of perfection, with a king bed, walk-in closet, patio and freestanding bathtub and shower. With hand-picked artwork, Maison Plage books, you’ll also enjoy a Byredo Bal d’Afrique products, a Frette bathrobe and a Dyson Supersonic Hair Dryer.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '1-Bedroom / 2-Bath Oceanfront Suite Premium', // string
+			url: 'https://astonwhaler.com/rooms/1-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.1bedroom&room=1BOFP&nights=2&_gl=1*1u30zdh*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc2ODc4Ni4wLjAuMA..#_ga=2.156900152.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'This premium style one bedroom suite is stunning with breathtaking oceanfront views. Suite features updated furnishings, two bathrooms, living area, a fully equipped designer kitchen, and spacious private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '2', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '1', // number
+			bedType: 'King', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "terrace suite",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/bathroomterrace-copy_.jpg?08246895121505109"
+					caption: '1-Bedroom / 2-Bath Oceanfront Suite Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Oceanfront-PemiumvLiving-Area-and-View-3000x2000-1-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '1-Bedroom / 2-Bath Oceanfront Suite Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-Exterior-Beach-1-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
-				},
-				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '1-Bedroom / 2-Bath Oceanfront Suite Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Oceanfront-Kitchen-651-002-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "one bedroom camelback suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Wake up to spectacular views of the Camelback Mountain from your king bedroom. Enjoy the open living room with a powder room, walk-in closet, and furnished patio. Amenities also include a freestanding bathtub and shower, Byredo Bal d’Afrique products, a Frette bathrobe and a Dyson Supersonic Hair Dryer, along with Maison Plage books and hand-picked art pieces.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '2-Bedroom 2-Bath Garden View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.2bedroom&room=2BGV&nights=2&_gl=1*1v10ciu*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc3MDM3NC4wLjAuMA..#_ga=2.156900152.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Spend your downtime in our spacious two-bedroom suites with tropical garden views. Suite features two bathrooms, a living area, fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: 'King', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "one bedroom camelback suite",
-					url:"https://www.globalambassadorhotel.com/images/content/roomsinfo/_OneBedroom.jpg?04682971312589288"
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Living-Area-2-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Living-Area-1-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-2-BA-Garden-Bedroom-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
-				},
-				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '2-Bedroom 2-Bath Garden View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-Studio-Garden-View-Balcony-Tennis-Courts-316-022-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "one bedroom suite",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Envelop yourself in thoughtful design with this 900 square feet suite. The separate king bedroom and open living room with powder room create a home away from home with a freestanding bath and shower, walk-in closet and furnished patio. There is also an in-room bar and hand-picked art pieces, a luxurious Frette bathrobe and Byredo Bal d’Afrique products.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '2-Bedroom 2-Bath Ocean View Suite', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.2bedroom&room=2BOV&nights=2&_gl=1*1t53x0r*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc3MDM3NC4wLjAuMA..#_ga=2.152096826.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'Spend your downtime in our spacious two-bedroom suites with tropical garden views. Suite features two bathrooms, a living area, fully equipped kitchen, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2', // number
+			bedType: '2 King + Sofa Bed', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "one bedroom suite",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/livingroom-copy.jpg?03679424615432654"
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Living-Area-873-004-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Balcony2-873-018-1-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Master-BDRM-873-009-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Guest-Room-873-012-1-scaled.jpg', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '2-Bedroom 2-Bath Ocean View Suite', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-BA-874-023-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 		{
-			type: "Suite",
-			name: "Presidential",
-			url: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			bookUrl: "https://www.globalambassadorhotel.com/rooms-and-suites/suites",
-			tourUrl: "",
-			petsAllowedTrueOrFalse: "true",
-			description: "Expanding over 2,000 feet, this sumptuous suite offers unforgettable views of Camelback Mountain and the Phoenix Mountain Preserve. It comes with two furnished patios, a full bar, dining room for entertaining, separate bedroom, powder room and a butler’s pantry. This is where lavish comfort meets effortless sophistication, with the option of connecting a Two Queens Suite.",
-			maxOccupancy: "2",
-			checkInTime: "16:00",
-			checkOutTime: "00:00",
-			bedCount: "1",
-			bedType: "King",
-			smokingBoolean: "false",
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '2-Bedroom Ocean View Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.2bedroom&room=2BOVP&nights=2&_gl=1*1t53x0r*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc3MDM3NC4wLjAuMA..#_ga=2.152096826.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'This premium suite offers maximum space plus beautiful ocean views. Suite features updated furnishings, a fully equipped kitchen with modern appliances, and private balcony.', // string
+			defaultPrice: '600', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2 or 3', // number
+			bedType: 'King, 2 Queens, and Sofa Bed OR 2 Kings and Sofa Bed', // string
+			smokingBoolean: 'False', // boolean
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
 				{
-					caption: "Presidential",
-					url: "https://www.globalambassadorhotel.com/images/content/roomsinfo/2-all-rooms.jpg.jpg?022089862526375859"
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Premium-Living-Area-1173-005-scaled.jpg', // url
 				},
 				{
-					caption: "Bathroom Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Bathroom.jpg?02640859933464863"
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Premium-Master-BDRM-1173-007-scaled.jpg', // url
 				},
 				{
-					caption: "Mirror",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Mirror.jpg?06630503560621452"
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Ocean-View-Balcony2-873-018-1-scaled.jpg', // url
 				},
 				{
-					caption: "Room bed",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-bed.jpg?006182985991910539"
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-Kitchen-359-022-scaled.jpg', // url
 				},
 				{
-					caption: "Rug",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-rug.jpg?08153653035212307"
-				},
-				{
-					caption: "Bathroom Counter",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/table-decorations.jpg?0614022352133339"
-				},
-				{
-					caption: "Vanity",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/Vanity.jpg?035000004284384745"
-				},
-				{
-					caption: "Room Chair",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-chair.jpeg?05178901512919472"
-				},
-				{
-					caption: "Room Clock",
-					url: "https://www.globalambassadorhotel.com/images/content/photogallery/room-clock.jpeg?04168353658088044"
-				},
+					caption: '2-Bedroom Ocean View Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-1BA-Ocean-View-Premium-BA-359-006-scaled.jpg', // url
+				}
 			],
 			roomAmenitiesArr: [
-
-				// In Room dining
 				{
-					name: "in-room dining",
-					url: "https://www.globalambassadorhotel.com/rooms-and-suites/in-room-dining",
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
 				},
-			]
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
+		},
+		{
+			type: 'suite', // string -> HotelRoom or Suite
+			name: '2-Bedroom Oceanfront', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.2bedroom&room=2BOF&nights=2&_gl=1*1t53x0r*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc3MDM3NC4wLjAuMA..#_ga=2.152096826.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'TIndulge with picturesque oceanfront views of the Pacific and a large wraparound balcony to soak it all up. Suite features two bedrooms, two bathrooms, a living area, and a fully equipped kitchen.'
+			defaultPrice: '', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2 or 3', // number
+			bedType: 'King, 2 Queens, and Sofa Bed OR 2 Kings and Sofa Bed', // string
+			smokingBoolean: 'False', // boolean
+			bathroomCount: "1",
+			roomCount: "",
+			images: [
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-Oceanfront-Living-Area-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/Aston-at-The-Whaler-on-Kaanapali-Beach-Exterior-Beach-1-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Oceanfront-Kitchen-651-002-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-Oceanfront-Master-Bedroom-873-009-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2-Bedroom-Oceanfront-Guest-Room-873-012-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-1BDRM-2BA-Ocean-View-BA-874-023-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Upgraded Furnishing and Appliances', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
+		},
+		{
+			type: 'Suite', // string -> HotelRoom or Suite
+			name: '2-Bedroom Oceanfront Premium', // string
+			url: 'https://www.astonwhaler.com/rooms/2-bedrooms/', // url
+			bookUrl: 'https://be.synxis.com/?hotel=14900&locale=en-US&level=hotel&src=wha.rooms.2bedroom&room=2BOFP&nights=2&_gl=1*13o9nox*_ga*MjA0MTI0ODE1Mi4xNzEwNjEyNjYy*_ga_KLM44Y6YE9*MTcxMDc2ODMxMy43LjEuMTcxMDc3MDM3NC4wLjAuMA..#_ga=2.257677448.2091020174.1710701117-2041248152.1710612662', // url
+			tourUrl: '', // url
+			petsAllowedTrueOrFalse: 'False', // boolean
+			description: 'What dream vacations are made of, this is the best suite in the house. Enjoy serene oceanfront views of the Pacific and a large wraparound balcony. Suite features two bedrooms, two bathrooms, updated furnishings, a living area, and fully equipped designer kitchen.', // string
+			defaultPrice: '', // number
+			maxOccupancy: '6', // number
+			checkInTime: '16:00', // datetime
+			checkOutTime: '11:00', // datetime
+			bedCount: '2 or 3', // number
+			bedType: 'King, Queen, and Sofa Bed OR King, 2 Doubles, and Sofa Bed OR King, 2 Queens, and Sofa Bed', // string
+			smokingBoolean: 'False', // boolean
+			bathroomCount: "1",
+			roomCount: "",
+			images: [
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Living-Area-452-006-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Kitchen-452-009-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/09/aston-at-the-whaler-kaanapali-beach-2BDR-2B-ocean-front-premium-1440x1050-1.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-MSTR-BDRM-452-026-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-MSTR-BA-452-027-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Guest-BDRM-452-031-scaled.jpg', // url
+				},
+				{
+					caption: '2-Bedroom Oceanfront Premium', // string
+					url: 'http://s40583.p631.sites.pressdns.com/wp-content/uploads/2022/04/Aston-at-The-Whaler-on-Kaanapali-Beach-2BDRM-2BA-Oceanfront-Premium-Guest-BA-452-017-scaled.jpg', // url
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: 'Central Air Conditioning', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Full Kitchen with Microwave and Dishwasher', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'HD Cable TV with DVR', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'In-room Safe', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Laundry Facilities on every floor (complimentary)', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'Private Balcony', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				},
+				{
+					name: 'WiFi Access', // string
+					url: 'https://www.astonwhaler.com/rooms/studios-rooms/', // url
+				}
+			],
 		},
 	],
 
@@ -1102,33 +1288,17 @@ const hotel = {
 		
 		{
 			
-			name: "Le Âme",
-			url: "https://www.globalambassadorhotel.com/restaurants/leame",
-			description: "Welcome to Le Âme, the most elegant steakhouse nestled in the soul of The Global Ambassador. Infused with romantic whimsy, you’ll discover beloved French fare, handwritten daily specials and a familiar warmth that transports you to the heart of France. Because we’ll always have Paris.",
+			name: "Teppan-yaki Dan",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Japanese place at the Sheraton Maui Resort with energetic table-side chefs preparing teppanyaki.",
 
 			// the URL of the menu (can be a PDF if applicable)
-			menu: [
-				{
-					name: "Breakfast"
-					url: "https://www.globalambassadorhotel.com/pdf/LeAmeBreakfast_0224.pdf"
-				},
-				{
-					name: "Lunch"
-					url: "https://www.globalambassadorhotel.com/pdf/LeAmeLunch_0324.pdf"
-				},
-				{
-					name: "Brunch"
-					url: "https://www.globalambassadorhotel.com/pdf/LeAmeBrunch_0324.pdf"
-				},
-				{
-					name: "Dinner"
-					url: "https://www.globalambassadorhotel.com/pdf/LeAmeDinner_0324.pdf"
-				},
-				{
-					name: "Dessert"
-					url: "https://www.globalambassadorhotel.com/pdf/LeAmeDessert_0324.pdf"
-				},
-				]
+			  menu: [
+						{
+							name: "Menu"
+							url: "http://places.singleplatform.com/dan-teppan-yaki/menu?ref=google"
+						},
+					]
 
 			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
 			priceRange: "$$$",
@@ -1136,24 +1306,24 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "sales@globalambassadorhotel.com"
+				phone: "1-808-661-0031", // format: x-xxx-xxx-xxxx
+				email: "null"
 				
 			},
 			
 			/ location
 			location: {
-				street: "4360 E Camelback Rd",
-				city: "Phoenix",
-				state: "AZ", // 2 letter state code
-				zip: "85018",
+				street: "2605 Kaanapali Pkwy",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
 				country: "USA",
 			},
 			
 			// rating
 			rating: {
-				value: '4.7',
-				count: '103',
+				value: '4',
+				count: '47',
 			},
 
 			// openingHours
@@ -1163,15 +1333,15 @@ const hotel = {
 		},
 		{
 			
-			name: "Le Market",
-			url: "https://www.globalambassadorhotel.com/restaurants/leame",
-			description: "Start your day with artisanal coffee and buttery pastries and soak up the pedestrian energy of a Parisian bakery and bistro. Enjoy long lunches and savour curated wine and fromage pairings. Welcome to Le Market, your chic Parisian café at our beautiful hotel in Phoenix.",
+			name: "Star Noodle",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Star noodle first opened its doors in february 2010, offering up fresh noodles, sake cocktails and asian-inspired share plates. Originally located off the beaten track in the lahaina industrial park, the maui restaurant created a buzz with local residents and island guests who flocked to sample its unique flavors and family-style dining. Now into its 12th year of operation, star noodle continues to be one of maui’s most popular eateries. Relocated to its new front street location in november 2020, our guests now enjoy the same great and innovative food paired with amazing ocean views. ",
 
 			// the URL of the menu (can be a PDF if applicable)
 			menu: [
 				{
-					name: "Breakfast & Lunch"
-					url: "https://www.globalambassadorhotel.com/pdf/LeMarket_0224.pdf"
+					name: "Menu"
+					url: "https://static1.squarespace.com/static/5ee99c6de2700714f78d9391/t/64d014ce4c0ac125cd514af7/1691358415148/08032023+Star+Menu.pdf"
 				},
 				]
 
@@ -1181,24 +1351,24 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "sales@globalambassadorhotel.com"
+				phone: "1-808-667-5400", // format: x-xxx-xxx-xxxx
+				email: "contact@starnoodle.com"
 				
 			},
 			
 			// location
 			location: {
-				street: "4360 E Camelback Rd",
-				city: "Phoenix",
-				state: "AZ", // 2 letter state code
-				zip: "85018",
+				street: "1285 Front St",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
 				country: "USA",
 			},
 			
 			// rating
 			rating: {
-				value: '5.0',
-				count: '1',
+				value: '4.4',
+				count: '3481',
 			},
 
 			// openingHours
@@ -1208,25 +1378,16 @@ const hotel = {
 		}
 		{
 			
-			name: "théa",
-			url: "https://www.globalambassadorhotel.com/restaurants/thea",
-			description: "Destined to become the most desirable rooftop restaurant in the West. With sweeping views of Camelback Mountain, at théa you’ll soak up sunset vistas of the burnished Arizona landscapes, savor sun-blushed Mediterranean flavors and indulge in handcrafted cocktails. From Turkey to Greece, Egypt to Spain, discover vibrant mezze platters along with one of the largest rosé collections in the United States. Expect the unexpected at this unique restaurant in Phoenix.",
+			name: "Son'z Steakhouse",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Our steaks are regularly named the best of Maui restaurants by our guests and the readers of Maui Nō Ka Oi Magazine. We serve only 100% USDA-certiﬁed Prime beef, sourced from the plains of the Midwest. Our suppliers go above and beyond to meet the USDA requirements to be considered “all-natural,” creating minimally processed cuts of meat that are free of all additives and preservatives. Because we don’t just care about where you eat, we care about what you eat.",
 
 			// the URL of the menu (can be a PDF if applicable)
 			menu: [
 				{
-					name: "Dinner"
-					url: "https://www.globalambassadorhotel.com/pdf/theaDinner_02_04.pdf"
+					name: "Food Menu"
+					url: "https://www.sonzsteakhouse.com/food-menu/"
 				},
-				{
-					name: "Dessert"
-					url: "https://www.globalambassadorhotel.com/pdf/theaDessert_0224.pdf"
-				},
-				{
-					name: "Brunch"
-					url: "https://www.globalambassadorhotel.com/pdf/theaBrunch_02_24.pdf"
-				},
-				
 				]
 
 			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
@@ -1235,25 +1396,25 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "sales@globalambassadorhotel.com"
+				phone: "1-808-667-4506", // format: x-xxx-xxx-xxxx
+				email: "sonzmaui@hawaii.rr.com"
 				
 			},
 			
 			// location
 			location: {
-				street: "4360 E Camelback Rd",
-				city: "Phoenix",
-				state: "AZ", // 2 letter state code
-				zip: "85018",
-				country: "USA" ,  
+				street: "200 Nohea Kai Dr",
+				city: "Kaanapali",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
 
 			},
 			
 			// rating
 			rating: {
-				value: '4.5',
-				count: '43',
+				value: '4',
+				count: '384',
 			},
 
 			// openingHours
@@ -1263,20 +1424,32 @@ const hotel = {
 		},
 		{
 			
-			name: "Pink Dolphin",
-			url: "https://www.globalambassadorhotel.com/restaurants/pink-dolphin",
-			description: "In the laid-back, whimsical surrounds of Pink Dolphin, discover a sparkling menu of Mexican and Peruvian cuisine poolside. Think fresh pressed juices, authentic cocktails and margaritas paired with rich Peruvian ceviche and unforgettable Mexican mariscos at one of the coolest hotels in Phoenix. Feeling inspired? Opt for the Skinny Dip, a pitcher of skinny margaritas accompanied by fresh guacamole.",
+			name: "Leilani’s on the Beach",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Beachside eatery known for its seafood-driven menu, tropical drinks & family-friendly vibe.",
 
 			// the URL of the menu (can be a PDF if applicable)
 			menu: [
 				{
-					name: "All Day"
-					url: "https://www.globalambassadorhotel.com/pdf/PinkDolphin_0224.pdf"
+					name: "Beach Bar"
+					url: "https://www.leilanis.com/wp-content/uploads/2023/11/23_TS_L_VinylMenu_BeachBar_NOV16_R2.pdf"
 				},
 				{
-					name: "Cabana"
-					url: "https://www.globalambassadorhotel.com/pdf/PinkDolphin_Cabana_0224.pdf"
+					name: "Dinner"
+					url: "https://www.leilanis.com/wp-content/uploads/2023/11/23_TS_L_VinylMenu_Dinner_NOV16_R3.pdf"
 				},
+				{
+					name: "Keiki Menu"
+					url: "https://www.leilanis.com/wp-content/uploads/2024/01/23_HI-Keiki-Menu-Page-Only_DEC22.pdf"
+				},
+				{
+					name: "Taco Tuesday"
+					url: "https://www.leilanis.com/wp-content/uploads/2023/10/23_TSR_LM_Hotislandnights_Taconight_OCT25.pdf"
+				},
+				{
+					name: "Burger & Beer Wednesday"
+					url: "https://www.leilanis.com/wp-content/uploads/2023/11/23_TSR_LM_Menus_BurgerandBeerWednesday_NOV21.pdf"
+				}
 			]
 
 			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
@@ -1285,25 +1458,25 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "sales@globalambassadorhotel.com"
+				phone: "1-808-661-4495", // format: x-xxx-xxx-xxxx
+				email: "null"
 				
 			},
 			
 			// location
 			location: {
-				street: "4360 E Camelback Rd",
-				city: "Phoenix",
-				state: "AZ", // 2 letter state code
-				zip: "85018",
-				country: "USA" ,    
+				street: "2435 Kaanapali Pkwy",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
 
 			},
 			
 			// rating
 			rating: {
-				value: '5',
-				count: '4',
+				value: '4.5',
+				count: '3073',
 			},
 
 			// openingHours
@@ -1314,18 +1487,18 @@ const hotel = {
 		
 		{
 			
-			name: "Lobby Bar",
-			url: "https://www.globalambassadorhotel.com/restaurants/lobby-bar",
-			description: "Take it old-school in the plush surrounds of the Lobby Bar. Savor a handcrafted cocktail by expert bartenders, discover old favorites with a delightfully different twist, and tap your feet as you sink into a cozy armchair. Whether joining for an evening with a silky jazz trio or for an artist-in-residency night, you’ll experience the best live music in a haven of good taste at our luxury Phoenix hotel.",
+			name: "Kimo’s Maui",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Relaxed seafood spot with harbor views features local seafood, prime rib & famous Hula Pie dessert.",
 
 			// the URL of the menu (can be a PDF if applicable)
-	menuArr [
-				{
-					name: "Lobby Bar"
-					url: "https://www.globalambassadorhotel.com/pdf/LobbyBar_0324.pdf"
-				},
+			menu:	[
+						{
+							name: "Lobby Bar"
+							url: "https://www.globalambassadorhotel.com/pdf/LobbyBar_0324.pdf"
+						},
 				
-			]
+					]
 
 			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
 			priceRange: "$$$",
@@ -1333,25 +1506,25 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "sales@globalambassadorhotel.com"
+				phone: "1-808-661-4811", // format: x-xxx-xxx-xxxx
+				email: "info@kimosmaui.com"
 				
 			},
 			
 			// location
 			location: {
-				street: "4360 E Camelback Rd",
-				city: "Phoenix",
-				state: "AZ", // 2 letter state code
-				zip: "85018",
-				country: "USA" ,    
+				street: "845 Front St a",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
 
 			},
 			
 			// rating
 			rating: {
-				value: ,
-				count: ,
+				value: "4.5",
+				count: "4698",
 			},
 
 			// openingHours
@@ -1361,18 +1534,38 @@ const hotel = {
 		},
 		{
 			
-			name: "Lobby Bar",
-			url: "https://www.globalambassadorhotel.com/restaurants/lobby-bar",
-			description: "Take it old-school in the plush surrounds of the Lobby Bar. Savor a handcrafted cocktail by expert bartenders, discover old favorites with a delightfully different twist, and tap your feet as you sink into a cozy armchair. Whether joining for an evening with a silky jazz trio or for an artist-in-residency night, you’ll experience the best live music in a haven of good taste at our luxury Phoenix hotel.",
+			name: "Duke’s Beach House Maui",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Honua Kai Resort's open-air beach eatery offers island menus, surfer decor, tiki torches & vistas.",
 
 			// the URL of the menu (can be a PDF if applicable)
-	menuArr [
-				{
-					name: "Lobby Bar"
-					url: "https://www.globalambassadorhotel.com/pdf/LobbyBar_0324.pdf"
-				},
+			menu: 	[
+						{
+							name: "Breakfast"
+							url: "https://www.dukesmaui.com/wp-content/uploads/2023/09/23_TS_DBHM_Menu_Breakfast_SEPT21.pdf"
+						},
+						{
+							name: "Lunch"
+							url: "https://www.dukesmaui.com/wp-content/uploads/2024/02/24_TS_DBHM_Vinyl-Lunch_FNL_JAN16-1.pdf"
+						},
+						{
+							name: "Barefoot Bar"
+							url: "https://www.dukesmaui.com/wp-content/uploads/2024/03/23_TS_DBHM_Ohia-Bar_Reopening_AUG31.pdf"
+						},
+						{
+							name: "Dinner"
+							url: "https://www.dukesmaui.com/wp-content/uploads/2024/02/24_TS_DBHM_Vinyl-Dinner_FNL_JAN16-1.pdf"
+						},
+						{
+							name: "Pool Menu"
+							url: "https://www.dukesmaui.com/wp-content/uploads/2024/03/24_TS_DBHM_Menu_Pool_5.5x9_MAR12_MeaEdit.pdf"
+						},
+						{
+							name: "Keiki Menu"
+							url: "https://www.dukesmaui.com/wp-content/uploads/2024/01/23_HI-Keiki-Menu-Page-Only_DEC22.pdf"
+						},
 				
-			]
+					]
 
 			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
 			priceRange: "$$$",
@@ -1380,25 +1573,134 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "sales@globalambassadorhotel.com"
+				phone: "1-808-662-2900", // format: x-xxx-xxx-xxxx
+				email: "kc@tsrestaurants.com"
 				
 			},
 			
 			// location
 			location: {
-				street: "4360 E Camelback Rd",
-				city: "Phoenix",
-				state: "AZ", // 2 letter state code
-				zip: "85018",
-				country: "USA" ,    
+				street: "130 Kai Malina Pkwy",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,  
 
 			},
 			
 			// rating
 			rating: {
-				value: ,
-				count: ,
+				value: '4.4' ,
+				count: '4333',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		},
+		{
+			
+			name: "Hula Grill Kaanapali ",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Beachside eatery & sandy hub for pupu, fish tacos, tropical drinks, live music & people-watching.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Brunch"
+							url: "https://www.hulagrillkaanapali.com/wp-content/uploads/2024/01/23_TS_HGK_Menu_Vinyl_Brunch_NOV22_NoCB.pdf"
+						},
+						{
+							name: "Lunch"
+							url: "https://www.hulagrillkaanapali.com/wp-content/uploads/2024/01/23_TS_HGK_Menu_Vinyl_Lunch_NOV22_NoCB.pdf"
+						},
+						{
+							name: "Dinner"
+							url: "https://www.hulagrillkaanapali.com/wp-content/uploads/2024/01/23_TS_HGK_Menu_Vinyl_Dinner_NOV22.pdf"
+						},
+						{
+							name: "Barefoot Bar"
+							url: "https://www.hulagrillkaanapali.com/wp-content/uploads/2024/01/23_TS_HGK_Menu_Vinyl_Barefoot-Bar_NOV22_NOCB.pd"
+						},
+						{
+							name: "Keiki Menu"
+							url: "https://www.hulagrillkaanapali.com/wp-content/uploads/2024/01/23_HI-Keiki-Menu-Page-Only_DEC22.pdf"
+						}
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-667-6636", // format: x-xxx-xxx-xxxx
+				email: "kc@tsrestaurants.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "2435 Kaanapali Pkwy",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.4' ,
+				count: '4155',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		},
+		
+		{
+			
+			name: "Honu Oceanside",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Honu Oceanside delivers the finest seafood and spirits to match our world class ocean view with fresh, fun and modern flare. Let us WOW you with our tide to table menu, exclusive wine list, craft cocktails, stunning scenery and Aloha.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Menu"
+							url: "https://www.honumaui.com/menu"
+						}
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-667-9390", // format: x-xxx-xxx-xxxx
+				email: "null"
+				
+			},
+			
+			// location
+			location: {
+				street: "1295 Front St",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.6' ,
+				count: '1279',
 			},
 
 			// openingHours
@@ -1406,6 +1708,53 @@ const hotel = {
 			servesCuisine: []
 			
 		}
+		{
+			
+			name: "Japengo",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Enjoy Asian cuisine infused with island flavors. Located at Hyatt Regency Maui Resort & Spa with stunning views of the ocean, the restaurant offers an open-air patio seating and menu of seafood, steak and sushi.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Menus"
+							url: "https://qrcodes.pro/Or6sfE"
+						}
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-667-4909", // format: x-xxx-xxx-xxxx
+				email: "null"
+				
+			},
+			
+			// location
+			location: {
+				street: "200 Nohea Kai Dr",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.3' ,
+				count: '744',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		
 	],
 
 	// list of spas at the hotel
@@ -1415,6 +1764,420 @@ const hotel = {
 			name: "The Spa",
 			url: "https://www.globalambassadorhotel.com/health-and-wellness/the-spa",
 			description: "Embark on a new era of wellness. Your rejuvenation starts now, inspired by a combination of science and luxury to restore balance to your mind, body and soul. From refreshing facials to massages and therapy regimens, trust us to help you recover balance with our luxury spa treatments. ",
+		}
+		{
+			
+			name: "Japengo",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Enjoy Asian cuisine infused with island flavors. Located at Hyatt Regency Maui Resort & Spa with stunning views of the ocean, the restaurant offers an open-air patio seating and menu of seafood, steak and sushi.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Menus"
+							url: "https://qrcodes.pro/Or6sfE"
+						}
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-667-4909", // format: x-xxx-xxx-xxxx
+				email: "null"
+				
+			},
+			
+			// location
+			location: {
+				street: "200 Nohea Kai Dr",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.3' ,
+				count: '744',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		{
+			
+			name: "The Pour House Italian Kitchen and Wine Bar",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "At The Pour House, we serve delicious, authentic Italian food prepared with fresh, locally-sourced ingredients. Our full bar serves cocktails, domestic and imported beers, and global wines. We offer indoor and outdoor dine-in service, along with takeout. We also maintain strict sanitizing procedures within our restaurant, and in between guests, to ensure your safety and ours. Whether you’re out for date night, celebrating a special occasion, or simply wanting to share a great meal with friends and family, we’ll strive to make The Pour House one of your favorite restaurants on Maui. **We accept cash, Visa/MasterCard/Discover (no AMEX or Apple Pay)",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "the pour house greatest hits menu"
+							url: "https://qr.imenupro.com/n3d-4e"
+						},
+						{
+							name: "the pour house classics menu"
+							url: "https://qr.imenupro.com/n3d-4f"
+						},
+						{
+							name: "the pour house kids menu"
+							url: "https://qr.imenupro.com/n3d-4g"
+						},
+						{
+							name: "Wine list"
+							url: "https://qr.imenupro.com/n3d-4c"
+						},
+						{
+							name: "Party of 8-16 Menu"
+							url: "https://qr.imenupro.com/n3d-4a"
+						},
+						{
+							name: "Private Events"
+							url: "https://www.thepourhousekapalua.com/copy-of-coming-soon"
+						}
+						
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-214-5296", // format: x-xxx-xxx-xxxx
+				email: "jgermani@aol.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "700 Office Rd",
+				city: "Kapalua",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.2' ,
+				count: '358',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		{
+			
+			name: "Taverna Maui",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Enjoy views of Kahālāwai, the West Maui mountains, outside on our lanai or inside our open-air Urban Drinks | Italian eats restaurant in the heart of Kapalua. Chef Roger Stettler brings his mother’s recipes to life in our a la carte Italian menu using only the highest quality ingredients found on Maui. Taverna won Best New Restaurant (GOLD), Best Bar (GOLD), Best Italian (SILVER) Maui No Ka 'Oi Magazine Awards 2017 & 2018. Best Italian (GOLD) and Best Cocktails (GOLD) at the Maui No Ka 'Oi Magazine Ai'pono Awards 2019.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Lunch"
+							url: "https://www.tavernamaui.com/menu"
+						},
+						{
+							name: "Dinner"
+							url: "https://www.tavernamaui.com/menu"
+						},
+						{
+							name: "At the bar"
+							url: "https://www.tavernamaui.com/menu"
+						},
+						{
+							name: "Dolci"
+							url: "https://www.tavernamaui.com/menu"
+						}
+						
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-667-2426", // format: x-xxx-xxx-xxxx
+				email: "info@tavernamaui.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "2000 Village Rd",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.2' ,
+				count: '689',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		{
+			
+			name: "The Plantation House",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Found on the Fairways of Kapalua's Plantation Golf Course, The Plantation House features casual elegance, breathtaking views and island inspired cuisine.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Dinner"
+							url: "https://www.theplantationhouse.com/menu/"
+						},
+						{
+							name: "Brunch & Lunch"
+							url: "https://www.theplantationhouse.com/menu/"
+						}
+						
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-669-6299", // format: x-xxx-xxx-xxxx
+				email: "social@dinecrg.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "2000 Plantation Club Dr",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.6' ,
+				count: '1418',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		{
+			
+			name: "Merriman's Kapalua",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Dine at the most breathtaking oceanfront setting in Kapalua Resort. Peter Merriman Chef/Restaurateur has brought his unique style of Hawaii Regional Cuisine to Maui. A pioneer in the “Farm to Table” concept, Peter serves only the freshest products, at least 90% of which are locally grown or caught, using only sustainable methods. Our aloha friendly staff will ensure that you have an extraordinary dining experience. The Ocean Front Point opens at 3pm for drinks and options for a pupu. Dinner reservations can be made from 4pm to 8:30pm.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Dinner Menu"
+							url: "https://www.merrimanshawaii.com/kapalua/dinner-menu"
+						},
+						{
+							name: "Wine List"
+							url: "https://www.merrimanshawaii.com/kapalua/wine-list"
+						},
+						{
+							name: "Beverage Menu"
+							url: "https://www.merrimanshawaii.com/kapalua/bar-menu/"
+						},
+						{
+							name: "Keiki Menu"
+							url: "https://www.merrimanshawaii.com/kapalua/keiki-menu"
+						},
+						{
+							name: "Dessert"
+							url: "https://www.merrimanshawaii.com/kapalua/dessert-menu"
+						},
+						{
+							name: "Point Menu"
+							url: "https://www.merrimanshawaii.com/kapalua/pointmenu"
+						},
+						
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-669-6400", // format: x-xxx-xxx-xxxx
+				email: "reservations@merrimanshawaii.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "1 Bay Club Pl",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.7' ,
+				count: '2141',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		{
+			
+			name: "Sea House Restaurant",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Sea House Restaurant at Napili Kai Beach Resort offers open-air dining and delicious sea-to-table cuisine at its oceanfront location on gorgeous Napili Bay on the island of Maui, Hawaii. Under the direction of Executive Chef Alex Stanislaw, the Sea House serves gourmet takes on classic dishes infused with island-inspired flavors and locally sourced ingredients. Breakfast favorites include the Molokai Sweet Potato Frittata, Haleakala Pancake, and Homemade Macadamia Nut Cinnamon Roll with cream cheese icing. Other signature dishes include the Macadamia Nut-Crusted Mahi Mahi, Poke Nachos, and “60 Second” Ceviche.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Breakfast Menu"
+							url: "https://www.napilikai.com/wp-content/uploads/12.15.23-Breakfast-Menu.pdf"
+						},
+						{
+							name: "Keiki Menu"
+							url: "https://www.napilikai.com/wp-content/uploads/12.15.23-Keiki-Menu.pdf"
+						},
+						{
+							name: "Lunch Menu"
+							url: "https://www.napilikai.com/wp-content/uploads/Lunch-Menu-2.1.23.pdf"
+						},
+						{
+							name: "Happy Hour Menu"
+							url: "https://www.napilikai.com/wp-content/uploads/12.15.23-Happy-Hour-Menu.pdf"
+						},
+						{
+							name: "Dinner Menu"
+							url: "https://www.napilikai.com/wp-content/uploads/12.18.23-Dinner-Menu.pdf"
+						},
+						
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-669-1500", // format: x-xxx-xxx-xxxx
+				email: "seahousereservations@napilikai.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "5900 Lower Honoapiilani Road",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.3' ,
+				count: '1651',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		{
+			
+			name: "Sansei Seafood Restaurant & Sushi Bar",
+			url: "https://www.astonwhaler.com/resort/dining",
+			description: "Vibrant, trendy eatery featuring Japanese-Pacific Rim fare, creative sushi rolls & weekend karaoke.",
+
+			// the URL of the menu (can be a PDF if applicable)
+			menu: 	[
+						{
+							name: "Dine-in Menu"
+							url: "https://dkrestaurants.com/wp-content/uploads/2022/08/kapalua-dine-in.pdf"
+						},
+						{
+							name: "Take-out Menu"
+							url: "https://dkrestaurants.com/wp-content/uploads/2022/08/kapalua-takeout.pdf"
+						}
+					]
+
+			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "$$$",
+
+			// contact
+			contact: {
+
+				phone: "1-808-669-6286", // format: x-xxx-xxx-xxxx
+				email: "seahousereservations@napilikai.com"
+				
+			},
+			
+			// location
+			location: {
+				street: "600 Office Rd",
+				city: "Lahaina",
+				state: "HI", // 2 letter state code
+				zip: "96761",
+				country: "USA" ,
+
+			},
+			
+			// rating
+			rating: {
+				value: '4.5' ,
+				count: '1168',
+			},
+
+			// openingHours
+			openingHours: [],
+			servesCuisine: []
+			
+		}
+		
+	],
+
+	// list of spas at the hotel
+	spas: [
+		
+		{
+			name: "",
+			url: "",
+			description: "",
 		}
 		
 	],
@@ -1432,9 +2195,9 @@ const hotel = {
 
 	reviews: [
 		{
-			author: "GW C", // name of the reviewer
+			author: "Suzy Carlson", // name of the reviewer
 			value: "5", // be sure to only include 5 star reviews -> so the value should always be 5
-			datePublished: "2024-03-06",
+			datePublished: "2023-12-21",
 			reviewed: {
 
 				type: "VacationRental", // expected: 'VacationRental' (can add more functionality later)
@@ -1442,9 +2205,9 @@ const hotel = {
 			}
 		},
 		{
-			author: "Ashley Brown Pollard", // name of the reviewer
+			author: "Abracadeborah Smith", // name of the reviewer
 			value: "5", // be sure to only include 5 star reviews -> so the value should always be 5
-			datePublished: "2024-02-28",
+			datePublished: "2023-09-21",
 			reviewed: {
 
 				
