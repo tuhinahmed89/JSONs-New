@@ -1825,11 +1825,11 @@ const hotel = {
 		
 	],
 
-	reviews: [ // Tuhin, add 2 reviews for each hotel
+	reviews: [
 		{
-			author: "Angela Mitchell", // name of the reviewer
+			author: "Billy Gentry", // name of the reviewer
 			value: "5", // be sure to only include 5 star reviews -> so the value should always be 5
-			datePublished: "2024-03-19",
+			datePublished: "2024-03-18",
 			reviewed: {
 
 				// Tuhin, set the 'type' to 'VacationRental' for all for now
@@ -1840,9 +1840,9 @@ const hotel = {
 			}
 		},
 		{
-			author: "Abdul Rahman", // name of the reviewer
+			author: "Traci Wilkerson Steckel", // name of the reviewer
 			value: "5", // be sure to only include 5 star reviews -> so the value should always be 5
-			datePublished: "2024-03-05",
+			datePublished: "2024-03-17",
 			reviewed: {
 
 				// Tuhin, set the 'type' to 'VacationRental' for all for now
