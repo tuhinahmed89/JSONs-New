@@ -1213,7 +1213,7 @@ const hotel = {
 			description: "Destined to become the most desirable rooftop restaurant in the West. With sweeping views of Camelback Mountain, at théa you’ll soak up sunset vistas of the burnished Arizona landscapes, savor sun-blushed Mediterranean flavors and indulge in handcrafted cocktails. From Turkey to Greece, Egypt to Spain, discover vibrant mezze platters along with one of the largest rosé collections in the United States. Expect the unexpected at this unique restaurant in Phoenix.",
 
 			// the URL of the menu (can be a PDF if applicable)
-			menuArr [
+			menu: [
 				{
 					name: "Dinner"
 					url: "https://www.globalambassadorhotel.com/pdf/theaDinner_02_04.pdf"
@@ -1268,7 +1268,7 @@ const hotel = {
 			description: "In the laid-back, whimsical surrounds of Pink Dolphin, discover a sparkling menu of Mexican and Peruvian cuisine poolside. Think fresh pressed juices, authentic cocktails and margaritas paired with rich Peruvian ceviche and unforgettable Mexican mariscos at one of the coolest hotels in Phoenix. Feeling inspired? Opt for the Skinny Dip, a pitcher of skinny margaritas accompanied by fresh guacamole.",
 
 			// the URL of the menu (can be a PDF if applicable)
-	menuArr [
+			menu: [
 				{
 					name: "All Day"
 					url: "https://www.globalambassadorhotel.com/pdf/PinkDolphin_0224.pdf"
@@ -1277,7 +1277,6 @@ const hotel = {
 					name: "Cabana"
 					url: "https://www.globalambassadorhotel.com/pdf/PinkDolphin_Cabana_0224.pdf"
 				},
-				
 			]
 
 			// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
