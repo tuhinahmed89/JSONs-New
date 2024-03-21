@@ -1107,7 +1107,7 @@ const hotel = {
 			description: "Welcome to Le Âme, the most elegant steakhouse nestled in the soul of The Global Ambassador. Infused with romantic whimsy, you’ll discover beloved French fare, handwritten daily specials and a familiar warmth that transports you to the heart of France. Because we’ll always have Paris.",
 
 			// the URL of the menu (can be a PDF if applicable)
-			menuArr [
+			menu: [
 				{
 					name: "Breakfast"
 					url: "https://www.globalambassadorhotel.com/pdf/LeAmeBreakfast_0224.pdf"
@@ -1168,7 +1168,7 @@ const hotel = {
 			description: "Start your day with artisanal coffee and buttery pastries and soak up the pedestrian energy of a Parisian bakery and bistro. Enjoy long lunches and savour curated wine and fromage pairings. Welcome to Le Market, your chic Parisian café at our beautiful hotel in Phoenix.",
 
 			// the URL of the menu (can be a PDF if applicable)
-			menuArr [
+			menu: [
 				{
 					name: "Breakfast & Lunch"
 					url: "https://www.globalambassadorhotel.com/pdf/LeMarket_0224.pdf"
