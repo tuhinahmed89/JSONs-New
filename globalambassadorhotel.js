@@ -1,16 +1,15 @@
-
 const hotel = {
 	config: {
-		live: true, // indicates if the schema is live on the website
+		live: "true", // indicates if the schema is live on the website
 		features: {
-			pageSpecific: true, // if the schema is page-specific as opposed to a single global site-wide schema
-			voiceSearch: true, // if the schema is optimized for voice search
+			pageSpecific: "true", // if the schema is page-specific as opposed to a single global site-wide schema
+			voiceSearch: "true", // if the schema is optimized for voice search
 			arrays: {
-				restaurants: true, // if the schema includes restaurant data
-				spas: true, // if the schema includes spa data
-				healthClubs: true, // if the schema includes health club data
-				rooms: true, // if the schema includes room data
-				amenities: true // if the schema includes amenities data
+				restaurants: "true", // if the schema includes restaurant data
+				spas: "true", // if the schema includes spa data
+				healthClubs: "true", // if the schema includes health club data
+				rooms: "true", // if the schema includes room data
+				amenities: "true" // if the schema includes amenities data
 			}
 		}
 	},
@@ -38,8 +37,6 @@ const hotel = {
 
 	// total number of rooms that are used as accommodations
 	totalRoomCount: "141",
-
-	// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
 	priceRange: "$$$",
 
 	// array of accepted currencies
@@ -57,8 +54,8 @@ const hotel = {
 
 	// rating
 	rating: {
-		value: 4.4,
-		count: 104,
+		value: '4.4',
+		count: '104',
 	},
 
 	// contact
@@ -67,7 +64,7 @@ const hotel = {
 		// format: 1-234-567-8910
 		phone: "1-480-800-2211",
 
-		email: ""
+		email: "sales@globalambassadorhotel.com"
 	},
 	
 	// location
@@ -77,8 +74,8 @@ const hotel = {
 		state: 'AZ',
 		zip: '85018',
 		country: 'USA',
-		lat: 33.5215, // latitude coordinates
-		long: -111.9868 // longitude coordinates
+		lat: '33.5215', // latitude coordinates
+		long: '-111.9868' // longitude coordinates
 	},
 
 	// links
@@ -88,7 +85,6 @@ const hotel = {
 	copyrightUrl: "https://www.globalambassadorhotel.com/privacy-policy",
 
 	// social media URLs
-	// no '/' at the end of the URL
 	facebookUrl: "https://www.facebook.com/TheGlobalAmbassadorHotel",
 	twitterUrl: "null",
 	instagramUrl: "https://www.instagram.com/theglobalambassadorhotel",
@@ -923,7 +919,7 @@ const hotel = {
 			checkOutTime: "00:00",
 			bedCount: "1",
 			bedType: "King",
-			smokingBoolean: false,
+			smokingBoolean: "false",
 			bathroomCount: "1",
 			roomCount: "",
 			images: [
@@ -1141,7 +1137,7 @@ const hotel = {
 			contact: {
 
 				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "null"
+				email: "sales@globalambassadorhotel.com"
 				
 			},
 			
@@ -1156,8 +1152,8 @@ const hotel = {
 			
 			// rating
 			rating: {
-				value: 4.7,
-				count: 103,
+				value: '4.7',
+				count: '103',
 			},
 
 			// openingHours
@@ -1186,7 +1182,7 @@ const hotel = {
 			contact: {
 
 				phone: "1‑480-697-6201", // format: x-xxx-xxx-xxxx
-				email: "null"
+				email: "sales@globalambassadorhotel.com"
 				
 			},
 			
@@ -1201,8 +1197,8 @@ const hotel = {
 			
 			// rating
 			rating: {
-				value: 5.0,
-				count: 1,
+				value: '5.0',
+				count: '1',
 			},
 
 			// openingHours
@@ -1256,8 +1252,8 @@ const hotel = {
 			
 			// rating
 			rating: {
-				value: 4.5,
-				count: 43,
+				value: '4.5',
+				count: '43',
 			},
 
 			// openingHours
@@ -1307,8 +1303,8 @@ const hotel = {
 			
 			// rating
 			rating: {
-				value: 5,
-				count: 4,
+				value: '5',
+				count: '4',
 			},
 
 			// openingHours
