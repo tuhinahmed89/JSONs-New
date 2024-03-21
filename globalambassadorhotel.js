@@ -1319,7 +1319,7 @@ const hotel = {
 			description: "Take it old-school in the plush surrounds of the Lobby Bar. Savor a handcrafted cocktail by expert bartenders, discover old favorites with a delightfully different twist, and tap your feet as you sink into a cozy armchair. Whether joining for an evening with a silky jazz trio or for an artist-in-residency night, you’ll experience the best live music in a haven of good taste at our luxury Phoenix hotel.",
 
 			// the URL of the menu (can be a PDF if applicable)
-	menuArr [
+	menu: [
 				{
 					name: "Lobby Bar"
 					url: "https://www.globalambassadorhotel.com/pdf/LobbyBar_0324.pdf"
@@ -1366,7 +1366,7 @@ const hotel = {
 			description: "Take it old-school in the plush surrounds of the Lobby Bar. Savor a handcrafted cocktail by expert bartenders, discover old favorites with a delightfully different twist, and tap your feet as you sink into a cozy armchair. Whether joining for an evening with a silky jazz trio or for an artist-in-residency night, you’ll experience the best live music in a haven of good taste at our luxury Phoenix hotel.",
 
 			// the URL of the menu (can be a PDF if applicable)
-	menuArr [
+	menu: [
 				{
 					name: "Lobby Bar"
 					url: "https://www.globalambassadorhotel.com/pdf/LobbyBar_0324.pdf"
