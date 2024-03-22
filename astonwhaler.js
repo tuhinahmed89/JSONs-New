@@ -1753,18 +1753,7 @@ const hotel = {
 			openingHours: [],
 			servesCuisine: []
 			
-		}
-		
-	],
-
-	// list of spas at the hotel
-	spas: [
-		
-		{
-			name: "The Spa",
-			url: "https://www.globalambassadorhotel.com/health-and-wellness/the-spa",
-			description: "Embark on a new era of wellness. Your rejuvenation starts now, inspired by a combination of science and luxury to restore balance to your mind, body and soul. From refreshing facials to massages and therapy regimens, trust us to help you recover balance with our luxury spa treatments. ",
-		}
+		},
 		{
 			
 			name: "Japengo",
@@ -1877,7 +1866,7 @@ const hotel = {
 			openingHours: [],
 			servesCuisine: []
 			
-		}
+		},
 		{
 			
 			name: "Taverna Maui",
@@ -2054,7 +2043,7 @@ const hotel = {
 			openingHours: [],
 			servesCuisine: []
 			
-		}
+		},
 		{
 			
 			name: "Sea House Restaurant",
