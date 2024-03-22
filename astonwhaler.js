@@ -24,7 +24,7 @@ const hotel = {
 	// the website of the hotel
 	// include 'https://' and any subdomain such as 'www' (if applicable)
 	// must not end with a '/'
-	homepage: "https://www.globalambassadorhotel.com",
+	homepage: "https://www.astonwhaler.com",
 
 	// slogan/motto/tagline of the hotel
 	slogan: "A Tranquil Oasis on Kaanapali Beach",
