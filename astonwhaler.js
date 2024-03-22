@@ -1756,15 +1756,15 @@ const hotel = {
 		},
 		{
 			
-			name: "Japengo",
+			name: "Pacific'o on the Beach",
 			url: "https://www.astonwhaler.com/resort/dining",
-			description: "Enjoy Asian cuisine infused with island flavors. Located at Hyatt Regency Maui Resort & Spa with stunning views of the ocean, the restaurant offers an open-air patio seating and menu of seafood, steak and sushi.",
+			description: "",
 
 			// the URL of the menu (can be a PDF if applicable)
 			menu: 	[
 						{
-							name: "Menus"
-							url: "https://qrcodes.pro/Or6sfE"
+							name: ""
+							url: ""
 						}
 					]
 
@@ -1774,14 +1774,14 @@ const hotel = {
 			// contact
 			contact: {
 
-				phone: "1-808-667-4909", // format: x-xxx-xxx-xxxx
+				phone: "1-808-667-4341", // format: x-xxx-xxx-xxxx
 				email: "null"
 				
 			},
 			
 			// location
 			location: {
-				street: "200 Nohea Kai Dr",
+				street: "505 Front St Suite 114",
 				city: "Lahaina",
 				state: "HI", // 2 letter state code
 				zip: "96761",
@@ -1791,8 +1791,8 @@ const hotel = {
 			
 			// rating
 			rating: {
-				value: '4.3' ,
-				count: '744',
+				value: '4.5' ,
+				count: '800',
 			},
 
 			// openingHours
