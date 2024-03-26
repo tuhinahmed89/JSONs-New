@@ -22,7 +22,7 @@
 
 	"slogan": "Living the Spirit of Aloha",
 
-	"description": "Step into a haven of elegance, where cosmopolitan style meets warm service and vibrant culinary experiences. Welcome to The Global Ambassador, a luxury hotel carefully curated for the most discerning travelers and set against the stunning backdrop of Arizona’s Camelback Mountain.",
+	"description": "Timbers Kaua’i is proud to be part of the Timbers Resorts portfolio. This collection of luxury properties is characterized by several unique elements that make our resorts the finest in the world. For more than two decades, Timbers Resorts has been crafting the settings for families and friends to come together and create lasting memories in some of the most special places on Earth.",
 
 	"petsAllowedTrueFalse": "true",
 
