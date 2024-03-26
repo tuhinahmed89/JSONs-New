@@ -85,6 +85,10 @@
 		{
 			"caption": "Activities in Tuscany",
 			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/01/CDC_1067_I2A0348-1-747x460.jpg"
+		},
+		{
+			"caption": "A Historic Estate",
+			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/02/CDC-EstateSelects-LoResRGB-7-1440x800.jpeg"
 		}
 	],
 
