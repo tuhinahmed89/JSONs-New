@@ -65,7 +65,7 @@
 	"copyrightUrl": "https://www.casalidicasole.com/privacy-policy",
 
 	"facebookUrl": "https://www.facebook.com/casalidicasole",
-	"twitterUrl": "null",
+	"twitterUrl": "https://twitter.com/CasoleDi",
 	"instagramUrl": "https://www.instagram.com/casalidicasole",
 	"linkedinUrl": "https://www.linkedin.com/company/casali-di-casole/about",
 
