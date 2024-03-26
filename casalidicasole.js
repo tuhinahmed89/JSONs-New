@@ -39,25 +39,25 @@
 	"checkOutTime": "07:00",
 
 	"rating": {
-		"value": "4.8",
-		"count": "135"
+		"value": "4.4",
+		"count": "19"
 	},
 
 	"contact": {
 
-		"phone": "1-844-440-7572",
+		"phone": "1-888-548-9429",
 
-		"email": "info@timberskauai.com"
+		"email": "reservations@casalidicasole.com"
 	},
 	
 	"location": {
-		"street": "3770 Ala’oli Way",
-		"city": "Lihue",
-		"state": "HI",
-		"zip": "96766",
-		"country": "USA",
-		"lat": "21.9583", 
-		"long": "-159.3451" 
+		"street": "Località Ponti, 2",
+		"city": "Siena",
+		"state": "Tuscany",
+		"zip": "53031",
+		"country": "Italy",
+		"lat": "43.3072", 
+		"long": "-11.1131" 
 	},
 
 	"logoUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
