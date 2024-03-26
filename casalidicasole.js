@@ -33,10 +33,10 @@
 
 	"paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
 
-	"availableLanguage": ["English"],
+	"availableLanguage": ["English", "French", "Italian"],
 
-	"checkInTime": "16:00",
-	"checkOutTime": "09:00",
+	"checkInTime": "15:00",
+	"checkOutTime": "07:00",
 
 	"rating": {
 		"value": "4.8",
