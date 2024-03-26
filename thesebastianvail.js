@@ -20,9 +20,9 @@
 
 	"homepage": "https://www.thesebastianvail.com",
 
-	"slogan": "Living the Spirit of Aloha",
+	"slogan": "Vail Is Like Nothing on Earth.",
 
-	"description": "Timbers Kaua’i is proud to be part of the Timbers Resorts portfolio. This collection of luxury properties is characterized by several unique elements that make our resorts the finest in the world. For more than two decades, Timbers Resorts has been crafting the settings for families and friends to come together and create lasting memories in some of the most special places on Earth.",
+	"description": "Vail, Colorado is one-of-a-kind. For skiers, it is a mountain without equal. As a mountain village, there is no other in America as charming, colorful and international. In the heart of Vail Village, The Sebastian – Vail, a Timbers Resort, captures the magic of this storied place like nowhere else. From personalized experiences and services to our private slopeside Base Camp with ski valets, we attend to every detail, so you can focus on family and fun. Join us for a night or own with us forever. Either way, our Vail resort will beckon you home time and again.",
 
 	"petsAllowedTrueFalse": "false",
 
