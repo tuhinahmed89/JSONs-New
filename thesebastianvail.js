@@ -18,7 +18,7 @@
 
 	"type": "Resort",
 
-	"homepage": "https://www.timberskauai.com",
+	"homepage": "https://www.thesebastianvail.com",
 
 	"slogan": "Living the Spirit of Aloha",
 
