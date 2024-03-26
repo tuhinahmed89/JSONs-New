@@ -79,46 +79,13 @@
 
 	"imageArr": [
 		{
-			"caption": "own with us",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg"
-		},
-		{
 			"caption": "stay with us",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bed_93994_lo_res_RGB-e1682469385442-718x730.jpg"
+			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/01/CDC_SanGiovanni_Bedroom_lo_res_RGB-11-1-950x475.jpg"
 		},
 		{
-			"caption": "maliula residences",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1775x800.jpg"
-		},
-		{
-			"caption": "kaiholo residences",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1775x800.jpg"
-		},
-		{
-			"caption": "Laola Residences",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lr_4660_lo_res_RGB-1775x800.jpg"
-		},
-		{
-			"caption": "Laola Nani Residences",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1500x800.jpg"
-		},
-		{
-			"caption": "Book Early & Save",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/DSC_1311-570x372.jpg"
-		},
-		{
-			"caption": "4th Night Free",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-570x372.jpg"
-		},
-		{
-			"caption": "Experience Hōkūala",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Aerial_0021_lo_res_RGB-570x372.jpg"
-		},
-		{
-			"caption": "The Ocean Course at Hōkūala",
-			"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Golf_Dyer_3154_2015_10_05_lo_res_RGB-747x460.jpg"
+			"caption": "Activities in Tuscany",
+			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/01/CDC_1067_I2A0348-1-747x460.jpg"
 		}
-		
 	],
 
 	"roomsArr": [
