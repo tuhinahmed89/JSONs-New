@@ -36,16 +36,16 @@
 	"availableLanguage": ["English"],
 
 	"checkInTime": "16:00",
-	"checkOutTime": "00:00",
+	"checkOutTime": "09:00",
 
 	"rating": {
-		"value": "4.4",
-		"count": "104"
+		"value": "4.8",
+		"count": "135"
 	},
 
 	"contact": {
 
-		"phone": "1-480-800-2211",
+		"phone": "1-844-440-7572",
 
 		"email": "sales@globalambassadorhotel.com"
 	},
