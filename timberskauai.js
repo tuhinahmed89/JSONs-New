@@ -57,17 +57,17 @@
 		"zip": "96766",
 		"country": "USA",
 		"lat": "21.9583", 
-		"long": "-111.9868" 
+		"long": "-159.3451" 
 	},
 
-	"logoUrl": "https://www.globalambassadorhotel.com/images/layout/site-logo-780.png",
+	"logoUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
 
-	"copyrightUrl": "https://www.globalambassadorhotel.com/privacy-policy",
+	"copyrightUrl": "https://www.timbersresorts.com/privacy",
 
-	"facebookUrl": "https://www.facebook.com/TheGlobalAmbassadorHotel",
+	"facebookUrl": "https://www.facebook.com/timberskauai",
 	"twitterUrl": "null",
-	"instagramUrl": "https://www.instagram.com/theglobalambassadorhotel",
-	"linkedinUrl": "null",
+	"instagramUrl": "https://www.instagram.com/timberskauai",
+	"linkedinUrl": "https://www.linkedin.com/company/timbers-kaua'i/about",
 
 	"amenitiesArr": [
 		
