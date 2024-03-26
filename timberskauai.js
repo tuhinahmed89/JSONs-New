@@ -47,16 +47,16 @@
 
 		"phone": "1-844-440-7572",
 
-		"email": "sales@globalambassadorhotel.com"
+		"email": "info@timberskauai.com"
 	},
 	
 	"location": {
-		"street": "4360 E Camelback Rd",
-		"city": "Phoenix",
-		"state": "AZ",
-		"zip": "85018",
+		"street": "3770 Ala’oli Way",
+		"city": "Lihue",
+		"state": "HI",
+		"zip": "96766",
 		"country": "USA",
-		"lat": "33.5215", 
+		"lat": "21.9583", 
 		"long": "-111.9868" 
 	},
 
