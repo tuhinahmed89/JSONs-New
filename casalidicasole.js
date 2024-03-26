@@ -60,14 +60,14 @@
 		"long": "-11.1131" 
 	},
 
-	"logoUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
+	"logoUrl": "https://www.casalidicasole.com/wp-content/themes/casali/assets/img/logo-casalidicasole.png",
 
-	"copyrightUrl": "https://www.timbersresorts.com/privacy",
+	"copyrightUrl": "https://www.casalidicasole.com/privacy-policy",
 
-	"facebookUrl": "https://www.facebook.com/timberskauai",
+	"facebookUrl": "https://www.facebook.com/casalidicasole",
 	"twitterUrl": "null",
-	"instagramUrl": "https://www.instagram.com/timberskauai",
-	"linkedinUrl": "https://www.linkedin.com/company/timbers-kaua'i/about",
+	"instagramUrl": "https://www.instagram.com/casalidicasole",
+	"linkedinUrl": "https://www.linkedin.com/company/casali-di-casole/about",
 
 	"amenitiesArr": [
 		
