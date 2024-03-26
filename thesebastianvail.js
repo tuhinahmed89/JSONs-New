@@ -24,30 +24,30 @@
 
 	"description": "Vail, Colorado is one-of-a-kind. For skiers, it is a mountain without equal. As a mountain village, there is no other in America as charming, colorful and international. In the heart of Vail Village, The Sebastian – Vail, a Timbers Resort, captures the magic of this storied place like nowhere else. From personalized experiences and services to our private slopeside Base Camp with ski valets, we attend to every detail, so you can focus on family and fun. Join us for a night or own with us forever. Either way, our Vail resort will beckon you home time and again.",
 
-	"petsAllowedTrueFalse": "false",
+	"petsAllowedTrueFalse": "true",
 
-	"totalRoomCount": "47",
+	"totalRoomCount": "36",
 	"priceRange": "$$$",
 
 	"currenciesAccepted": ["USD"],
 
 	"paymentAccepted": ["Credit Card", "Debit Card"],
 
-	"availableLanguage": ["English"],
+	"availableLanguage": ["German", "English", "Spanish", "Croatian", "Dutch"],
 
 	"checkInTime": "16:00",
-	"checkOutTime": "09:00",
+	"checkOutTime": "11:00",
 
 	"rating": {
-		"value": "4.8",
-		"count": "135"
+		"value": "4.6",
+		"count": "462"
 	},
 
 	"contact": {
 
-		"phone": "1-844-440-7572",
+		"phone": "1-844-807-4682",
 
-		"email": "info@timberskauai.com"
+		"email": "reservations@thesebastianvail.com"
 	},
 	
 	"location": {
