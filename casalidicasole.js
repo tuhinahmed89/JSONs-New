@@ -14,24 +14,24 @@
 		}
 	},
 
-	"name": "Timbers Kaua‘i – Ocean Club & Residences",
+	"name": "Casali di Casole",
 
 	"type": "Resort",
 
-	"homepage": "https://www.timberskauai.com",
+	"homepage": "https://www.casalidicasole.com",
 
-	"slogan": "Living the Spirit of Aloha",
+	"slogan": "Always so much more than a place, Tuscany is first a way of life",
 
-	"description": "Timbers Kaua’i is proud to be part of the Timbers Resorts portfolio. This collection of luxury properties is characterized by several unique elements that make our resorts the finest in the world. For more than two decades, Timbers Resorts has been crafting the settings for families and friends to come together and create lasting memories in some of the most special places on Earth.",
+	"description": "In the rolling hills of Tuscany — not far from the mythic destinations of Florence, Siena and San Gimignano — is one of the largest private landholdings in all of Italy. Dotting the 4,200-acre historic estate are meticulously restored and exquisitely appointed villas and farmhouses. This treasured place is Casali di Casole, a Timbers Resorts private residence club and the best luxury vacation rental in Italy.",
 
-	"petsAllowedTrueFalse": "false",
+	"petsAllowedTrueFalse": "true",
 
-	"totalRoomCount": "47",
+	"totalRoomCount": "",
 	"priceRange": "$$$",
 
 	"currenciesAccepted": ["USD"],
 
-	"paymentAccepted": ["Credit Card", "Debit Card"],
+	"paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
 
 	"availableLanguage": ["English"],
 
