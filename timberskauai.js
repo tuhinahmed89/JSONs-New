@@ -14,13 +14,13 @@
 		}
 	},
 
-	"name": "The Global Ambassador Hotel",
+	"name": "Timbers Kaua‘i – Ocean Club & Residences",
 
-	"type": "Hotel",
+	"type": "Resort",
 
-	"homepage": "https://www.globalambassadorhotel.com",
+	"homepage": "https://www.timberskauai.com",
 
-	"slogan": "Hotel • Restaurants • Wellness",
+	"slogan": "Living the Spirit of Aloha",
 
 	"description": "Step into a haven of elegance, where cosmopolitan style meets warm service and vibrant culinary experiences. Welcome to The Global Ambassador, a luxury hotel carefully curated for the most discerning travelers and set against the stunning backdrop of Arizona’s Camelback Mountain.",
 
