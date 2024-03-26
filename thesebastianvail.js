@@ -51,23 +51,21 @@
 	},
 	
 	"location": {
-		"street": "3770 Ala’oli Way",
-		"city": "Lihue",
-		"state": "HI",
-		"zip": "96766",
+		"street": "16 Vail Rd",
+		"city": "Vail",
+		"state": "CO",
+		"zip": "81657",
 		"country": "USA",
-		"lat": "21.9583", 
-		"long": "-159.3451" 
+		"lat": "39.6426", 
+		"long": "-106.3780" 
 	},
 
-	"logoUrl": "https://www.timberskauai.com/wp-content/themes/kauai/assets/img/logo-kauai-white.png",
-
+	"logoUrl": "https://www.thesebastianvail.com/wp-content/themes/sebastianvail/assets/img/logo-sebastianvail-white.png",
 	"copyrightUrl": "https://www.timbersresorts.com/privacy",
-
-	"facebookUrl": "https://www.facebook.com/timberskauai",
-	"twitterUrl": "null",
-	"instagramUrl": "https://www.instagram.com/timberskauai",
-	"linkedinUrl": "https://www.linkedin.com/company/timbers-kaua'i/about",
+	"facebookUrl": "https://www.facebook.com/thesebastianvail",
+	"twitterUrl": "https://twitter.com/sebastianvail",
+	"instagramUrl": "https://www.instagram.com/thesebastianvail",
+	"linkedinUrl": "https://www.linkedin.com/company/the-sebastian-vail-a-timbers-resorts-hotel-&-residence-club",
 
 	"amenitiesArr": [
 		
