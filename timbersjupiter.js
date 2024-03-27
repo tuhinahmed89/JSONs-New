@@ -79,16 +79,20 @@
 
 	"imageArr": [
 		{
+			"caption": "own with us",
+			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/Timbers-Jupiter-57-960x960.jpg"
+		},
+		{
 			"caption": "stay with us",
-			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/01/CDC_SanGiovanni_Bedroom_lo_res_RGB-11-1-950x475.jpg"
+			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/Timbers-Jupiter-19-960x960.jpg"
 		},
 		{
-			"caption": "Activities in Tuscany",
-			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/01/CDC_1067_I2A0348-1-747x460.jpg"
+			"caption": "Golf",
+			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/JUP_Experience_Golf_Cart-1050x704.jpeg"
 		},
 		{
-			"caption": "A Historic Estate",
-			"url": "https://www.casalidicasole.com/wp-content/uploads/2023/02/CDC-EstateSelects-LoResRGB-7-1440x800.jpeg"
+			"caption": "Golf",
+			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/JUP_Golf__128_lo_res_RGB-1-747x460.jpg"
 		}
 	],
 
