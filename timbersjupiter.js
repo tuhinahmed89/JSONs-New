@@ -56,8 +56,8 @@
 		"state": "FL",
 		"zip": "33477",
 		"country": "US",
-		"lat": "43.3072", 
-		"long": "-11.1131" 
+		"lat": "26.8837",
+		"long": "-80.0933" 
 	},
 
 	"logoUrl": "https://www.casalidicasole.com/wp-content/themes/casali/assets/img/logo-casalidicasole.png",
