@@ -51,13 +51,13 @@
 	},
 	
 	"location": {
-		"street": "108 Night Hawk Drive",
-		"city": "Jupiter",
+		"street": "5400 Plantation Rd",
+		"city": "Captiva",
 		"state": "FL",
-		"zip": "33477",
+		"zip": "33924",
 		"country": "US",
-		"lat": "26.8837",
-		"long": "-80.0933" 
+		"lat": "26.5258",
+		"long": "-82.1909" 
 	},
 
 	"logoUrl": "https://www.timbersjupiter.com/wp-content/themes/jupiter/assets/img/logo-jupiter.png",
