@@ -33,7 +33,7 @@
 
 	"paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
 
-	"availableLanguage": ["English", "French", "Italian"],
+	"availableLanguage": ["English"],
 
 	"checkInTime": "14:00",
 	"checkOutTime": "12:00",
@@ -60,7 +60,7 @@
 		"long": "-80.0933" 
 	},
 
-	"logoUrl": "https://www.casalidicasole.com/wp-content/themes/casali/assets/img/logo-casalidicasole.png",
+	"logoUrl": "https://www.timbersjupiter.com/wp-content/themes/jupiter/assets/img/logo-jupiter.png",
 
 	"copyrightUrl": "https://www.casalidicasole.com/privacy-policy",
 
