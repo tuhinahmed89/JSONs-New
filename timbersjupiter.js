@@ -51,9 +51,7 @@
 	},
 	
 	"location": {
-		"street": "108 Night Hawk Drive
-Jupiter",108 Night Hawk Drive
-Jupiter, Florida 
+		"street": "108 Night Hawk Drive",
 		"city": "Jupiter",
 		"state": "FL",
 		"zip": "33477",
