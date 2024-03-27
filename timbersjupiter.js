@@ -24,7 +24,7 @@
 
 	"description": "Named for the Roman king of the gods, the town of Jupiter, along with the neighboring Palm Beaches, entices the vacationing family with an endless variety of outdoor water sports as well as a vibrant dining, shopping and cultural scene – one reason it is considered to be the jewel of the Atlantic coast. In the center of this captivating setting lies Timbers Jupiter, a private residence club nestled within the acclaimed 285-acre Trump National Golf Club Jupiter and only minutes inland from the glistening shores of Juno Beach. Owners at Timbers Jupiter will enjoy an iconic and leisurely Florida lifestyle highlighted by spacious and very private villas overlooking the course and its many water features.",
 
-	"petsAllowedTrueFalse": "true",
+	"petsAllowedTrueFalse": "false",
 
 	"totalRoomCount": "50",
 	"priceRange": "$$$",
@@ -51,11 +51,13 @@
 	},
 	
 	"location": {
-		"street": "Località Ponti, 2",
-		"city": "Siena",
-		"state": "Tuscany",
-		"zip": "53031",
-		"country": "Italy",
+		"street": "108 Night Hawk Drive
+Jupiter",108 Night Hawk Drive
+Jupiter, Florida 
+		"city": "Jupiter",
+		"state": "FL",
+		"zip": "33477",
+		"country": "US",
 		"lat": "43.3072", 
 		"long": "-11.1131" 
 	},
