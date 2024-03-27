@@ -20,34 +20,34 @@
 
 	"homepage": "https://www.southseas.com",
 
-	"slogan": "The Jewel of the Atlantic Coast",
+	"slogan": "A New Chapter on Captiva Island, Florida",
 
-	"description": "Named for the Roman king of the gods, the town of Jupiter, along with the neighboring Palm Beaches, entices the vacationing family with an endless variety of outdoor water sports as well as a vibrant dining, shopping and cultural scene – one reason it is considered to be the jewel of the Atlantic coast. In the center of this captivating setting lies Timbers Jupiter, a private residence club nestled within the acclaimed 285-acre Trump National Golf Club Jupiter and only minutes inland from the glistening shores of Juno Beach. Owners at Timbers Jupiter will enjoy an iconic and leisurely Florida lifestyle highlighted by spacious and very private villas overlooking the course and its many water features.",
+	"description": "On 330 oceanfront acres, this secluded resort has 2.5 miles of white-sand beach and is 8.8 miles from the education center at the J.N. "Ding" Darling National Wildlife Refuge. Accommodations range from bright rooms with marina or ocean views to multi-room cottages and villas with full kitchens. Most quarters have balconies, minifridges, coffeemakers and Wi-Fi. The resort has 3 pools, 6 on-site dining options, a marina, a spa and 2 golf courses. Other amenities includes use of beach towels and chairs, a property-wide trolley service, tennis courts and a fitness center.",
 
 	"petsAllowedTrueFalse": "false",
 
-	"totalRoomCount": "50",
+	"totalRoomCount": "",
 	"priceRange": "$$$",
 
 	"currenciesAccepted": ["USD"],
 
-	"paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
+	"paymentAccepted": ["Credit Card", "Debit Card"],
 
 	"availableLanguage": ["English"],
 
-	"checkInTime": "14:00",
-	"checkOutTime": "12:00",
+	"checkInTime": "16:00",
+	"checkOutTime": "11:00",
 
 	"rating": {
-		"value": "4.7",
-		"count": "46"
+		"value": "4.2",
+		"count": "2,314"
 	},
 
 	"contact": {
 
-		"phone": "1-561-295-7609",
+		"phone": "1-866-565-5089",
 
-		"email": "info@timbersjupiter.com"
+		"email": "info@southseas.com"
 	},
 	
 	"location": {
