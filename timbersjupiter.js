@@ -14,19 +14,19 @@
 		}
 	},
 
-	"name": "Casali di Casole",
+	"name": "Timbers Jupiter Florida",
 
 	"type": "Resort",
 
-	"homepage": "https://www.casalidicasole.com",
+	"homepage": "https://www.timbersjupiter.com",
 
-	"slogan": "Always so much more than a place, Tuscany is first a way of life",
+	"slogan": "The Jewel of the Atlantic Coast",
 
-	"description": "In the rolling hills of Tuscany — not far from the mythic destinations of Florence, Siena and San Gimignano — is one of the largest private landholdings in all of Italy. Dotting the 4,200-acre historic estate are meticulously restored and exquisitely appointed villas and farmhouses. This treasured place is Casali di Casole, a Timbers Resorts private residence club and the best luxury vacation rental in Italy.",
+	"description": "Named for the Roman king of the gods, the town of Jupiter, along with the neighboring Palm Beaches, entices the vacationing family with an endless variety of outdoor water sports as well as a vibrant dining, shopping and cultural scene – one reason it is considered to be the jewel of the Atlantic coast. In the center of this captivating setting lies Timbers Jupiter, a private residence club nestled within the acclaimed 285-acre Trump National Golf Club Jupiter and only minutes inland from the glistening shores of Juno Beach. Owners at Timbers Jupiter will enjoy an iconic and leisurely Florida lifestyle highlighted by spacious and very private villas overlooking the course and its many water features.",
 
 	"petsAllowedTrueFalse": "true",
 
-	"totalRoomCount": "",
+	"totalRoomCount": "50",
 	"priceRange": "$$$",
 
 	"currenciesAccepted": ["USD"],
@@ -35,8 +35,8 @@
 
 	"availableLanguage": ["English", "French", "Italian"],
 
-	"checkInTime": "15:00",
-	"checkOutTime": "07:00",
+	"checkInTime": "14:00",
+	"checkOutTime": "12:00",
 
 	"rating": {
 		"value": "4.4",
@@ -45,9 +45,9 @@
 
 	"contact": {
 
-		"phone": "1-888-548-9429",
+		"phone": "1-561-295-7609",
 
-		"email": "reservations@casalidicasole.com"
+		"email": "info@timbersjupiter.com"
 	},
 	
 	"location": {
