@@ -60,14 +60,14 @@
 		"long": "-82.1909" 
 	},
 
-	"logoUrl": "https://www.timbersjupiter.com/wp-content/themes/jupiter/assets/img/logo-jupiter.png",
+	"logoUrl": "https://www.southseas.com/wp-content/themes/southseas/img/logo.png",
 
-	"copyrightUrl": "https://www.timbersjupiter.com/privacy-policy",
+	"copyrightUrl": "https://www.southseas.com/privacy-policy",
 
-	"facebookUrl": "https://www.facebook.com/TimbersJupiter",
-	"twitterUrl": "https://twitter.com/TimbersJupiter",
-	"instagramUrl": "https://www.instagram.com/timbersjupiter",
-	"linkedinUrl": "https://www.linkedin.com/company/timbers-resorts",
+	"facebookUrl": "https://www.facebook.com/SouthSeasResort",
+	"twitterUrl": "https://twitter.com/SSIslandResort",
+	"instagramUrl": "https://www.instagram.com/southseasresort",
+	"linkedinUrl": "https://www.linkedin.com/company/south-seas",
 
 	"amenitiesArr": [
 		
