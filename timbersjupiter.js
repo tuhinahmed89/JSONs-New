@@ -39,8 +39,8 @@
 	"checkOutTime": "12:00",
 
 	"rating": {
-		"value": "4.4",
-		"count": "19"
+		"value": "4.7",
+		"count": "46"
 	},
 
 	"contact": {
