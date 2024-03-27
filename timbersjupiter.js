@@ -62,12 +62,12 @@
 
 	"logoUrl": "https://www.timbersjupiter.com/wp-content/themes/jupiter/assets/img/logo-jupiter.png",
 
-	"copyrightUrl": "https://www.casalidicasole.com/privacy-policy",
+	"copyrightUrl": "https://www.timbersjupiter.com/privacy-policy",
 
-	"facebookUrl": "https://www.facebook.com/casalidicasole",
-	"twitterUrl": "https://twitter.com/CasoleDi",
-	"instagramUrl": "https://www.instagram.com/casalidicasole",
-	"linkedinUrl": "https://www.linkedin.com/company/casali-di-casole/about",
+	"facebookUrl": "https://www.facebook.com/TimbersJupiter",
+	"twitterUrl": "https://twitter.com/TimbersJupiter",
+	"instagramUrl": "https://www.instagram.com/timbersjupiter",
+	"linkedinUrl": "https://www.linkedin.com/company/timbers-resorts",
 
 	"amenitiesArr": [
 		
