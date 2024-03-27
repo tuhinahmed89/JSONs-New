@@ -20,9 +20,9 @@
 
 	"homepage": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club",
 
-	"slogan": "The Jewel of the Atlantic Coast",
+	"slogan": "",
 
-	"description": "Named for the Roman king of the gods, the town of Jupiter, along with the neighboring Palm Beaches, entices the vacationing family with an endless variety of outdoor water sports as well as a vibrant dining, shopping and cultural scene – one reason it is considered to be the jewel of the Atlantic coast. In the center of this captivating setting lies Timbers Jupiter, a private residence club nestled within the acclaimed 285-acre Trump National Golf Club Jupiter and only minutes inland from the glistening shores of Juno Beach. Owners at Timbers Jupiter will enjoy an iconic and leisurely Florida lifestyle highlighted by spacious and very private villas overlooking the course and its many water features.",
+	"description": "Timeless luxury meets legendary locale at 5th & 55th Residence Club, our exclusive collection of residences located in the flagship St. Regis® New York. Whether traveling for business or pleasure, it offers an exquisite New York retreat at one of the city’s most iconic addresses. Experience refined comfort and convenience in the elegantly preserved setting of a New York City landmark, adored throughout its history by dignitaries, royalty, artists, and celebrities. Awaken to coffee or tea service delivered by your dedicated butler. Attend to business in your private residence or entertain colleagues over dinner. Relax following the day’s amusements with signature afternoon tea at Astor Court or cocktails at the famous King Cole Bar. Perfectly situated in midtown Manhattan — just steps away from Central Park, extraordinary shopping, and treasured city destinations — 5th & 55th Residence Club is the premier New York luxury vacation rental experience.",
 
 	"petsAllowedTrueFalse": "false",
 
