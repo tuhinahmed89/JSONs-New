@@ -26,12 +26,12 @@
 
 	"petsAllowedTrueFalse": "false",
 
-	"totalRoomCount": "50",
+	"totalRoomCount": "",
 	"priceRange": "$$$",
 
 	"currenciesAccepted": ["USD"],
 
-	"paymentAccepted": ["Cash", "Credit Card", "Debit Card"],
+	"paymentAccepted": ["Credit Card", "Debit Card"],
 
 	"availableLanguage": ["English"],
 
@@ -45,29 +45,29 @@
 
 	"contact": {
 
-		"phone": "1-561-295-7609",
+		"phone": "",
 
-		"email": "info@timbersjupiter.com"
+		"email": ""
 	},
 	
 	"location": {
-		"street": "108 Night Hawk Drive",
-		"city": "Jupiter",
-		"state": "FL",
-		"zip": "33477",
+		"street": "2 E 55th St 8th & 9th Floors",  
+		"city": "New York",
+		"state": "NY",
+		"zip": "10022",
 		"country": "US",
-		"lat": "26.8837",
-		"long": "-80.0933" 
+		"lat": "40.7613",
+		"long": "-73.9744" 
 	},
 
-	"logoUrl": "https://www.timbersjupiter.com/wp-content/themes/jupiter/assets/img/logo-jupiter.png",
+	"logoUrl": "",
 
-	"copyrightUrl": "https://www.timbersjupiter.com/privacy-policy",
+	"copyrightUrl": "",
 
-	"facebookUrl": "https://www.facebook.com/TimbersJupiter",
-	"twitterUrl": "https://twitter.com/TimbersJupiter",
-	"instagramUrl": "https://www.instagram.com/timbersjupiter",
-	"linkedinUrl": "https://www.linkedin.com/company/timbers-resorts",
+	"facebookUrl": "",
+	"twitterUrl": "",
+	"instagramUrl": "",
+	"linkedinUrl": "",
 
 	"amenitiesArr": [
 		
