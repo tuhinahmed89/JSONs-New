@@ -79,20 +79,28 @@
 
 	"imageArr": [
 		{
-			"caption": "own with us",
-			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/Timbers-Jupiter-57-960x960.jpg"
+			"caption": "Recapture the Magic",
+			"url": "https://www.southseas.com/wp-content/uploads/2023/07/South-Seas-20215922-1-1-scaled-e1688565775914.jpeg"
 		},
 		{
-			"caption": "stay with us",
-			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/Timbers-Jupiter-19-960x960.jpg"
+			"caption": "Stay At South Seas",
+			"url": "https://www.southseas.com/wp-content/uploads/2024/01/Two-Bedroom-Beach-Villa-WEB-4-580x372.jpg"
 		},
 		{
-			"caption": "Golf",
-			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/JUP_Experience_Golf_Cart-1050x704.jpeg"
+			"caption": "Savor Captiva Island",
+			"url": "https://www.southseas.com/wp-content/uploads/2021/09/card-food-dish.jpg"
 		},
 		{
-			"caption": "Golf",
-			"url": "https://www.timbersjupiter.com/wp-content/uploads/2023/03/JUP_Golf__128_lo_res_RGB-1-747x460.jpg"
+			"caption": "Beach Experiences",
+			"url": "https://www.southseas.com/wp-content/uploads/2023/07/South-Seas-20210018-2-491x745.jpeg"
+		},
+		{
+			"caption": "Water Adventure",
+			"url": "https://www.southseas.com/wp-content/uploads/2023/07/GBR54683-1-491x745.jpeg"
+		},
+		{
+			"caption": "Marina",
+			"url": "https://www.southseas.com/wp-content/uploads/2021/09/marina.jpg"
 		}
 	],
 
