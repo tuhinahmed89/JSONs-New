@@ -927,7 +927,7 @@
 				},
 				{
 					"caption": "Maliula Double Bedroom",
-					"url": "hhttps://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
 				},
 				{
 					"caption": "Maliula Bathroom",
@@ -994,45 +994,1356 @@
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
 				},
 			]
-		}
+		},
+		{
+			"type": "Room",
+			"name": "Maliula 2-Bedroom Signature Residence",
+			"url": "https://www.timberskauai.com/stay/maliula-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "This vacation home is located in Lihue. Kauai Museum and Kela's Glass Gallery are cultural highlights, and some of the area's attractions include Lydgate Beach Park and Smith's Tropical Paradise. Enjoy stunning southern views of the dramatic Kauai coastline and the entire Ha'upu Mountain Range and convenient access to the Maliula rooftop terrace. Inside you will enjoy exceptional levels of finish throughout the residence with custom cabinetry and beautifully appointed kitchens with high-end appliances.",
+			"maxOccupancy": "4",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "2",
+			"bedType": "2 King Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "2.5",
+			"roomCount": "2",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Maliula 3-Bedroom Premier Accessible Residence",
+			"url": "https://www.timberskauai.com/stay/maliula-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Maliula 3-Bedroom Superior Accessible Residence",
+			"url": "https://www.timberskauai.com/stay/maliula-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Maliula 3-Bedroom Owner Designed Residence",
+			"url": "https://www.timberskauai.com/stay/maliula-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Maliula 3-Bedroom Signature Residence",
+			"url": "https://www.timberskauai.com/stay/maliula-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Maliula 3-Bedroom Premier Residence",
+			"url": "https://www.timberskauai.com/stay/maliula-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Laola 3-Bedroom Townhouse",
+			"url": "https://www.timberskauai.com/stay/laola-residences/",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "In Hawaiian, Lāola translates as “nurturing life” — the dawning of a new beginning. Lāola is a breath of new life, nurtured in peace and harmony, attracting all goodness. Lāola luxury townhomes feature over 4,000 square feet of living space and were designed for true indoor/outdoor Hawaiian Living. These bi-level residences are set directly above the 15th fairway of the Ocean Course and enjoy breathtaking views of the Pacific Ocean. To the east and west are views of the historic Ninini Point Lighthouse and dramatic Ha‘upu mountain range. Choose from three- and four-bedroom floor plans with gracious living spaces featuring a master retreat on the upper level with a private lanai and outdoor rain shower. On the ground level an open layout includes the living room, a chef’s kitchen and guest suite opening to a spacious lanai that leads to a landscaped yard with a private pool. Unique to these homes is a detached carport with storage for your beach toys and adventure vehicle.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_ext_3161_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_kitchen_3270_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_details_3681_lo_res_RGB-1-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guest Room Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestromdbl_3175_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Outdoor shower",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestrmbathrm_3140_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestroomdbl2_3302_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Outdoor shower",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466b_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbedrm_3330_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola down Stairs",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_downstairs_entry_3893_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm_3419_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom 2",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm2_4136_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom Vignette",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrmvignette_3090_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Entry",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_entry_3526_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola lanai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_lanai_3517_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Dining",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_dining_3286_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lenai_4709_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_guestmasterbedrm_3961_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Laola 4-Bedroom Townhouse",
+			"url": "https://www.timberskauai.com/stay/laola-residences/",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			
+			"description": "In Hawaiian, Lāola translates as “nurturing life” — the dawning of a new beginning. Lāola is a breath of new life, nurtured in peace and harmony, attracting all goodness. Lāola luxury townhomes feature over 4,000 square feet of living space and were designed for true indoor/outdoor Hawaiian Living. These bi-level residences are set directly above the 15th fairway of the Ocean Course and enjoy breathtaking views of the Pacific Ocean. To the east and west are views of the historic Ninini Point Lighthouse and dramatic Ha‘upu mountain range. Choose from three- and four-bedroom floor plans with gracious living spaces featuring a master retreat on the upper level with a private lanai and outdoor rain shower. On the ground level an open layout includes the living room, a chef’s kitchen and guest suite opening to a spacious lanai that leads to a landscaped yard with a private pool. Unique to these homes is a detached carport with storage for your beach toys and adventure vehicle.",
+			
+			"maxOccupancy": "8",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "3 King & 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "4.5",
+			"roomCount": "4",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_ext_3161_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_kitchen_3270_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_details_3681_lo_res_RGB-1-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guest Room Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestromdbl_3175_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Outdoor shower",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestrmbathrm_3140_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestroomdbl2_3302_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Outdoor shower",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466b_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbedrm_3330_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola down Stairs",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_downstairs_entry_3893_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm_3419_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom 2",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm2_4136_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom Vignette",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrmvignette_3090_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Entry",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_entry_3526_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola lanai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_lanai_3517_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Dining",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_dining_3286_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lenai_4709_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_guestmasterbedrm_3961_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Laola 4-Bedroom Owner Designed Residence",
+			"url": "https://www.timberskauai.com/stay/laola-residences/",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			
+			"description": "In Hawaiian, Lāola translates as “nurturing life” — the dawning of a new beginning. Lāola is a breath of new life, nurtured in peace and harmony, attracting all goodness. Lāola luxury townhomes feature over 4,000 square feet of living space and were designed for true indoor/outdoor Hawaiian Living. These bi-level residences are set directly above the 15th fairway of the Ocean Course and enjoy breathtaking views of the Pacific Ocean. To the east and west are views of the historic Ninini Point Lighthouse and dramatic Ha‘upu mountain range. Choose from three- and four-bedroom floor plans with gracious living spaces featuring a master retreat on the upper level with a private lanai and outdoor rain shower. On the ground level an open layout includes the living room, a chef’s kitchen and guest suite opening to a spacious lanai that leads to a landscaped yard with a private pool. Unique to these homes is a detached carport with storage for your beach toys and adventure vehicle.",
+			
+			"maxOccupancy": "8",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "3 King Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "4.5",
+			"roomCount": "4",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_ext_3161_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_kitchen_3270_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_details_3681_lo_res_RGB-1-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guest Room Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestromdbl_3175_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Outdoor shower",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestrmbathrm_3140_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestroomdbl2_3302_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Outdoor shower",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466b_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbedrm_3330_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola down Stairs",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_downstairs_entry_3893_lo_res_RGB-1080x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm_3419_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Bathroom 2",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm2_4136_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom Vignette",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrmvignette_3090_lo_res_RGB-1-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Entry",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_entry_3526_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola lanai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_lanai_3517_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Dining",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_dining_3286_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lenai_4709_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_guestmasterbedrm_3961_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Laola Nani 3-Bedroom Signature Residence",
+			"url": "https://www.timberskauai.com/stay/laola-nani-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			
+			"description": "The 15th fairway of the signature Jack Nicklaus Ocean Course is a long arc that traces the shoreline of Ninini Point Bay. Set dramatically above the fairway, with sweeping views from the iconic Ninini Point Lighthouse to the southern horizon, are 36 luxurious townhomes. This is Lāola Nani. These expansive three- and four-bedroom residences are thoughtfully designed for a lifestyle that moves effortlessly indoors to out. Primary suites are true tropical retreats with private lanais and outdoor rain showers. And because vacations are all about gatherings, the main level features an open and entertaining plan with living/dining spaces opening to the lanai and plunge pool. A chef’s kitchen at the heart of it all? Of course. Drawing inspiration from the natural surroundings, the Lāola Nani townhomes at Timbers Kauaʻi were designed to offer the perfect balance of serenity and nature in a fresh, contemporary Hawaiian feel.",
+			
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "3 King Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Laola Nani Private plunge pool",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-53-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Nani Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-51-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Nani Stunning ocean and golf course views",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-02-1440x800.jpg"
+				},
+				{
+					"caption": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-03-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Nani kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-10-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Nani Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-05-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Nani Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-31-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Bedroom 2",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-22-1440x800.jpg"
+				},
+				{
+					"caption": "Laola nani living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-34-1440x800.jpg"
+				},
+				{
+					"caption": "Laola Guestroom Double Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-20-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		
 	],
 
 	"restaurants": [
 		
 		{
 			
-			"name": "",
-			"url": "",
-			"description": "",
+			"name": "Hualani’s",
+			"url": "https://www.timberskauai.com/eat-drink/hualanis",
+			"description": "Experience one of the best restaurants on Kaua‘i and enjoy farm-to-table oceanfront dining from the elegant yet relaxed setting at Hualani’s. Here, oceanfront dining is influenced by the seasons. What’s fresh at The Farm at Hōkūala inspires the farm-to-table menu, while our bar serves up well-balanced craft cocktails that complement the seasonality of the kitchen. Our culinary experience is inspired by a sense of place and driven by local farmers, as well as fresh-picked ingredients from our on-site organic farm. From the morning harvest and the daily catch, ​​Hualani’s shines a hyper-local spotlight on the bounty of the Garden Isle.",
 
 			"menu": [
 				{
-					"name": "Breakfast",
-					"url": "https://www.globalambassadorhotel.com/pdf/LeAmeBreakfast_0224.pdf"
+					"name": "Hualani’s Kaua‘i Menus",
+					"url": "https://www.timberskauai.com/eat-drink/hualanis"
 				}
 				],
 
-			"priceRange": "$$$",
+			"priceRange": "50-100",
 
 			"contact": {
 
-				"phone": "", 
-				"email": ""
+				"phone": "1-808-320-7399", 
+				"email": "cdotario@timberskauai.com"
 				
 			},
 			
 			"location": {
-				"street": "",
-				"city": "",
-				"state": "", 
-				"zip": "",
-				"country": ""
+				"street": "3770 Ala’oli Way Suite 2",
+				"city": "Lihue",
+				"state": "HI", 
+				"zip": "96766",
+				"country": "US",
 			},
 			
 			
 			"rating": {
-				"value": "",
-				"count": ""
+				"value": "4.5",
+				"count": "421"
 			},
 
 			
@@ -1064,15 +2375,26 @@
 
 	"reviews": [
 		{
-			"", 
-			"value": "",
-			"datePublished": "",
+			"author": "Sidney Yules", 
+			"value": "5",
+			"datePublished": "2024-02-29",
 			"reviewed": {
 
 				"type": "VacationRental", 
 				"name": ""
 			}
 		},
+		{
+			"author": "Margarita Beale", 
+			"value": "5", 
+			"datePublished": "2024-02-28",
+			"reviewed": {
+
+				
+				"type": "VacationRental",
+				"name": ""
+			}
+		}
 	]
 	
 }
