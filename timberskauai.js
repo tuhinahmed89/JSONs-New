@@ -33,7 +33,7 @@
 
 	"paymentAccepted": ["Credit Card", "Debit Card"],
 
-	"availableLanguage": ["English"],
+	"availableLanguage": ["English", "Spanish"],
 
 	"checkInTime": "16:00",
 	"checkOutTime": "09:00",
@@ -410,12 +410,360 @@
 			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
 			"tourUrl": "",
 			"petsAllowedTrueOrFalse": "False",
-			"description": "With seamless transitions from indoor to outdoor living and lanais extending to the ocean’s edge, you won’t know where the inside ends and nature begins in a Kaiholo Residence. Ranging in size from 3,422 – 3,915 square feet, these Kaua‘i resort vacation rentals offer three or four bedrooms with ensuites and sea-inspired interiors that set the stage for panoramic ocean and mountain views.",
+			"description": "This gorgeous Kaiholo Four-Bedroom Signature space offers beautiful views of the Pacific Ocean and plenty of space for you and up to nine friends or family members. The air-conditioned villa includes four bedrooms, five bathrooms, and more than 3,100 square feet of space for your private enjoyment on a trip or vacation. The two-story building is located on Kauai and gives you the chance to explore everything the Garden Isle has to offer.",
+			"maxOccupancy": "10",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "5",
+			"bedType": "3 King and 2 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "4.5",
+			"roomCount": "4",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Dining",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bath",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Kithchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Guest Master",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bath",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Interiors",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Guest Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Dining Table",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Kaiholo 3-Bedroom Ocean Front Residence",
+			"url": "https://www.timberskauai.com/stay/kaiholo-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "3",
+			"bedType": "2 King and 1 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Dining",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bath",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Kithchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Guest Master",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bath",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Interiors",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Guest Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Dining Table",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Kaiholo 3-Bedroom Superior Residence",
+			"url": "https://www.timberskauai.com/stay/kaiholo-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "For families and groups of up to eight, the Kaiholo Three-Bedroom Superior offers all the luxury and relaxation possible for a Hawaiian vacation. It comes with three bedrooms, three bathrooms, and a powder room for guests. Located on Kauai, the oldest of the Hawaiian islands, it creates a slice of paradise with top amenities and extras for a tropical trip. The home has beautiful views of the ocean and is near the Jack Nicklaus Ocean Golf Course.",
 			"maxOccupancy": "8",
 			"checkInTime": "16:00",
 			"checkOutTime": "09:00",
 			"bedCount": "4",
-			"bedType": "3 King and 1 Queen Bed",
+			"bedType": "2 King and 2 Queen Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "3.5",
+			"roomCount": "3",
+			
+			"images": [
+				{
+					"caption": "Features",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Dining",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bath",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Kithchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Guest Master",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bath",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Interiors",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Guest Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Dining Table",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Kaiholo Master Bed",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
+				}
+				
+			],
+			"roomAmenitiesArr": [
+
+				{
+					"name": "Free Wifi",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Luxurious Bathrobes",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Full Kitchen",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				,
+				{
+					"name": "Washer/Dryer",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Living Area",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "No Smoking",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Balcony/Lanai/Terrace",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Coffee/Tea Maker",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Upgraded Bathroom Amenities",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+				{
+					"name": "Kitchen Supplies",
+					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
+				},
+			]
+		},
+		{
+			"type": "Room",
+			"name": "Kaiholo 4-Bedroom Superior Residence",
+			"url": "https://www.timberskauai.com/stay/kaiholo-residences",
+			"bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "False",
+			"description": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
+			"maxOccupancy": "10",
+			"checkInTime": "16:00",
+			"checkOutTime": "09:00",
+			"bedCount": "5",
+			"bedType": "3 King and 2 Queen Bed",
 			"smokingBoolean": "false",
 			"bathroomCount": "4.5",
 			"roomCount": "4",
