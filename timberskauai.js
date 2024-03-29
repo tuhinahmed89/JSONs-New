@@ -894,48 +894,60 @@
 					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Master Bed",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Master Bath",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Kithchen",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Guest Master",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Double Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Master Bath",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Lenai",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Kitchen",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Kitchen",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Interiors",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Guest Master Bedroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Guest Master Bed",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Living Room",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Dining Table",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Double Bedroom",
+					"url": "hhttps://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Living Room",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Bathroom",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
 				},
 				{
-					"caption": "Kaiholo Master Bed",
-					"url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
+					"caption": "Maliula Kitchen Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Integrated beverage/wine cooler",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Bedroom Interior",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+				},
+				{
+					"caption": "Maliula Hot Tub",
+					"url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
 				}
 				
 			],
