@@ -256,7 +256,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -284,7 +284,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -372,7 +372,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -400,7 +400,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -488,7 +488,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -516,7 +516,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -604,7 +604,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -632,7 +632,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -720,7 +720,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -748,7 +748,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -836,7 +836,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -864,7 +864,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -964,7 +964,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -992,7 +992,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1092,7 +1092,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1120,7 +1120,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1220,7 +1220,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1248,7 +1248,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1348,7 +1348,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1376,7 +1376,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1476,7 +1476,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1504,7 +1504,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1604,7 +1604,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1632,7 +1632,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1732,7 +1732,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1760,7 +1760,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -1876,7 +1876,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -1904,7 +1904,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -2022,7 +2022,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -2050,7 +2050,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
 		},
 		{
@@ -2168,7 +2168,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -2196,7 +2196,7 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences"
-				},
+				}
 			]
 		},
 		{
@@ -2274,7 +2274,7 @@
 				{
 					"name": "Full Kitchen",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				,
+				},
 				{
 					"name": "Washer/Dryer",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
@@ -2302,9 +2302,9 @@
 				{
 					"name": "Kitchen Supplies",
 					"url": "https://www.timberskauai.com/stay/kaiholo-residences/"
-				},
+				}
 			]
-		},
+		}
 		
 	],
 
@@ -2337,7 +2337,7 @@
 				"city": "Lihue",
 				"state": "HI", 
 				"zip": "96766",
-				"country": "US",
+				"country": "US"
 			},
 			
 			
