@@ -885,7 +885,7 @@
 			"bedType": "King",
 			"smokingBoolean": "false",
 			"bathroomCount": "1",
-			"roomCount": "",
+			"roomCount": "1",
 			"images": [
 				{
 					"caption": "one bedroom camelback suite",
