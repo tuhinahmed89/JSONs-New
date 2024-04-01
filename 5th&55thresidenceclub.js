@@ -99,33 +99,216 @@
 	"roomsArr": [
 	
 		{
-			"type": "",
-			"name": "",
-			"url": "",
-			"bookUrl": "",
+			"type": "Suite",
+			"name": "One Bedroom Signature Suite",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club",
+			"bookUrl": "https://www.andiamocollection.com/book?hotelCode=4255&startDate=2024-04-01&endDate=2024-04-06&adults=2",
 			"tourUrl": "",
-			"petsAllowedTrueOrFalse": "",
-			"description": "",
-			"maxOccupancy": "",
-			"checkInTime": "",
-			"checkOutTime": "",
-			"bedCount": "",
-			"bedType": "",
-			"smokingBoolean": "",
-			"bathroomCount": "",
-			"roomCount": "",
+			"petsAllowedTrueOrFalse": "false",
+			"description": "One-Bedroom Signature Residence offers cityscape views, private king bedroom with a private living room with a seating area and outfitted kitchenette.",
+			"maxOccupancy": "4",
+			"checkInTime": "16:00",
+	        "checkOutTime": "12:00",
+			"bedCount": "2",
+			"bedType": "1 King and 1 Sofa Beds",
+			"smokingBoolean": "false",
+			"bathroomCount": "1",
+			"roomCount": "1",
 			
 			"images": [
 				{
-					"caption": "",
-					"url": ""
+					"caption": "One Bedroom Signature Suite Bedroom",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_1brSte_2_87901-1_hi_res_RGB-1920x1424.jpg"
+				},
+                {
+					"caption": "One Bedroom Signature Suite Living Room",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_1brSte_87882_hi_res_RGB-1920x1396.jpg"
 				}
 			],
 			"roomAmenitiesArr": [
-
+                {
+					"name": "Fully Air Condition",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Personal Butler Service - 24 hours a day",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Daily housekeeping",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "complimentary garment pressing and shoe shine service",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Daily complimentary coffee or tea service",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "refrigerator",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "fully stocked mini-bar",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Free WiFi",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Free WiFi",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Non-smoking rooms",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				}
+			]
+		},
+        {
+			"type": "Suite",
+			"name": "Two Bedroom Signature Suite",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club",
+			"bookUrl": "https://www.andiamocollection.com/book?hotelCode=4255&startDate=2024-04-01&endDate=2024-04-06&adults=2",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "false",
+			"description": "These Residences offer two spacious king bedrooms, two Italian marble bathrooms, cityscape views, private living room with seating area and kitchenette.",
+			"maxOccupancy": "6",
+			"checkInTime": "16:00",
+	        "checkOutTime": "12:00",
+			"bedCount": "3",
+			"bedType": "2 King and 1 Double Sofa Beds",
+			"smokingBoolean": "false",
+			"bathroomCount": "2",
+			"roomCount": "2",
+			
+			"images": [
 				{
-					"name": "",
-					"url": ""
+					"caption": "Two Bedroom Signature Suite Bedroom",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_2brRes_studio2_88003_lo_res_RGB.jpg"
+				},
+                {
+					"caption": "Two Bedroom Signature Suite Bathroom",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_2brRes_bathrm_88027_lo_res_RGB.jpg"
+				}
+			],
+			"roomAmenitiesArr": [
+                {
+					"name": "Fully Air Condition",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Personal Butler Service - 24 hours a day",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Daily housekeeping",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "complimentary garment pressing and shoe shine service",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Daily complimentary coffee or tea service",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "refrigerator",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "fully stocked mini-bar",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Free WiFi",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Free WiFi",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Non-smoking rooms",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				}
+			]
+		},
+        {
+			"type": "Suite",
+			"name": "Studio Deluxe Suite",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club",
+			"bookUrl": "https://www.andiamocollection.com/book?hotelCode=4255&startDate=2024-04-01&endDate=2024-04-06&adults=2",
+			"tourUrl": "",
+			"petsAllowedTrueOrFalse": "false",
+			"description": "Intimate and well-appointed, our Studio Deluxe Residence offers a plush king bed, 5 fixture Italian marble bath, and an ample elegant living space with a seating area.",
+			"maxOccupancy": "2",
+			"checkInTime": "16:00",
+	        "checkOutTime": "12:00",
+			"bedCount": "1",
+			"bedType": "1 King Bed",
+			"smokingBoolean": "false",
+			"bathroomCount": "1",
+			"roomCount": "1",
+			
+			"images": [
+				{
+					"caption": "Studio Deluxe Suite Bedroom",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_studio2_87813_hi_res_RGB-1920x1314.jpg"
+				},
+                {
+					"caption": "Two Bedroom Signature Suite Living Room",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_studio1_87770_hi_res_RGB-1920x1365.jpg"
+				},
+                {
+					"caption": "Two Bedroom Signature Suite Living Room",
+					"url": "https://www.andiamocollection.com/content/uploads/2023/08/5th55th_vignette_desk_87827_hi_res_RGB-1920x2597.jpg"
+				}
+			],
+			"roomAmenitiesArr": [
+                {
+					"name": "Fully Air Condition",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Personal Butler Service - 24 hours a day",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Daily housekeeping",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "complimentary garment pressing and shoe shine service",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Daily complimentary coffee or tea service",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "refrigerator",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "fully stocked mini-bar",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Free WiFi",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Free WiFi",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+				},
+                {
+					"name": "Non-smoking rooms",
+					"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
 				}
 			]
 		}
@@ -141,8 +324,8 @@
 
 			"menu": [
 				{
-					"name": "Breakfast",
-					"url": "https://www.globalambassadorhotel.com/pdf/LeAmeBreakfast_0224.pdf"
+					"name": "",
+					"url": ""
 				}
 				],
 
@@ -198,15 +381,25 @@
 
 	"reviews": [
 		{
-			"", 
-			"value": "",
-			"datePublished": "",
+			"author":   "Darling Jo", 
+			"value": "5",
+			"datePublished": "2023-09-28",
 			"reviewed": {
 
 				"type": "VacationRental", 
 				"name": ""
 			}
 		},
+        {
+			"author":   "Andrew", 
+			"value": "5",
+			"datePublished": "2023-06-25",
+			"reviewed": {
+
+				"type": "VacationRental", 
+				"name": ""
+			}
+		}
 	]
 	
 }
