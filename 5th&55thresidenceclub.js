@@ -45,9 +45,9 @@
 
 	"contact": {
 
-		"phone": "",
+		"phone": "1-877-529-1921",
 
-		"email": ""
+		"email": "info@andiamocollection.com"
 	},
 	
 	"location": {
