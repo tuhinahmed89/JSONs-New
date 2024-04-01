@@ -72,8 +72,52 @@
 	"amenitiesArr": [
 		
 		{
-			"name": "",
-			"url": ""
+			"name": "Air conditioning in public area",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Concierge",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Currency exchange",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Elevator",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Heating in public area",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Ironing service",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Luggage storage",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Meeting/banquet facilities",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Safety deposit boxes",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Salon",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Smoke-free property",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
+		},
+		{
+			"name": "Fitness center",
+			"url": "https://www.andiamocollection.com/stay-with-us/5th-55th-residence-club"
 		}
 	],
 
