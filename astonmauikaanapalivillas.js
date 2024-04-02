@@ -68,7 +68,7 @@
 
 		"email": "res.mkv@astonreservations.com"
 	},
-	
+
 
 	"location": {
 		"street": "45 Kai Ala Drive",
@@ -76,8 +76,8 @@
 		"state": "HI",
 		"zip": "96761",
 		"country": "USA",
-		"lat": 20.9343,
-		"long": -156.6913
+		"lat": "20.9343",
+		"long": "-156.6913"
 	},
 
 
@@ -95,7 +95,7 @@
 
 
 	"amenitiesArr": [
-		
+
 		{
 			"name": "Swimming Pools",
 			"url": "https://www.astonmauikaanapalivillas.com/featured-amenities",
@@ -136,12 +136,11 @@
 			"url": "https://www.astonmauikaanapalivillas.com/featured-amenities",
 			"imageUrl": "https://s40340.pcdn.co/wp-content/uploads/2021/09/In-House-Retreats-1-495x400.jpg"
 		}
-		
+
 	],
 
 
-	"imageArr": [
-		{
+	"imageArr": [{
 			"caption": "Set your watch to “Island Time",
 			"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villas-Pool-View_5040x3360-1500x430-1.jpg"
 		},
@@ -168,8 +167,7 @@
 	],
 
 
-	"roomsArr": [
-				{
+	"roomsArr": [{
 			"type": "Room",
 			"name": "Hotel Room",
 			"url": "https://www.astonmauikaanapalivillas.com/guest-rooms",
@@ -184,8 +182,7 @@
 			"bathroomCount": "1",
 			"roomCount": "1",
 			"smokingBoolean": "False",
-			"images": [
-				{
+			"images": [{
 					"caption": "Hotel Room",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-rooms-standard-bedroom-1440x993-1-1030x710.jpg"
 				},
@@ -198,8 +195,7 @@
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg"
 				}
 			],
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -217,7 +213,7 @@
 				}
 			]
 		},
-		{			
+		{
 
 			"type": "Room",
 
@@ -234,7 +230,7 @@
 			"description": "This hotel room deluxe features upgraded décor and a contemporary bathroom. Amenities include central air conditioning, a coffee maker, and mini-refrigerator.",
 
 
-			"maxOccupancy": 2,
+			"maxOccupancy": "2",
 
 
 			"checkInTime": "16:00",
@@ -252,8 +248,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Hotel Room Deluxe Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-deluxe-bedroom-1440x993-1-1030x710.jpg"
 				},
@@ -284,8 +279,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -347,8 +341,7 @@
 
 			"roomCount": "",
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Hotel Room Premium",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-premium-bed-1440x964-1-1030x690.jpg"
 				},
@@ -357,8 +350,7 @@
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-hotel-room-shower-1440x993-1-1030x710.jpg"
 				}
 			],
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -415,8 +407,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Aston Maui Kaanapali Villa – Studio Garden View Bed",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-1-8192x5464-large-1030x687.jpg"
 				},
@@ -440,11 +431,10 @@
 					"caption": "Aston Maui Kaanapali Villa – Studio Garden View Bathroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-Studio-GV-Bathroom-1-8192x5464-large-1030x687.jpg"
 				}
-				
+
 			],
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -484,7 +474,7 @@
 			"description": "This deluxe studio offers serene tropical views of our surrounding gardens. Studio features quality furnishings and a contemporary kitchen and bathroom.",
 
 
-			"maxOccupancy": 3,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -502,16 +492,13 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
-					"caption": "Studio Garden View Deluxe",
-					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bedroom-1440x993-1-1030x710.jpg"
-				}
-			],
+			"images": [{
+				"caption": "Studio Garden View Deluxe",
+				"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-deluxe-bedroom-1440x993-1-1030x710.jpg"
+			}],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -534,7 +521,7 @@
 			]
 
 		},
-				{
+		{
 
 
 			"type": "Room",
@@ -552,7 +539,7 @@
 			"description": "With upscale decor and views of our lush tropical gardens, this premium studio offers some added luxury to comfortable accommodations. Premium studios feature modern upgraded kitchens and bathrooms for up to three people.",
 
 
-			"maxOccupancy": "3" ,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -570,8 +557,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Studio Garden View Deluxe Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-premium-bedroom-1440x993-2-1030x710.jpg"
 				},
@@ -602,8 +588,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -640,14 +625,11 @@
 			"bedCount": "2",
 			"bedType": "King and Sofa Bed OR Queen and Sofa Bed",
 			"smokingBoolean": "False",
-			"images": [
-				{
-					"caption": "1-Bedroom Garden View",
-					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-1bdrm-garden-view-bedroom-1440x822-1-1030x588.jpg"
-				}
-			],
-			"roomAmenitiesArr": [
-				{
+			"images": [{
+				"caption": "1-Bedroom Garden View",
+				"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-1bdrm-garden-view-bedroom-1440x822-1-1030x588.jpg"
+			}],
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -683,7 +665,7 @@
 			"description": "With upscale decor and views of our lush tropical gardens, this premium studio offers some added luxury to comfortable accommodations. Premium studios feature modern upgraded kitchens and bathrooms for up to three people.",
 
 
-			"maxOccupancy": "3" ,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -701,8 +683,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Studio Garden View Deluxe Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-garden-view-premium-bedroom-1440x993-2-1030x710.jpg"
 				},
@@ -733,8 +714,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -775,7 +755,7 @@
 			"description": "With premium amenities and more space to spread out, this 1 bedroom suite offers serene views of our tropical landscape. Suite features upgraded furnishings, a separate living area, designer bathroom, and a fully equipped gourmet kitchen",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -793,8 +773,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Aston Maui Kaanapali Villa – 1 Bedroom Garden View Premium - Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-1BD-GV-Premium-Bedroom-1-8192x5464-large-1030x687.jpg"
 				},
@@ -822,12 +801,11 @@
 					"caption": "Aston Maui Kaanapali Villa – 1 Bedroom Garden View Premium - Bathroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/MKV-1BD-GV-Premium-Bathroom-1-8192x5464-large-1030x687.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -868,7 +846,7 @@
 			"description": "Take in peaceful views of the sparkling Pacific Ocean. This studio features simple and clean appointments, central air conditioning, and a fully equipped kitchen.",
 
 
-			"maxOccupancy": "3" ,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -886,8 +864,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Studio Ocean View Area",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-ocean-view-living-area_1440x993-1030x710.jpg"
 				},
@@ -919,12 +896,11 @@
 					"caption": "Studio Ocean View Bathroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-studio-ocean-view_bathroom_1440x993-1030x710.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -965,7 +941,7 @@
 			"description": "Upgrade your getaway with beautiful Pacific Ocean views and premium amenities. This studio features upgraded furnishings, a designer bathroom, and fully equipped gourmet kitchen.",
 
 
-			"maxOccupancy": "3" ,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -983,8 +959,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Aston Maui Kaanapali Villa – Studio Ocean View Premium - Bed",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-Studio-Ocean-View-Premium-Bed-1030x687.jpg"
 				},
@@ -1012,12 +987,11 @@
 					"caption": "Aston Maui Kaanapali Villa – Studio Ocean View Premium -Bathroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-Studio-Ocean-View-Premium-Bathroom-1-1030x687.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1058,7 +1032,7 @@
 			"description": "This studio offers a large balcony and easy access to the beach. Studio features central air conditioning and a fully equipped kitchen.",
 
 
-			"maxOccupancy": "3" ,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -1076,17 +1050,15 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Studio Oceanside",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-outside-premium-living-1440x938-1-1030x757.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1127,7 +1099,7 @@
 			"description": "Upgrade your vacation and stay just steps from the beach in our premium studios with modern amenities and easy access to the oceanfront. Studio features upscale furnishings, a designer bathroom, and fully equipped gourmet kitchen.",
 
 
-			"maxOccupancy": "3" ,
+			"maxOccupancy": "3",
 
 
 			"checkInTime": "16:00",
@@ -1145,8 +1117,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Studio Oceanside Premium",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-studio-premium-1440x1053-1-1030x753.jpg"
 				},
@@ -1154,12 +1125,11 @@
 					"caption": "Studio Oceanside",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-outside-premium-living-1440x938-1-1030x757.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1200,7 +1170,7 @@
 			"description": "Enjoy beautiful views of the sparkling Pacific Ocean from this spacious suite with one bedroom. Suite features central air conditioning, a separate living area, and fully equipped kitchen.",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -1218,8 +1188,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Studio Oceanside Premium",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2022/10/Aston-Maui-Kaanapali-Villas-1-Bedroom-Ocean-View-Bedroom-1030x691.jpg"
 				},
@@ -1235,12 +1204,11 @@
 					"caption": "Aston Maui Kaanapali Villas-1-Bedroom-Ocean-View-Shower",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2022/10/Aston-Maui-Kaanapali-Villas-1-Bedroom-Ocean-View-Shower-5040x3360-1-1030x687.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1281,7 +1249,7 @@
 			"description": "Treat your vacation to an upgrade with premium amenities and gorgeous ocean views. Suite features upgraded furnishings, a separate living area, designer bathroom, and fully equipped gourmet kitchen.",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -1299,8 +1267,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Aston Maui Kaanapali Villa – 1 Bedroom Ocean View Premium -Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-1-Bedroom-Ocean-View-Premium-Bedroom-1030x687.jpg"
 				},
@@ -1331,8 +1298,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1373,7 +1339,7 @@
 			"description": "Experience true leisure in this 1-bedroom suite with a private balcony and easy access to the beach. Suite features air conditioning, a separate living area, and fully equipped kitchen.",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -1391,8 +1357,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "1-Bedroom Oceanside",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/03/aston-maui-kaanapali-villas-1bdrm-oceanside-bedroom-1440x957-1-1030x685.jpg"
 				},
@@ -1403,8 +1368,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1445,7 +1409,7 @@
 			"description": "The ultimate luxury, this upgraded 1-bedroom suite offers premium amenities and oceanside access to the beach. Suite features upgraded furnishings, a separate living area, designer bathroom, and fully equipped gourmet kitchen.",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -1463,8 +1427,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Aston Maui Kaanapali Villa – 1 Bedroom Oceanside Premium -Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2023/09/Aston-Maui-Kaanapali-Villa-%E2%80%93-1-Bedroom-Oceanside-Premium-Bedroom-1030x687.jpg"
 				},
@@ -1491,8 +1454,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1533,7 +1495,7 @@
 			"description": "Ideal for families and small groups, this two bedroom suite offers maximum space and comfort. Suite features central air conditioning, a separate living area, and fully equipped kitchen.",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -1551,8 +1513,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "2-Bedroom Suite Deluxe Bedroom",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/aston-maui-kaanapali-villas-2-bedroom-suite-deluxe_master-bedroom-1440x993-1-1030x710.jpg"
 				},
@@ -1591,8 +1552,7 @@
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1615,7 +1575,7 @@
 			]
 
 		},
-{
+		{
 
 
 			"type": "Suite",
@@ -1633,7 +1593,7 @@
 			"description": "With 180-degree unobstructed oceanfront views, this premium 1-bedroom suite offers an elevated vacation experience. Suite features upgraded furnishings, a separate living area, designer bathroom, and fully equipped gourmet kitchen.",
 
 
-			"maxOccupancy": "4" ,
+			"maxOccupancy": "4",
 
 
 			"checkInTime": "16:00",
@@ -1651,8 +1611,7 @@
 			"roomCount": "",
 
 
-			"images": [
-				{
+			"images": [{
 					"caption": "Aston-Maui-Kaanapali-Villas-1-Bedroom-Oceanfront-Premium_Kitchen",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/Aston-Maui-Kaanapali-Villas-1-Bedroom-Oceanfront-Premium_Kitchen_5040x3360-medium-1030x687.jpg"
 				},
@@ -1672,12 +1631,11 @@
 					"caption": "Aston-Maui-Kaanapali-Villas-1-Bedroom-Oceanfront-Premium_Shower",
 					"url": "https://s40340.pcdn.co/wp-content/uploads/2021/06/Aston-Maui-Kaanapali-Villas-1-Bedroom-Oceanfront-Premium_Shower_5040x3360-medium-1030x687.jpg"
 				}
-				
+
 			],
 
 
-			"roomAmenitiesArr": [
-				{
+			"roomAmenitiesArr": [{
 					"name": "Air conditioning",
 					"url": "https://www.astonmauikaanapalivillas.com/guest-rooms"
 				},
@@ -1700,14 +1658,14 @@
 			]
 
 		}
-	
+
 	],
 
 
 	"restaurants": [
-		
+
 		{
-			
+
 			"name": "Castaway Café",
 			"url": "https://www.astonmauikaanapalivillas.com/resort-dining/",
 			"description": "Indulge in a casual beachfront dining experience at Castaway Café. The menu features cuisine with island flavors that are inspired by the Pacific region. You’ll love the diverse menu offering delicious salads, sandwiches, seafood, burgers, and a nightly fresh fish selection. Dine al fresco, gaze out at Pacific Ocean, and enjoy romantic sunsets during dinner with the islands of Lanai and Molokai in the distance. Castaway Café is surrounded by towering palms and is located between the resort’s swimming pools and the ocean.",
@@ -1715,18 +1673,18 @@
 
 			"menuUrl": "https://www.castawaycafe.com/menu",
 
-		
+
 			"priceRange": "$$$",
 
-		
+
 			"contact": {
 
 				"phone": "1-808-661-9091",
 				"email": ""
-				
+
 			},
-			
-		
+
+
 			"location": {
 				"street": "45 Kai Ala Drive",
 				"city": "Lahaina",
@@ -1734,44 +1692,43 @@
 				"zip": "96761",
 				"country": "USA"
 			},
-			
-		
+
+
 			"rating": {
-				"value": 4.4,
-				"count": 1226
+				"value": "4.4",
+				"count": "1226"
 			},
 
 
 			"openingHours": [],
 			"servesCuisine": []
-			
+
 		}
 	],
 
 
 	"spas": [
-		
+
 		{
 			"name": "Spa La Mer",
 			"url": "https://www.astonmauikaanapalivillas.com/featured-amenities/",
 			"description": "Make your getaway complete with a session at our on-site spa. Spa La Mer offers a variety of wellness services including therapeutic massage, couple experiences, and facial treatments. It’s your time to relax and unwind, make an appointment today! We recommend booking your appointment in advance. Treat your skin to a rejuvenating facial with healing vitamins and botanicals. Enhance your wellness experience with aromatherapy or a warm coconut oil scalp massage."
 		}
-		
+
 	],
 
 
 	"healthClubs": [
-		
+
 		{
 			"name": "",
 			"url": "",
 			"description": ""
 		}
-		
+
 	],
 
-	"reviews": [
-		{
+	"reviews": [{
 			"author": "William Rogers",
 			"value": "5",
 			"datePublished": "2023-11-20",
@@ -1798,5 +1755,5 @@
 			}
 		}
 	]
-	
+
 }
