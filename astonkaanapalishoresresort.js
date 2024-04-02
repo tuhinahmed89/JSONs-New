@@ -143,7 +143,7 @@
   ],
   "roomsArr": [
     {
-      "type": "HotelRoom",
+      "type": "Room",
       "name": "Hotel Room",
       "url": "https://www.astonkaanapalishoresresort.com/rooms-suites",
       "bookurl": "https://be.synxis.com/?hotel=14892&level=hotel&locale=en-US&room=HR00&src=AKS.HR00.schema",
@@ -163,6 +163,32 @@
         {
           "caption": "aston kaanapali shores hotel bathroom",
           "url": "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-bathroom-937-026-1440x960-1.jpeg"
+        }
+      ],
+	   "roomAmenitiesArr": [
+        {
+          "name": "Integrative Health Plan",
+          "url": "https://theranchlife.com/health-and-fitness-programs/functional-health-programs/#the-ranch"
+        },
+        {
+          "name": "Central air-conditioning",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "Full kitchen",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "Private balcony",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "Washer/dryer",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "WiFi access",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
         }
       ]
     },
@@ -193,10 +219,30 @@
           "url": "https://s42525.p631.sites.pressdns.com/wp-content/uploads/2023/10/aston-kaanapali-shores-hotel-jr-suite-kitchen-932-011-1440x960-2.jpeg"
         }
       ],
-      "roomAmenitiesArr": [
+	  "roomAmenitiesArr": [
         {
           "name": "Integrative Health Plan",
           "url": "https://theranchlife.com/health-and-fitness-programs/functional-health-programs/#the-ranch"
+        },
+        {
+          "name": "Central air-conditioning",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "Full kitchen",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "Private balcony",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "Washer/dryer",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
+        },
+        {
+          "name": "WiFi access",
+          "url": "https://www.astonkaanapalishoresresort.com/rooms-suites/"
         }
       ]
     },
