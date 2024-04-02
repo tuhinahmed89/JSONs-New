@@ -1,3 +1,4 @@
+
 {
 	"config": {
 		"live": "true", 
@@ -1290,51 +1291,8 @@
 			"openingHours": [],
 			"servesCuisine": []
 			
-		},
-		{
-			
-			"name": "Lobby Bar",
-			"url": "https://www.globalambassadorhotel.com/restaurants/lobby-bar",
-			"description": "Take it old-school in the plush surrounds of the Lobby Bar. Savor a handcrafted cocktail by expert bartenders, discover old favorites with a delightfully different twist, and tap your feet as you sink into a cozy armchair. Whether joining for an evening with a silky jazz trio or for an artist-in-residency night, you’ll experience the best live music in a haven of good taste at our luxury Phoenix hotel.",
-
-			
-	"menu": [
-				{
-					"name": "Lobby Bar",
-					"url": "https://www.globalambassadorhotel.com/pdf/LobbyBar_0324.pdf"
-				}
-				
-			],
-
-			"priceRange": "$$$",
-
-			"contact": {
-
-				"phone": "1‑480-697-6201", 
-				"email": "sales@globalambassadorhotel.com"
-				
-			},
-			
-			"location": {
-				"street": "4360 E Camelback Rd",
-				"city": "Phoenix",
-				"state": "AZ", 
-				"zip": "85018",
-				"country": "USA"   
-
-			},
-			
-			
-			"rating": {
-				"value": "",
-				"count": ""
-			},
-
-			
-			"openingHours": [],
-			"servesCuisine": []
-			
 		}
+		
 	],
 
 	"spas": [
