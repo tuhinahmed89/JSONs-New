@@ -27,21 +27,21 @@
     "instagramUrl": "https://www.instagram.com/hotelbennett",
     "linkedinUrl": "",
     "rating": {
-        "value": "4.8",
-        "count": "135"
+        "value": "4.6",
+        "count": "730"
     },
     "contact": {
-        "phone": "1-844-440-7572",
-        "email": "info@timberskauai.com"
+        "phone": "1-833-313-1798",
+        "email": ""
     },
     "location": {
-        "street": "3770 Ala’oli Way",
-        "city": "Lihue",
-        "state": "HI",
-        "zip": "96766",
+        "street": "404 King St",
+        "city": "Charleston",
+        "state": "SC",
+        "zip": "29403",
         "country": "US",
-        "lat": "21.9583",
-        "long": "-159.3451"
+        "lat": "32.8121",
+        "long": "-79.2902"
     },
 
     "amenitiesArr": [
