@@ -1080,1116 +1080,698 @@
             ]
         },
         {
-            "type": "Room",
-            "name": "Laola 4-Bedroom Owner Designed Residence",
-            "url": "https://www.timberskauai.com/stay/laola-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "type": "Suite",
+            "name": "Ambassador Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
+            "petsAllowedTrueOrFalse": true,
 
-            "description": "In Hawaiian, Lāola translates as “nurturing life” — the dawning of a new beginning. Lāola is a breath of new life, nurtured in peace and harmony, attracting all goodness. Lāola luxury townhomes feature over 4,000 square feet of living space and were designed for true indoor/outdoor Hawaiian Living. These bi-level residences are set directly above the 15th fairway of the Ocean Course and enjoy breathtaking views of the Pacific Ocean. To the east and west are views of the historic Ninini Point Lighthouse and dramatic Ha‘upu mountain range. Choose from three- and four-bedroom floor plans with gracious living spaces featuring a master retreat on the upper level with a private lanai and outdoor rain shower. On the ground level an open layout includes the living room, a chef’s kitchen and guest suite opening to a spacious lanai that leads to a landscaped yard with a private pool. Unique to these homes is a detached carport with storage for your beach toys and adventure vehicle.",
+            "description": "Unforgettably inspiring views from an expansive outdoor terrace distinguish the Ambassador Suite. Grand in design, this club-level luxury suite boasts 600 square feet of exquisite interiors with an impeccably furnished Master King Bedroom and a separate living room with panel televisions and honor bar. The spacious bathroom features a glass-enclosed shower, dual vanity and deep-soaking pedestal tub. Multiple terrace doors open to the expansive, 500-square feet terrace, which overlooks Marion Square, King Street, and the historic city. An outdoor dining table, chaise lounges, and a sectional sofa make this extraordinary space perfect for entertaining and relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
 
-            "maxOccupancy": "8",
+            "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "3 King Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "4.5",
-            "roomCount": "4",
+            "bathroomCount": "",
+            "roomCount": "1",
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_ext_3161_lo_res_RGB-1440x800.jpg"
+                    "caption": "Ambassador Suite",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/ambassador.jpg?00973437914769355"
                 },
                 {
-                    "caption": "Laola Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_kitchen_3270_lo_res_RGB-1-1440x800.jpg"
+                    "caption": "Ambassador Suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/ambassador-living-room.jpeg?0010382254162110582"
                 },
                 {
-                    "caption": "Laola Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_details_3681_lo_res_RGB-1-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guest Room Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestromdbl_3175_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Outdoor shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestrmbathrm_3140_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestroomdbl2_3302_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Outdoor shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466b_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbedrm_3330_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola down Stairs",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_downstairs_entry_3893_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm_3419_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom 2",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm2_4136_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom Vignette",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrmvignette_3090_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Entry",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_entry_3526_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola lanai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_lanai_3517_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_dining_3286_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lenai_4709_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_guestmasterbedrm_3961_lo_res_RGB-1440x800.jpg"
+                    "caption": "Ambassador Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?047571237014743506"
                 }
             ],
             "roomAmenitiesArr": [
-                {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+               {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         },
         {
-            "type": "Room",
-            "name": "Laola Nani 3-Bedroom Signature Residence",
-            "url": "https://www.timberskauai.com/stay/laola-nani-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "type": "Suite",
+            "name": "Presidential Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The 15th fairway of the signature Jack Nicklaus Ocean Course is a long arc that traces the shoreline of Ninini Point Bay. Set dramatically above the fairway, with sweeping views from the iconic Ninini Point Lighthouse to the southern horizon, are 36 luxurious townhomes. This is Lāola Nani. These expansive three- and four-bedroom residences are thoughtfully designed for a lifestyle that moves effortlessly indoors to out. Primary suites are true tropical retreats with private lanais and outdoor rain showers. And because vacations are all about gatherings, the main level features an open and entertaining plan with living/dining spaces opening to the lanai and plunge pool. A chef’s kitchen at the heart of it all? Of course. Drawing inspiration from the natural surroundings, the Lāola Nani townhomes at Timbers Kauaʻi were designed to offer the perfect balance of serenity and nature in a fresh, contemporary Hawaiian feel.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "Expansive views of the Ravenel Bridge, Cooper and Ashley Rivers, and the Holy City skyline from a wrap-around exterior terrace make the Presidential Suite an extraordinary space to take in Charleston’s splendor. An outdoor dining table and chaise lounges provide the perfect means for relaxing and entertaining in this club-level suite. Inside the terrace’s many French doors, the opulent and highly coveted space features a great room sitting area with panel television, honor bar, and indoor dining area. The Master Bedroom, with luxurious King bedding, connects to an elegant bathroom with a glass-enclosed shower, dual vanity and a deep-soaking pedestal tub to ensure the perfect place for relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "3 King Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
+            "bathroomCount": "",
+            "roomCount": "1",
             "images": [
                 {
-                    "caption": "Laola Nani Private plunge pool",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-53-1440x800.jpg"
+                    "caption": "Presidential Suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/presidental.jpg?008134598861604414"
                 },
                 {
-                    "caption": "Laola Nani Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-51-1440x800.jpg"
+                    "caption": "Presidential Suite bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/sized-presidential-suite.jpeg?037654147205367283"
                 },
                 {
-                    "caption": "Laola Nani Stunning ocean and golf course views",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-02-1440x800.jpg"
-                },
-                {
-                    "caption": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-03-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Nani kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-10-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Nani Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-05-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Nani Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-31-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Bedroom 2",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-22-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola nani living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-34-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-Timbers-Kauai-Hokuala-Luxury-Oceanfront-Townhomes-20-1440x800.jpg"
+                    "caption": "Presidential Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/hotel-bennett-presidential-suite-bathroom.jpg?028834042449368535"
                 }
 
             ],
             "roomAmenitiesArr": [
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                }
+            ]
+        },
+        {
+            "type": "Suite",
+            "name": "Premium Two Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+
+            "description": "Grand views of Charleston’s historic landscape define the Premium Two-Bedroom Suite, which combines the 600 square feet of a Premium One-Bedroom Suite with a Premier King’s 455 square feet of impeccably furnished space. This suite offers a separate Master King bedroom and a living area with settee for two, dining table, panel televisions and honor bar. The rooms’ designer appointments include luxury bedding, and elegant décor, which pays homage to Southern living at its finest. Spacious bathrooms with glass-enclosed showers, marble vanities, and deep-soaking pedestal tubs ensure the perfect places for relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+
+            "maxOccupancy": "4",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "2",
+            "images": [
+                {
+                    "caption": "premium two bedroom suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/premium-two-bed.jpg?07456230533995596"
                 },
                 {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "caption": "King Room City View",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/King-Room-City-View1.jpeg?017931576394006332"
                 },
                 {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "caption": "premium two bedroom suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?011191778459243906"
+                }
+            ],
+            "roomAmenitiesArr": [
+               {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                }
+            ]
+        },
+        {
+            "type": "Suite",
+            "name": "Signature Two-Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+
+            "description": "The Signature Suite features 1,050 square feet of luxury space for guests who desire a more residential-style retreat. Designer appointments and elegant décor abound in the Master King Bedroom and separate living area. A formal dining room hosts guests above Upper King Street. Mirrored French doors open to an opulent, oversized bathroom with a glass-enclosed shower, dual vanity and a deep-soaking pedestal tub. The Signature Suite adjoins to the Deluxe Double Queen room, which provides up to 495 square feet of designer appointments and elegant décor. Complete with a panel television and honor bar, the room also features a spacious bathroom with a deep-soaking pedestal tub, glass-enclosed shower, and marble vanity. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+
+            "maxOccupancy": "6",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "2",
+            "bedType": "1 King Bed and Double Queen Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "3",
+            "images": [
+                {
+                    "caption": "signture one bedroom suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/signture-one-bed.jpg?04211559088364347"
+                },
+                {
+                    "caption": "signture one bedroom suite bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/601.jpeg?08548310546233122"
+                },
+                {
+                    "caption": "signture one bedroom suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?0057232002737736654"
+                }
+            ],
+            "roomAmenitiesArr": [
+               {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                }
+            ]
+        },
+        {
+            "type": "Suite",
+            "name": "St. Matthew's Two-Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+
+            "description": "Beneath the soaring steeple of historic St. Matthew's Lutheran Church, this upper-floor suite reveals why Charleston is affectionately known as The Holy City. Designer appointments and elegant décor abound in the suite’s Master King Bedroom and separate living area, which include panel televisions and honor bar. The spacious bathroom features a glass-enclosed shower, dual vanity and deep-soaking pedestal tub. The St. Matthew's Suite adjoins to a Premier King, which offers stunning views of Charleston’s historic skyline. With 440 square feet of elegant décor and designer appointments, the room includes a panel television, private bar, and oversized bathroom with a glass-enclosed shower, marble vanity, and deep-soaking pedestal tub. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+
+            "maxOccupancy": "6",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "2",
+            "bedType": "1 King Bed and Double Queen Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "3",
+            "images": [
+                {
+                    "caption": "St. Matthew's Two-Bedroom Suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/st-matthews.jpg?00393885841319912"
+                },
+                {
+                    "caption": "St. Matthew's Two-Bedroom Suite bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/601.jpeg?017905538632754658"
+                },
+                {
+                    "caption": "St. Matthew's Two-Bedroom Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?026278200861475964"
+                }
+            ],
+            "roomAmenitiesArr": [
+               {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                }
+            ]
+        },
+         {
+            "type": "Suite",
+            "name": "Ambassador Two-Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+
+            "description": "Inspiring views from an expansive outdoor terrace distinguish the Ambassador Suite as a truly unique space. Grand in design, this club-level luxury suite boasts 600 square feet of exquisite interiors with an impeccably furnished Master King Bedroom and a separate living room. The spacious bathroom’s glass-enclosed shower, dual vanity and deep-soaking pedestal tub ensure the perfect place for relaxing. Multiple terrace doors open to the 500-square feet terrace, which overlooks Marion Square, King Street, and the holy city. Outdoor furniture makes this extraordinary space perfect for entertaining and relaxing. The Ambassador Suite adjoins to a Premier King room, which features an outdoor dining table and chaise lounges for enjoying the scenic skyline. With 440 square feet of elegant décor and designer appointments, the room includes a panel television, private bar, and spacious bathroom with a glass-enclosed shower, marble vanity, and a deep-soaking pedestal tub. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+
+            "maxOccupancy": "4",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "2",
+            "images": [
+                {
+                    "caption": "Ambassador Two-Bedroom Suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/ambassador-living-room.jpeg?014541637842248312"
+                },
+                {
+                    "caption": "Ambassador Two-Bedroom Suite bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/ambassador.jpg?07768790884268755"
+                },
+                {
+                    "caption": "Ambassador Two-Bedroom Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?014884869397459832"
+                }
+            ],
+            "roomAmenitiesArr": [
+               {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                }
+            ]
+        },
+        {
+            "type": "Suite",
+            "name": "Owner’s Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+
+            "description": "Available exclusively upon request, the personally designed Owner’s Suite reflects the tasteful palate of the Bennett family, the local family which carefully designed and owns the hotel. The most luxurious hotel suite in Charleston, it enjoys spectacular views of historic Marion Square and the city’s famed, church-steeple skyline. Two-story 2,380 square-foot suite features custom furnishings, including a dining area for six, an expansive living room with two sitting areas, butler’s pantry, wine cooler, and a gourmet kitchen. Multiple French doors open onto to the extraordinary wrap-around terrace. At 838-square feet, this outdoor retreat provides the perfect place for dining, entertaining, or relaxing. The suite’s second floor features an open office area and master suite with a king bed, a private sitting space, spacious walk-in closet and dressing room, and a spa-style bathroom with a pedestal soaking tub, walk-in shower and double vanity. The suite includes King’s Club access, signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+
+            "maxOccupancy": "4",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "2",
+            "images": [
+                {
+                    "caption": "Owner’s Suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/owners-suite.jpg?05988847161934079"
+                },
+                {
+                    "caption": "Owner’s Suite bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/HBOS-Bedroom.jpeg?06442547035583848"
+                },
+                {
+                    "caption": "Owner’s Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/hbos-bathroom-1-.jpg?0957043067774856"
+                }
+            ],
+            "roomAmenitiesArr": [
+               {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         }
     ],
-    "residencesArr": [
-        {
-            "name": "Lāola 1003",
-            "url": "https://www.timberskauai.com/own/laola-residences/laola-1003",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "5,650,000",
-            "numberOfRooms": "4",
-            "sqft": "3,547",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/laola-residences/laola-1003",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/1003Laola_3BDFloorplan-Update-4.10.24-scaled.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Beach View from Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-037-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Beach View from Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-036-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Beach View from Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-035-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-031-MR-775x580.jpg"
-                },
-                {
-                    "caption": "Kitchen / Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-038-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Beach View from Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-026-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Walk in Shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-024-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-020-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Beach View from Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-018-MR-1240x900.jpg"
-                },
-                {
-                    "caption": "Beach View from Patio",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/Laola-Townhome-1003-Timbers-Kauai-Hokuala-Resort-Real-Estate-009-MR-1240x900.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Split-level layout",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "Stunning ocean and golf course views",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "Main-level lanai with private plunge pool, outdoor grill, and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "Elegant upper-level primary suite with private lanai",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "10′ ceilings throughout",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "Expansive, disappearing glass walls for seamless outdoor living",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "Stunning Chef’s kitchen with Thermador appliances, custom Sapele cabinetry, integrated wine/beverage cooler, and granite and quartzite countertops",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                },
-                {
-                    "name": "Detached covered parking and storage",
-                    "url": "https://www.timberskauai.com/own/laola-residences/laola-1003/"
-                }
-            ],
-            "description": "This 3 bedroom, 3.5 bath split-level home boasts over 3,500 sq. ft. of total living space with stunning panoramic ocean views and beautiful sunrises. The open floor plan with wall-to-wall glass doors allows for seamless indoor/outdoor living. The gracious lanai, ideal for entertaining or relaxing, is over 1,000 sq. ft. of outdoor living space with an outdoor grill and private plunge pool. Just inside, the Chef’s kitchen features granite and quartzite countertops, custom Sapele cabinetry, professional Thermador appliances, a wine and beverage cooler, and a built-in ice maker. Upstairs, the Master Suite features a built-in coffee nook, a luxurious soaking tub, and a spacious, oceanview lanai. Two additional bedroom suites complete the home with plenty of room for guests and loved ones.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 1003",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Lāola Nani 2006",
-            "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "7,550,000",
-            "numberOfRooms": "",
-            "sqft": "3,899",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2023/08/Laola-Nani-Floor-Plans-Style-B-Updated-8.2.23-scaled.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "View Inside from Pool",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/09/1686246920-Unit_B-CAM_004-A.jpg"
-                },
-                {
-                    "caption": "Kitchen & Dining Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/09/1686252033-Unit_B-CAM_002-B.jpg"
-                },
-                {
-                    "caption": "Kitchen & Dining Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/09/1686246920-Unit_B-CAM_002-C.jpg"
-                },
-                {
-                    "caption": "Master Bedroom Walk-out Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/CAM_015-C_-1536x864.jpg"
-                },
-                {
-                    "caption": "Living-room Walk-out Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-B-003-C.jpg"
-                },
-                {
-                    "caption": "Bathroom Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/CAM_017-A_-1536x864.jpg"
-                },
-                {
-                    "caption": "Bathroom Walk-in Shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/CAM_014-C_-1536x864.jpg"
-                },
-                {
-                    "caption": "Bathroom Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/CAM_017-B_-1536x864.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Bi-level condo layout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Stunning ocean and golf course views from every residence",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Elegant primary suite with private lanai",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Outdoor rain shower",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Private plunge pool",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "10′ ceilings throughout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Expansive, disappearing glass walls for seamless outdoor living",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Well-appointed kitchens with Thermador appliances",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Porcelain tile floors in the living room, kitchen, and master bedrooms",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Custom cabinetry",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-                {
-                    "name": "Detached covered parking and storage",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2006-b",
-                },
-            ],
-            "description": "Lāola Nani 2006 is a four-bedroom, four-and-a-half-bath townhome featuring Hawaiian contemporary design with elements such as custom wood cabinetry, natural stone countertops, and tile flooring flowing from the indoor living room to the spacious outdoor lanai offering seamless quintessential indoor/outdoor island living. Each bedroom features unique finishes and en-suite bathrooms, with a private outdoor shower in the lower Master Suite.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2006",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Lāola Nani 2005",
-            "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "6,090,000",
-            "numberOfRooms": "",
-            "sqft": "3,338",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2023/08/Laola-Nani-Floor-Plans-Style-A-Updated-8.2.23-scaled.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Walk-out Patio",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-51-1536x1023.jpg"
-                },
-                {
-                    "caption": "Patio Pool & Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-02-1536x1023.jpg"
-                },
-                {
-                    "caption": "Kitchen & Dining Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/04/TKAU_LaolaNani_2005kitchen2_107565_2024-02-1536x1132.jpg"
-                },
-                {
-                    "caption": "Bedroom Patio Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-31-1536x1023.jpg"
-                },
-                {
-                    "caption": "Master Bathroom Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-39-1536x1023.jpg"
-                },
-                {
-                    "caption": "Bathroom Walk-in Shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2005-24-1536x1023.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Bi-level condo layout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Stunning ocean and golf course views from every residence",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Elegant primary suite with private lanai",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Private plunge pool",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "10′ ceilings throughout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Expansive, disappearing glass walls for seamless outdoor living",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Well-appointed kitchens with Thermador appliances",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Porcelain tile floors in the living room, kitchen, and master bedrooms",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Custom cabinetry",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                },
-                {
-                    "name": "Detached covered parking and storage",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2005-a",
-                }
-            ],
-            "description": "This expansive three-bedroom townhome features upstairs dual Master Suites boasting both sunset and sunrise views. The kitchen is a chef’s dream with Thermador Pro Grand Series appliances, a wine/beverage cooler, custom mosaic tile backsplash, and natural stone countertops. Each residence features a private pool and built-in BBQ on the generous lanai with breathtaking ocean views.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2005",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Lāola Nani 2004",
-            "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "7,190,000",
-            "numberOfRooms": "",
-            "sqft": "3,775",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2023/08/Laola-Nani-Floor-Plans-Style-C-Updated-8.2.23-scaled.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Patio Pool & Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-LanaiPool-1536x1023.jpg"
-                },
-                {
-                    "caption": "Kitchen / Living Room Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-Living2-1536x1023.jpg"
-                },
-                {
-                    "caption": "Dining Room Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-Dining-1536x1023.jpg"
-                },
-                {
-                    "caption": "Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-kitchen-1536x1023.jpg"
-                },
-                {
-                    "caption": "Walk-in Shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-bathroom3-1536x1023.jpg"
-                },
-                {
-                    "caption": "Master Bedroom Walk-out Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-masterbed-1536x1023.jpg"
-                },
-                {
-                    "caption": "Bathroom Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/11/Laola-Nani-2004-Masterbath-1536x1023.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Bi-level condo layout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Stunning ocean and golf course views from every residence",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Elegant primary suite with private lanai",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Private plunge pool",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "10′ ceilings throughout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Expansive, disappearing glass walls for seamless outdoor living",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Well-appointed kitchens with Thermador appliances",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Porcelain tile floors in living room, kitchen and master bedrooms",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Custom cabinetry",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-                {
-                    "name": "Detached covered parking and storage",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2004-c",
-                },
-            ],
-            "description": "This two-story townhome style layout features generous outdoor lanais, floor-to-ceiling disappearing glass doors that open up to a private plunge pool, and an expansive outdoor living area. With four generous-sized bedrooms complete with en-suite bathrooms, this residence comfortably accommodates up to 8 guests. Lāola Nani features Hawaiian contemporary design elements such as custom wood cabinetry, natural stone countertops, and tile flooring flowing from the indoor living room to the spacious outdoor lanai. Each bedroom features unique finishes and en-suite bathrooms, with a private outdoor shower in the lower Master Suite.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2004",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Lāola Nani 2003",
-            "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "6,990,000",
-            "numberOfRooms": "",
-            "sqft": "3,883",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2023/08/Laola-Nani-Floor-Plans-Style-D-Updated-8.2.23-scaled.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Walk-out Patio Pool",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-004-A-1240x844.jpg"
-                },
-                {
-                    "caption": "Bedroom Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-005-A-1240x844.jpg"
-                },
-                {
-                    "caption": "Kitchen & Dining Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1240x844.jpg"
-                },
-                {
-                    "caption": "Bedroom Beach View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-013-B-1240x844.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Bi-level condo layout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Stunning ocean and golf course views from every residence",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Elegant primary suite with private lanai",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Outdoor rain shower",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Private plunge pool",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "10′ ceilings throughout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Expansive, disappearing glass walls for seamless outdoor living",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Well-appointed kitchens with Thermador appliances",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Porcelain tile floors in living room, kitchen and master bedrooms",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Custom cabinetry",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                },
-                {
-                    "name": "Detached covered parking and storage",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2003-d",
-                }
-            ],
-            "description": "Lāola Nani 2003 is a four-bedroom, four-and-a-half-bath townhome featuring Hawaiian contemporary design with elements such as custom wood cabinetry, natural stone countertops, and tile flooring flowing from the indoor living room to the spacious outdoor lanai offering seamless quintessential indoor/outdoor island living. Each bedroom features unique finishes and en suite bathrooms, with a private outdoor shower in the lower Master Suite.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2003",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Lāola Nani 2002",
-            "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "6,090,000",
-            "numberOfRooms": "",
-            "sqft": "3,338",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2023/08/Laola-Nani-Floor-Plans-Style-A-Updated-8.2.23-scaled.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-A-003-A-1240x900.jpg"
-                },
-                {
-                    "caption": "Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-A-011-A-1240x900.jpg"
-                },
-                {
-                    "caption": "Kitchen & Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-A-002-A-1240x900.jpg"
-                },
-                {
-                    "caption": "Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-A-010-A-1240x900.jpg"
-                },
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Bi-level condo layout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Stunning ocean and golf course views from every residence",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Main-level lanai with built-in barbeque and spacious dining and seating areas",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Elegant primary suite with private lanai",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Private plunge pool",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "10′ ceilings throughout",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Expansive, disappearing glass walls for seamless outdoor living",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Well-appointed kitchens with Thermador appliances",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Porcelain tile floors in living room, kitchen and master bedrooms",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Custom cabinetry",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                },
-                {
-                    "name": "Detached covered parking and storage",
-                    "url": "https://www.timberskauai.com/own/laola-nani-residences/2002-a",
-                }
-            ],
-            "description": "This expansive three-bedroom townhome features upstairs dual Master Suites boasting both sunset and sunrise views. The kitchen is a chef’s dream with Thermador Pro Grand Series appliances, a wine/beverage cooler, custom mosaic tile backsplash, and natural stone countertops. Each residence features a private pool and built-in BBQ on the generous lanai with breathtaking ocean views.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2002",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Maliulā 2206",
-            "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "4,050,000",
-            "numberOfRooms": "",
-            "sqft": "2,126",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/2206Maliula_2BDFloorplanFlyer.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Patio Waterfront View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/Maliula-2206-Resized-for-Web-02-1240x900.jpg"
-                },
-                {
-                    "caption": "Living Room / Patio Waterfront View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/Maliula-2206-Resized-for-Web-03-1240x900.jpg"
-                },
-                {
-                    "caption": "Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/Maliula-2206-Resized-for-Web-08-1240x900.jpg"
-                },
-                {
-                    "caption": "Waterfront Bedroom View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/Maliula-2206-Resized-for-Web-11-1240x900.jpg"
-                },
-                {
-                    "caption": "Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/Maliula-2206-Resized-for-Web-15-1240x900.jpg"
-                },
-                {
-                    "caption": "Walk-in Shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/Maliula-2206-Resized-for-Web-22-1240x900.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Second-floor unit with views of the Hōkūala lagoons and the Pacific Ocean",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                },
-                {
-                    "name": "Fully furnished and turnkey residence",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                },
-                {
-                    "name": "Beautifully appointed Chef’s kitchen with Thermador and Bosch appliances, custom cabinetry, and an integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                },
-                {
-                    "name": "Expansive stacking glass doors, offering seamless indoor-outdoor living",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                },
-                {
-                    "name": "Two private and spacious bedroom suites and an additional half-bath",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                },
-                {
-                    "name": "Three lanais",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2206",
-                }
-            ],
-            "description": "A rare opportunity! Maliulā 2206 is one of few 2-bedroom residences at Timbers Kaua‘i, with iconic views of the lagoons, waterfall, finishing holes of the Ocean Course at Hōkūala, and dramatic verdant mountains and Kalapakī Bay. Offered fully furnished and turn-key, this residence offers an exceptional level of finish from custom cabinetry and natural stone vanities to a stunning kitchen and open living space with three lanais. Ownership includes access to five-star amenities including Hualani’s oceanfront restaurant, the 16.5 acre organic Farm at Hokūala, tennis and pickleball courts, meandering nature trails, private lagoons, and the Jack Nicklaus signature Ocean Course at Hōkūala.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2002",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-        {
-            "name": "Maliulā 2405",
-            "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-            "datePosted": "",
-            "leaseLength": "",
-            "listPrice": "4,600,000",
-            "numberOfRooms": "",
-            "sqft": "2,378",
-            "floorPlan": {
-                "hasFloorPlan": true,
-                "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                "floorPlanImages": [
-                    {
-                        "caption": "Floor Plan",
-                        "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-2405.jpg"
-                    }
-                ]
-            },
-            "images": [
-                {
-                    "caption": "Living Room / Walk-out Patio",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-06-1240x900.jpg"
-                },
-                {
-                    "caption": "Patio Pool View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-03-1240x900.jpg"
-                },
-                {
-                    "caption": "Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-09-1240x900.jpg"
-                },
-                {
-                    "caption": "Kitchen & Dining Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-08-1240x900.jpg"
-                },
-                {
-                    "caption": "Double Vanity Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-25-1240x900.jpg"
-                },
-                {
-                    "caption": "Walk-in Shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-22-1240x900.jpg"
-                },
-                {
-                    "caption": "Double Vanity Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-20-1240x900.jpg"
-                },
-                {
-                    "caption": "Bedroom Waterfront View",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/01/Maliula-Unit-2405-Resized-for-Web-11-1240x900.jpg"
-                }
-            ],
-            "residenceAmenitiesArr": [
-                {
-                    "name": "Top floor unit with views of the Maliulā Pool and the Pacific Ocean",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                },
-                {
-                    "name": "Fully furnished and turnkey residence",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                },
-                {
-                    "name": "Beautifully appointed Chef’s kitchen with Thermador and Bosch appliances, custom cabinetry, and an integrated wine cooler",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                },
-                {
-                    "name": "Expansive stacking glass doors, offering seamless indoor-outdoor living",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                },
-                {
-                    "name": "Three private and spacious bedroom suites and an additional half-bath",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                },
-                {
-                    "name": "Three lanais",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                },
-                {
-                    "name": "Natural stone vanities",
-                    "url": "https://www.timberskauai.com/own/maliula-residences/maliula-2405",
-                }
-            ],
-            "description": "Introducing Maliulā 2405, a stunning top-floor luxury residence at Timbers Kaua’i.  With expansive views of the resort and the sparkling Pacific, this turnkey 3 bedroom home offers spacious gathering and entertaining areas in the kitchen, dining, and living area that opens to a generous lanai for quintessential Hawaiian indoor/outdoor living. Professionally designed interiors and premium finishes are inspired by the beauty and tranquility of Kaua‘i and the Hawaiian islands, with white oak flooring, custom cabinetry, cashmere granite countertops, and Bosch and Thermador appliances.",
-            "location": {
-                "street": "3770 Alaoli Way Unit 2405",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
-                "country": "US"
-            }
-        },
-
-        // partial residences:
-        // https://www.timberskauai.com/own/maliula-residences
-        // https://www.timberskauai.com/own/kaiholo-residences
-    ],
+   
     "restaurants": [
         {
-            "name": "Hualani’s",
-            "url": "https://www.timberskauai.com/eat-drink/hualanis",
-            "description": "Experience one of the best restaurants on Kaua‘i and enjoy farm-to-table oceanfront dining from the elegant yet relaxed setting at Hualani’s. Here, oceanfront dining is influenced by the seasons. What’s fresh at The Farm at Hōkūala inspires the farm-to-table menu, while our bar serves up well-balanced craft cocktails that complement the seasonality of the kitchen. Our culinary experience is inspired by a sense of place and driven by local farmers, as well as fresh-picked ingredients from our on-site organic farm. From the morning harvest and the daily catch, ​​Hualani’s shines a hyper-local spotlight on the bounty of the Garden Isle.",
+            "name": "Victor's Seafood & Steak",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
+            "description": "Victor's Seafood & Steak pays homage to Charleston's legendary 18th-century clubs, bringing the community together over delectable food and drinks. In a space that’s both elegant and warm, Victor’s menu highlights flavors from around the world along with classic cocktails, chilled beers and an extensive wine list.",
             "menu": [
                 {
-                    "name": "Hualani’s Kaua‘i Menu",
-                    "url": "https://www.timberskauai.com/eat-drink/hualanis#pricing-menu"
+                    "name": "Victor's Seafood & Steak Menu",
+                    "url": "https://www.holycityhospitality.com/victors-seafood-and-steak/menus"
                 }
             ],
-            "logoUrl": "https://www.timberskauai.com/wp-content/uploads/2023/07/HualanisLogo.png",
-            "reservationUrl": "https://www.opentable.com/r/hualanis-lihue",
-            "priceRange": "50-100",
+            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
+            "reservationUrl": "https://www.opentable.com/r/victors-seafood-and-steak-charleston",
+            "priceRange": "31-50",
             "acceptsReservations": true,
-            "servesCuisine": ["FarmToTable", "Hawaiian", "Seafood", "Local"],
+            "servesCuisine": ["American", "Seafood", "Steakhouse"],
             "contact": {
-                "phone": "1-808-320-7399",
-                "email": "cdotario@timberskauai.com"
+                "phone": "1-843-203-3001",
+                "email": "info@victorsseafoodandsteak.com"
             },
             "location": {
-                "street": "3770 Ala’oli Way Suite 2",
-                "city": "Lihue",
-                "state": "HI",
-                "zip": "96766",
+                "street": "39F John St",
+                "city": "Charleston",
+                "state": "SC",
+                "zip": "29403",
                 "country": "US"
             },
             "rating": {
-                "value": "4.5",
-                "count": "421"
+                "value": "4.2",
+                "count": "202"
             }
         }
     ],
     "reviews": [
         {
-            "author": "Sidney Yules",
+            "author": "Nick Markel",
             "value": "5",
-            "datePublished": "2024-02-29"
+            "datePublished": "2024-07-07"
         },
         {
-            "author": "Margarita Beale",
+            "author": "Joy Marsh",
             "value": "5",
-            "datePublished": "2024-02-28"
+            "datePublished": "2024-07-20"
         }
-    ]
+    ],
+    [
+        {
+            "name": "Vincent Chicco's",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
+            "description": "This charming hideaway delivers classic Italian-American cuisine including handmade pasta, flavorful sauces and delectable desserts. Dishes are brought to life with simple, high quality ingredients. Step back into the romantic time of the past and enjoy the storied setting boasting wholesome flavors.",
+            "menu": [
+                {
+                    "name": "Vincent Chicco's Menu",
+                    "url": "https://www.holycityhospitality.com/vincent-chiccos/menus/"
+                }
+            ],
+            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
+            "reservationUrl": "https://www.opentable.com/vincent-chiccos",
+            "priceRange": "0-30",
+            "acceptsReservations": true,
+            "servesCuisine": ["Italian", "Seafood", "Contemporary Italian"],
+            "contact": {
+                "phone": "1-843-203-3002",
+                "email": "info@vincentchiccos.com"
+            },
+            "location": {
+                "street": "39G John St",
+                "city": "Charleston",
+                "state": "SC",
+                "zip": "29403",
+                "country": "US"
+            },
+            "rating": {
+                "value": "3.9",
+                "count": "290"
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "author": "Christa Sullivan",
+            "value": "5",
+            "datePublished": "2024-06-07"
+        },
+        {
+            "author": "Michelle Wilhoit",
+            "value": "5",
+            "datePublished": "2024-07-20"
+        }
+    ],
+     [
+        {
+            "name": "Virginia's on King",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
+            "description": "The sophisticated restaurant blends traditional southern dining with familiar regional dishes. Prepared with utmost care for quality and flavor, Virginia’s on King incorporates local fresh ingredients and old family recipes to bring you southern cooking, lowcountry style.",
+            "menu": [
+                {
+                    "name": "Virginia's on King Menu",
+                    "url": "https://www.holycityhospitality.com/virginias-on-king/menus"
+                }
+            ],
+            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
+            "reservationUrl": "https://www.opentable.com/virginias-on-king",
+            "priceRange": "20-30",
+            "acceptsReservations": true,
+            "servesCuisine": ["Southern", "Low Country", "Comfort Food"],
+            "contact": {
+                "phone": "1-843-735-5800",
+                "email": ""
+            },
+            "location": {
+                "street": "412 King St",
+                "city": "Charleston",
+                "state": "SC",
+                "zip": "29403",
+                "country": "US"
+            },
+            "rating": {
+                "value": "4.3",
+                "count": "1721"
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "author": "Michael LaBarbera",
+            "value": "5",
+            "datePublished": "2024-04-07"
+        },
+        {
+            "author": "Jasmine Blanc",
+            "value": "5",
+            "datePublished": "2024-06-08"
+        }
+    ],
+    [
+        {
+            "name": "39 Rue de Jean",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
+            "description": "39 Rue De Jean emanates the characteristics of a late 1800’s Brasserie, which offered Parisians hearty robust cuisine, handcrafted beers and affordable wines, in a vibrant whirl of jubilant socializing.",
+            "menu": [
+                {
+                    "name": "39 Rue de Jean Menu",
+                    "url": "http://www.holycityhospitality.com/39-rue-de-jean-charleston/menus"
+                }
+            ],
+            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
+            "reservationUrl": "https://www.opentable.com/39-rue-de-jean-charleston",
+            "priceRange": "30-50",
+            "acceptsReservations": true,
+            "servesCuisine": ["French", "French American", "Wine Bar"],
+            "contact": {
+                "phone": "1-843-722-8881",
+                "email": "info@39ruedejean.com"
+            },
+            "location": {
+                "street": "39 John St",
+                "city": "Charleston",
+                "state": "SC",
+                "zip": "29403",
+                "country": "US"
+            },
+            "rating": {
+                "value": "4.2",
+                "count": "1509"
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "author": "Doug Duff",
+            "value": "5",
+            "datePublished": "2024-07-22"
+        },
+        {
+            "author": "Patrick O'Shaughnessy",
+            "value": "5",
+            "datePublished": "2024-04-08"
+        }
+    ],
+        [
+        {
+            "name": "Coast Bar & Grill",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
+            "description": "Our chefs meet with local farmers and fishermen daily to source the freshest seafood and produce. This unique menu incorporates Charleston Classics with our chefs’ crafted creations. Local favorites include the selection of wood-grilled fresh fish, Seared Rare Tuna, Fish Tacos and the full raw bar. At the heart of the restaurant is the hickory and oak custom-made wood-burning grill.",
+            "menu": [
+                {
+                    "name": "Coast Bar & Grill Menu",
+                    "url": "https://www.holycityhospitality.com/coast-bar-and-grill/menus"
+                }
+            ],
+            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
+            "reservationUrl": "https://www.opentable.com/coast-bar-and-grill-charleston",
+            "priceRange": "30-50",
+            "acceptsReservations": true,
+            "servesCuisine": ["Seafood"],
+            "contact": {
+                "phone": "1-843-722-8881",
+                "email": "info@39ruedejean.com"
+            },
+            "location": {
+                "street": "39 John St",
+                "city": "Charleston",
+                "state": "SC",
+                "zip": "29403",
+                "country": "US"
+            },
+            "rating": {
+                "value": "4.2",
+                "count": "1509"
+            }
+        }
+    ],
+    "reviews": [
+        {
+            "author": "Doug Duff",
+            "value": "5",
+            "datePublished": "2024-07-22"
+        },
+        {
+            "author": "Patrick O'Shaughnessy",
+            "value": "5",
+            "datePublished": "2024-04-08"
+        }
+    ],
 }
