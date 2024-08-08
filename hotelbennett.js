@@ -104,955 +104,663 @@
             "url": "https://www.hotelbennett.com/images/hero/full/gabrielle-lifestyle-2-cropped.jpg"
         },
         {
-            "caption": "Gabrielle",
+            "caption": "Fine dining overlooking marion square",
             "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/gabrielle-dining-plaza.jpeg?02077831094906457"
         },
         {
-            "caption": "Fiat Lux",
+            "caption": "Panoramic rooftop views of Charleston",
             "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/5j5a0215-1-.jpg?00009612664694524931"
         },
         {
-            "caption": "Camellias",
+            "caption": "Afternoon tea and Champagne Toasts",
             "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/k0668m-k0661m-k0666m-gmgc-november-2019-5715-1-.jpg?007970936774176063"
         },
         {
-            "caption": "La Pâtisserie",
+            "caption": "A Parisian café on King Street",
             "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/img_4692-1-.jpeg?07397561135902118"
         },
+        {
+            "caption": "south carolina aquarium",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/south-carolina-aquarium.jpg?02205319562988537"
+        },
+        {
+            "caption": "historic landmark",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/tezza-8244-1-.jpg?09142360351380985"
+        },
+        {
+            "caption": "outdoor activities",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/unique-2.jpg?02319454058737136"
+        },
+        {
+            "caption": "family getaway",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/5j5a0401-1-.jpg?025007999842576334"
+        },
+        {
+            "caption": "charleston museum",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/charleston-museum.jpg?01627966208020537"
+        },
+        {
+            "caption": "Spoleto Arts Festival",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/4YFk6UZg.jpeg?008906093314411145"
+        },
+        {
+            "caption": "south carolina aquarium",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/south-carolina-aquarium.jpg?02205319562988537"
+        },
+        {
+            "caption": "Rooftop Pool",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/Familygetaway.jpeg?0665842340204841"
+        },
+        {
+            "caption": "private cabanas",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/private-cabanas.jpg?09582009516713554"
+        },
+        {
+            "caption": "heated year round",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/rooftop-pool.jpg?07908594967795084"
+        },
+        {
+            "caption": "farmer's market",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/marion-square-1.jpg?049613533440231405"
+        },
+        {
+            "caption": "sewe",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/sewedog-1-.jpg?09744037870401894"
+        },
+        {
+            "caption": "Spoleto Arts Festival",
+            "url": "https://www.hotelbennett.com/images/content/homeactivities/4YFk6UZg.jpeg?008906093314411145"
+        }
     ],
     "roomsArr": [
         {
             "type": "Room",
-            "name": "Kaiholo 3-Bedroom Signature Residence",
-            "url": "https://www.timberskauai.com/stay/kaiholo-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
+            "name": "Deluxe Double Queen",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "With seamless transitions from indoor to outdoor living and lanais extending to the ocean’s edge, you won’t know where the inside ends and nature begins in a Kaiholo Residence. Ranging in size from 3,422 – 3,915 square feet, these Kaua‘i resort vacation rentals offer three or four bedrooms with ensuites and sea-inspired interiors that set the stage for panoramic ocean and mountain views.",
-            "maxOccupancy": "6",
-            "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King and 1 Queen Bed",
-            "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
-
-            "images": [
-                {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                }
-
-            ],
-            "roomAmenitiesArr": [
-                {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                }
-            ]
-        },
-        {
-            "type": "Room",
-            "name": "Kaiholo 4-Bedroom Signature Residence",
-            "url": "https://www.timberskauai.com/stay/kaiholo-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
-            "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "This gorgeous Kaiholo Four-Bedroom Signature space offers beautiful views of the Pacific Ocean and plenty of space for you and up to nine friends or family members. The air-conditioned villa includes four bedrooms, five bathrooms, and more than 3,100 square feet of space for your private enjoyment on a trip or vacation. The two-story building is located on Kauai and gives you the chance to explore everything the Garden Isle has to offer.",
-            "maxOccupancy": "10",
-            "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "5",
-            "bedType": "3 King and 2 Queen Bed",
-            "smokingBoolean": false,
-            "bathroomCount": "4.5",
-            "roomCount": "4",
-            "images": [
-                {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                }
-            ],
-            "roomAmenitiesArr": [
-
-                {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                }
-            ]
-        },
-        {
-            "type": "Room",
-            "name": "Kaiholo 3-Bedroom Ocean Front Residence",
-            "url": "https://www.timberskauai.com/stay/kaiholo-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
-            "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
-            "maxOccupancy": "6",
-            "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King and 1 Queen Bed",
-            "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
-            "images": [
-                {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kithchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Interiors",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining Table",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
-                }
-            ],
-            "roomAmenitiesArr": [
-                {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                }
-            ]
-        },
-        {
-            "type": "Room",
-            "name": "Kaiholo 3-Bedroom Superior Residence",
-            "url": "https://www.timberskauai.com/stay/kaiholo-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
-            "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "For families and groups of up to eight, the Kaiholo Three-Bedroom Superior offers all the luxury and relaxation possible for a Hawaiian vacation. It comes with three bedrooms, three bathrooms, and a powder room for guests. Located on Kauai, the oldest of the Hawaiian islands, it creates a slice of paradise with top amenities and extras for a tropical trip. The home has beautiful views of the ocean and is near the Jack Nicklaus Ocean Golf Course.",
-            "maxOccupancy": "8",
-            "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "4",
-            "bedType": "2 King and 2 Queen Bed",
-            "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
-
-            "images": [
-                {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kithchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Interiors",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining Table",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
-                }
-
-            ],
-            "roomAmenitiesArr": [
-
-                {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                }
-            ]
-        },
-        {
-            "type": "Room",
-            "name": "Kaiholo 4-Bedroom Superior Residence",
-            "url": "https://www.timberskauai.com/stay/kaiholo-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?data=('hAhd!'kauai'~ae7261dt7301fs-~rAat!2~cn!0~cg-~al8po.gp.rn-)9ry.rk.re-~rr*)9ax!0~cy.ds!('pe.ls.as.st*)~my8se.ce.ne*)*!null-5%5D.*~1%2F2024'~5!%5B7!'03%2F8!false~9%5D~As5('%01A98751.-*_",
-            "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "Panoramic views of the Pacific Ocean are showcased in these expansive vacation rentals. Look east to the Ninini Point Lighthouse or south to the dramatic Ha'upu Mountain Range. Inside you'll find a fresh, contemporary interpretation of traditional Hawaiian architecture with an exceptional level of finish. With two floors to spread out and the seamless transition of the outside in, it's hard to choose where you'll let the day pass.",
-            "maxOccupancy": "10",
-            "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "5",
-            "bedType": "3 King and 2 Queen Bed",
-            "smokingBoolean": false,
-            "bathroomCount": "4.5",
-            "roomCount": "4",
-
-            "images": [
-                {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kithchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Interiors",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining Table",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
-                }
-
-            ],
-            "roomAmenitiesArr": [
-
-                {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                }
-            ]
-        },
-        {
-            "type": "Room",
-            "name": "Maliula 2-Bedroom Superior Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
-            "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
+            "petsAllowedTrueOrFalse": true,
+            "description": "The spacious Deluxe Double Queen room provides up to 495 square feet of designer appointments and elegant décor. This meticulously designed space offers comfortable accommodations for up to four people, making the Double Queen perfect for traveling with family or friends. Complete with a panel television and honor bar, the room also features a spacious bathroom with a deep-soaking pedestal tub, glass-enclosed shower, and marble vanity. Based on availability, some Deluxe Double Queens can adjoin to another Deluxe Double Queen room. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
             "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
+            "checkOutTime": "12:00",
             "bedCount": "2",
-            "bedType": "2 King Bed",
+            "bedType": "2 Queen Beds",
             "smokingBoolean": false,
-            "bathroomCount": "2.5",
-            "roomCount": "2",
+            "bathroomCount": "3.5",
+            "roomCount": "",
 
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/double-queen.jpg?07129588114234127"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "Premier king bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/premier-king-bathroom-626-angle-1.jpg?07555019298707735"
                 }
             ],
             "roomAmenitiesArr": [
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 }
             ]
         },
         {
             "type": "Room",
-            "name": "Maliula 2-Bedroom Signature Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "name": "Deluxe Double Queen Accessible",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "This vacation home is located in Lihue. Kauai Museum and Kela's Glass Gallery are cultural highlights, and some of the area's attractions include Lydgate Beach Park and Smith's Tropical Paradise. Enjoy stunning southern views of the dramatic Kauai coastline and the entire Ha'upu Mountain Range and convenient access to the Maliula rooftop terrace. Inside you will enjoy exceptional levels of finish throughout the residence with custom cabinetry and beautifully appointed kitchens with high-end appliances.",
+            "petsAllowedTrueOrFalse": true,
+            "description": "The spacious Deluxe Double Queen room provides up to 495 square feet of designer appointments and elegant décor. This meticulously designed space offers comfortable accommodations for up to four people, making the Double Queen perfect for traveling with family or friends. Complete with panel television and honor bar, the room also features a spacious bathroom with a walk-in shower, separate tub, and amenities designed to ADA specifications. Based on availability, some ADA Deluxe Double Queens adjoin to another Deluxe Double Queen. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool. Please note that rollaway beds are not permitted for our rooms with double queen beds.",
             "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
+            "checkOutTime": "12:00",
             "bedCount": "2",
-            "bedType": "2 King Bed",
+            "bedType": "2 Queen Bed",
             "smokingBoolean": false,
-            "bathroomCount": "2.5",
-            "roomCount": "2",
-
+            "bathroomCount": "",
+            "roomCount": "",
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/double-queen.jpg?018740119097375052"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "Ada bath",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/ada-bath.jpg?029291565376563433"
                 }
-
             ],
             "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 }
             ]
         },
         {
             "type": "Room",
-            "name": "Maliula 3-Bedroom Premier Accessible Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "name": "Superior King",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "With lofty views of Charleston’s storied harbor, the intimately designed Superior King room inspires and delights with nearly 355 square feet of elegant décor and designer appointments, including a panel television and honor bar. The spacious bathroom’s glass-enclosed shower, marble vanity, and deep-soaking pedestal tub ensure the perfect place for relaxing. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
-
+            "bathroomCount": "",
+            "roomCount": "",
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "King Room City View",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/King-Room-City-View1.jpeg?017047069789508873"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "premier king bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/premier-king-bathroom-626-angle-1.jpg?04970071633020867"
                 }
-
             ],
             "roomAmenitiesArr": [
-
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 }
             ]
         },
         {
             "type": "Room",
-            "name": "Maliula 3-Bedroom Superior Accessible Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "name": "Deluxe King",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "The charming Deluxe King room features 355 square feet of designer appointments and elegant décor. Amenities such as a panel television and honor bar make this room with luxury bedding ideal for relaxing. Mirrored French doors open to an opulent bathroom with a glass-enclosed shower, marble vanity, and deep-soaking pedestal tub to ensure the perfect place to unwind. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
+            "bathroomCount": "",
+            "roomCount": "",
 
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/deluxe-king.jpg?041674018061736295"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "premier king bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/premier-king-bathroom-626-angle-1.jpg?02180989054428295"
                 }
 
             ],
             "roomAmenitiesArr": [
+                {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                }
+                
+            ]
+        },
+        {
+            "type": "Room",
+            "name": "Deluxe King with Patio",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+            "description": "A walled patio offers intimacy and privacy for enjoying outdoor dining and relaxation in this guestroom of 355 square feet. Perfect for work or leisure, this third-floor King room features designer appointments, including luxury bedding, panel television, and honor bar. Mirrored French doors open to an opulent bathroom with a glass-enclosed shower, marble vanity, and deep-soaking pedestal tub to ensure the perfect place to unwind. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "",
+
+            "images": [
+                {
+                    "caption": "Bedroom with patio",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/king-patio.jpg?014540136736853415"
+                },
+                {
+                    "caption": "premier king bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/premier-king-bathroom-626-angle-1.jpg?020083831715221478"
+                }
+            ],
+            "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
                 }
             ]
         },
         {
             "type": "Room",
-            "name": "Maliula 3-Bedroom Owner Designed Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "name": "Deluxe King with Patio Accessible",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "A walled patio offers intimacy and privacy for enjoying outdoor dining and relaxation in this guestroom of 355 square feet. Perfect for work or leisure, this King room features designer appointments, including luxury bedding, panel television and honor bar. The oversized bathroom’s walk-in shower, separate tub and amenities meet ADA specifications. Includes signature amenities, complimentary Wi-Fi and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
+            "bathroomCount": "",
+            "roomCount": "",
+
+            "images": [
+                {
+                    "caption": "King Room City View",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/King-Room-City-View1.jpeg?004095802454589137"
+                },
+                {
+                    "caption": "Ada Bath",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/ada-bath.jpg?06652306727335107"
+                
+            ],
+            "roomAmenitiesArr": [
+                {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                }
+            ]
+        },
+        {
+            "type": "Room",
+            "name": "Premier King",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+            "description": "Spectacular views of Charleston’s historic landscape make this premier guestroom an exemplary space for admiring the city’s famed beauty. Ranging from 355 to 500 square feet, the Premier King’s designer appointments include luxury bedding, panel television, and honor bar coupled with elegant décor, which pays homage to Southern living at its finest. The spacious bathroom’s glass-enclosed shower, marble vanity, and deep-soaking pedestal tub ensure the perfect place for relaxing. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "",
+
+            "images": [
+                {
+                    "caption": "Deluxe King Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/deluxe-king.jpg?06585961939060816"
+                },
+                {
+                    "caption": "premier king bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/premier-king-bathroom-626-angle-1.jpg?038518193504733245"
+                
+            ],
+            "roomAmenitiesArr": [
+
+                 {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                }
+            ]
+        },
+        {
+            "type": "Room",
+            "name": "Premier King with Terrace",
+            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+            "description": "Stunning views of Charleston’s historic peninsula from the terrace distinguish the Premier King with its elegant décor and designer appointments, including a panel television and honor bar. Up to 440 square feet of impeccably furnished interior space coupled with an outdoor dining table and chaise lounges to create optimal opportunities for enjoying the scenic skyline. The spacious bathroom’s glass-enclosed shower, marble vanity, and a deep-soaking pedestal tub ensure the perfect place for relaxing. Includes signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "",
+
+            "images": [
+                {
+                    "caption": "premier terrace",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/premier-terrace.jpg?08520750197190909"
+                },
+                {
+                    "caption": "Premier King with Terrace Guest Room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/PremierKingwithTerraceGuestRoom601.jpg?07392943945417898"
+                },
+                {
+                    "caption": "premier king terrace bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/premier-king-terrace-bathroom-1-.jpg?06092021697996888"
+                }
+                
+            ],
+            "roomAmenitiesArr": [
+
+                 {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/rooms"
+                }
+            ]
+        },
+        {
+            "type": "Suite",
+            "name": "Junior Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+            "description": "The Junior King Suite melds sophistication with comfort and designer accents in 515 square feet of urban elegance. Floor-to-ceiling windows fill the Master King bedroom with natural light and opulence. The separate living area presents a cozy room complete with a panel television, and honor bar, while the spacious bathroom’s glass-enclosed shower, marble vanity, and deep-soaking pedestal tub ensure the perfect place for relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "2",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "1",
+
+            "images": [
+                {
+                    "caption": "Junior Suite Living Room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/junior-suite.jpg?041166392866941726"
+                },
+                {
+                    "caption": "Junior Suite Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/601.jpeg?06710374063961781"
+                },
+                 {
+                    "caption": "Junior Suite Bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?04719733898560199"
+                }
+            ],
+            "roomAmenitiesArr": [
+
+                {
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                },
+                {
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
+                }
+            ]
+        },
+        {
+            "type": "Suite",
+            "name": "One Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
+            "tourUrl": "",
+            "petsAllowedTrueOrFalse": true,
+            "description": "The beautifully furnished One-Bedroom Suite offers the luxury of space for guests to entertain or work. Ranging in size up to 550 square feet, the suite features floor-to-ceiling windows, which fill the Master King bedroom and separate living area with natural light. The living room includes a panel television, and honor bar while the spacious bathroom’s glass-enclosed shower, marble vanity, and deep-soaking pedestal tub ensure the perfect place for relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "4",
+            "checkInTime": "16:00",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
+            "smokingBoolean": false,
+            "bathroomCount": "",
+            "roomCount": "1",
             "images": [
                 {
                     "caption": "Features",
