@@ -763,654 +763,319 @@
             "roomCount": "1",
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "one bedroom suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/one-bedroom-suite.jpg?05064160038732408"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+                    "caption": "one bedroom suite bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/SizedOneBedroomSuite.jpeg?038064270004848466"
                 },
                 {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "one bedroom suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?07093882078796856"
                 }
             ],
             "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         },
         {
-            "type": "Room",
-            "name": "Maliula 3-Bedroom Signature Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "type": "Suite",
+            "name": "Premium One Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "Grand views of Charleston’s historic landscape define the Premium One-Bedroom Suite and its 600 square feet of impeccably furnished space. For guests desiring a versatile and spacious retreat, the suite pairs a separate Master King bedroom and a living area with settee for two, dining table, panel televisions and honor bar. The spacious bathroom’s glass-enclosed shower, marble vanity, and deep-soaking pedestal tub ensure the perfect place for relaxing. Based on availability, this Premium Suite can adjoin to a Premier King room to create a two-bedroom suite. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
+            "bathroomCount": "",
+            "roomCount": "1",
 
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "Premium One Bedroom Suite Living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/premium-two-bed.jpg?09735316121761102"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+                    "caption": "sized premium one bedroom suite",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/sized-premium-1-bedroom-suite-348-2.jpeg?07132082013270882"
                 },
                 {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "sized premium one bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?07017637219315358"
                 }
-
             ],
             "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         },
         {
-            "type": "Room",
-            "name": "Maliula 3-Bedroom Premier Residence",
-            "url": "https://www.timberskauai.com/stay/maliula-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "type": "Suite",
+            "name": "Signature One Bedroom Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "The Hawaiian word “maliulā” means enveloping in Aloha, and our Maliulā luxury vacation rentals embody a peaceful abode surrounded by nature. The interiors are relaxing with greyed woods and textured white oak flooring and millwork with elegant touches of silvered iridescent stone tile and glass, shell-like tile. Each Maliulā vacation rental features private lanais with views of the Pacific Ocean, as well as seamless access to the Ocean Course and amenities on property.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "Ideal for entertaining, the Signature Suite features 1,050 square feet of luxury space for guests who desire a more residential-style retreat. Designer appointments and elegant décor abound in the Master King Bedroom and separate living area, which include panel televisions and a honor bar. A formal dining room hosts guests above the culinary mecca of Upper King Street. Mirrored French doors open to an opulent, oversized bathroom with a glass-enclosed shower, dual vanity and deep-soaking pedestal tub to ensure the perfect place for relaxing. Based on availability, the Signature Suite can adjoin to a Deluxe Double Queen room to create a two-bedroom suite. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
+            "bathroomCount": "",
+            "roomCount": "1",
 
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_pool2_3543_lo_res_RGB-1440x800.jpg"
+                    "caption": "Signature One Bedroom Suite Living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/citadel.jpg?09595862804760409"
                 },
                 {
-                    "caption": "Maliula Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1440x800.jpg"
+                    "caption": "Signature One Bedroom Suite Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/601.jpeg?022226937964152715"
                 },
                 {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_liv_rm_2928_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_LivingSpace_2018_07_19_looking_out2_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-363-Edit_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/KAU_maliula_lenai_3942_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_kitchen_95143_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_maliula_2302_guest_master_bedrm_95036_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_1_2308-180_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Double Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-283-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior_Day_1_Residence_2_2404-313-Edit_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Kitchen Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Integrated beverage/wine cooler",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Kitchen_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Bedroom Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Maliula Hot Tub",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/TKAU_Maliula_Interior__2404_Bedroom1_v2_2018_07_19_lo_res_RGB-1440x800.jpg"
+                    "caption": "Signature One Bedroom Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?05653574695682526"
                 }
-
             ],
             "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         },
         {
-            "type": "Room",
-            "name": "Laola 3-Bedroom Townhouse",
-            "url": "https://www.timberskauai.com/stay/laola-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "type": "Suite",
+            "name": "St. Matthew’s Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "In Hawaiian, Lāola translates as “nurturing life” — the dawning of a new beginning. Lāola is a breath of new life, nurtured in peace and harmony, attracting all goodness. Lāola luxury townhomes feature over 4,000 square feet of living space and were designed for true indoor/outdoor Hawaiian Living. These bi-level residences are set directly above the 15th fairway of the Ocean Course and enjoy breathtaking views of the Pacific Ocean. To the east and west are views of the historic Ninini Point Lighthouse and dramatic Ha‘upu mountain range. Choose from three- and four-bedroom floor plans with gracious living spaces featuring a master retreat on the upper level with a private lanai and outdoor rain shower. On the ground level an open layout includes the living room, a chef’s kitchen and guest suite opening to a spacious lanai that leads to a landscaped yard with a private pool. Unique to these homes is a detached carport with storage for your beach toys and adventure vehicle.",
-            "maxOccupancy": "6",
+            "petsAllowedTrueOrFalse": true,
+            "description": "Beneath the soaring steeple of historic St. Matthew's Lutheran Church, this upper-floor suite reveals why Charleston is affectionately known as The Holy City. Designer appointments and elegant décor abound in the suite’s Master King Bedroom and separate living area, which include panel televisions and an honor bar. The spacious bathroom’s glass-enclosed shower, dual vanity and deep-soaking pedestal tub ensure the perfect place for relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "2 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "3.5",
-            "roomCount": "3",
+            "bathroomCount": "",
+            "roomCount": "1",
 
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_ext_3161_lo_res_RGB-1440x800.jpg"
+                    "caption": "St. Matthew’s Suite Living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/st-matthews.jpg?034143351618946216"
                 },
                 {
-                    "caption": "Laola Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_kitchen_3270_lo_res_RGB-1-1440x800.jpg"
+                    "caption": "St. Matthew’s Suite Bedroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/601.jpeg?01303239337166564"
                 },
                 {
-                    "caption": "Laola Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_details_3681_lo_res_RGB-1-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guest Room Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestromdbl_3175_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Outdoor shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestrmbathrm_3140_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestroomdbl2_3302_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Outdoor shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466b_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbedrm_3330_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola down Stairs",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_downstairs_entry_3893_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm_3419_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom 2",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm2_4136_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom Vignette",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrmvignette_3090_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Entry",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_entry_3526_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola lanai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_lanai_3517_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_dining_3286_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lenai_4709_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_guestmasterbedrm_3961_lo_res_RGB-1440x800.jpg"
+                    "caption": "St. Matthew’s Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?02841413909719581"
                 }
-
+                
             ],
             "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         },
         {
-            "type": "Room",
-            "name": "Laola 4-Bedroom Townhouse",
-            "url": "https://www.timberskauai.com/stay/laola-residences",
-            "bookUrl": "https://www.timberskauai.com/#/booking/step-2?arrive=03%2F26%2F2024&depart=03%2F30%2F2024&adults=2&children=0",
+            "type": "Suite",
+            "name": "Citadel Square Suite",
+            "url": "https://www.hotelbennett.com/rooms/suites",
+            "bookUrl": "https://www.hotelbennett.com/rooms/suites#/booking/step-1",
             "tourUrl": "",
-            "petsAllowedTrueOrFalse": false,
-            "description": "In Hawaiian, Lāola translates as “nurturing life” — the dawning of a new beginning. Lāola is a breath of new life, nurtured in peace and harmony, attracting all goodness. Lāola luxury townhomes feature over 4,000 square feet of living space and were designed for true indoor/outdoor Hawaiian Living. These bi-level residences are set directly above the 15th fairway of the Ocean Course and enjoy breathtaking views of the Pacific Ocean. To the east and west are views of the historic Ninini Point Lighthouse and dramatic Ha‘upu mountain range. Choose from three- and four-bedroom floor plans with gracious living spaces featuring a master retreat on the upper level with a private lanai and outdoor rain shower. On the ground level an open layout includes the living room, a chef’s kitchen and guest suite opening to a spacious lanai that leads to a landscaped yard with a private pool. Unique to these homes is a detached carport with storage for your beach toys and adventure vehicle.",
-            "maxOccupancy": "8",
+            "petsAllowedTrueOrFalse": true,
+            "description": "This one-of-a-kind, top-floor suite overlooks the historic Old Citadel, Marion Square, Charleston harbor, and provides panoramic views of the city’s famed beauty. Designer appointments and elegant décor abound in the suite’s Master King Bedroom and separate living area, which include panel televisions and honor bar. The spacious bathroom’s glass-enclosed shower, dual vanity and deep-soaking pedestal tub ensure the perfect place for relaxing. Includes Signature amenities, complimentary Wi-Fi, and access to the fitness center and rooftop pool.",
+            "maxOccupancy": "4",
             "checkInTime": "16:00",
-            "checkOutTime": "09:00",
-            "bedCount": "3",
-            "bedType": "3 King & 1 Queen Bed",
+            "checkOutTime": "12:00",
+            "bedCount": "1",
+            "bedType": "1 King Bed",
             "smokingBoolean": false,
-            "bathroomCount": "4.5",
-            "roomCount": "4",
+            "bathroomCount": "",
+            "roomCount": "1",
             "images": [
                 {
-                    "caption": "Features",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_ext_3161_lo_res_RGB-1440x800.jpg"
+                    "caption": "Citadel Square Suite living room",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/citadel.jpg?0441481291635073"
                 },
                 {
-                    "caption": "Laola Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_kitchen_3270_lo_res_RGB-1-1440x800.jpg"
+                    "caption": "Citadel Square Suite bedroom ",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/601.jpeg?034927632093360916"
                 },
                 {
-                    "caption": "Laola Interior",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_details_3681_lo_res_RGB-1-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guest Room Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestromdbl_3175_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Outdoor shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestrmbathrm_3140_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Double Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestroomdbl2_3302_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Outdoor shower",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_outdoorshower_3466b_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbedrm_3330_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola down Stairs",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_downstairs_entry_3893_lo_res_RGB-1080x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm_3419_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guestroom Bathroom 2",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_guestmasterbathrm2_4136_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom Vignette",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrmvignette_3090_lo_res_RGB-1-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Entry",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_entry_3526_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola lanai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_lanai_3517_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_dining_3286_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Lenai",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lenai_4709_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_masterbedrm_3118_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Laola Guest Master Bedroom",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_guestmasterbedrm_3961_lo_res_RGB-1440x800.jpg"
+                    "caption": "Citadel Square Suite bathroom",
+                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage3/626-bathroom-angle-1.jpeg?03451599489004624"
                 }
-
             ],
             "roomAmenitiesArr": [
 
                 {
-                    "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hypoallergenic bed linens",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Hair dryer",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Thick terry-cloth bathrobes",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Safe",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Nespresso",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Iron & Ironing Board",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "Wireless Internet Access",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 },
                 {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
+                    "name": "In-Room Dining",
+                    "url": "https://www.hotelbennett.com/rooms/suites"
                 }
             ]
         },
