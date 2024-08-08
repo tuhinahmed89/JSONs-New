@@ -46,100 +46,51 @@
 
     "amenitiesArr": [
         {
-            "name": "Infinity pool & hot tub",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Outdoor swimming pool",
+            "url": ""
         },
         {
-            "name": "Restaurant and bar",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Private parking",
+            "url": ""
         },
         {
-            "name": "Ocean Course, a Jack Nicklaus signature golf course",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Free WiFi",
+            "url": ""
         },
         {
-            "name": "The Farm at Hōkūala, an on-site organic farm",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Non-smoking rooms",
+            "url": ""
         },
         {
-            "name": "Fitness center",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Family rooms",
+            "url": ""
         },
         {
-            "name": "Tennis & pickleball courts",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "4 restaurants",
+            "url": ""
         },
         {
-            "name": "Tykes Room",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Spa and wellness centre",
+            "url": ""
         },
         {
-            "name": "Valet parking",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Tea/coffee maker in all rooms",
+            "url": ""
         },
         {
-            "name": "Full-service spa",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Bar",
+            "url": ""
         },
         {
-            "name": "Daily housekeeping",
-            "url": "https://www.timberskauai.com/services-amenities/"
-        },
-        {
-            "name": "Weekly events",
-            "url": "https://www.timberskauai.com/services-amenities/"
-        },
-        {
-            "name": "Concierge service",
-            "url": "https://www.timberskauai.com/services-amenities/"
-        },
-        {
-            "name": "Self or Valet Parking",
-            "url": "https://www.timberskauai.com/services-amenities/"
+            "name": "Breakfast",
+            "url": ""
         }
     ],
     "imageArr": [
         {
             "caption": "Own with us",
             "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg"
-        },
-        {
-            "caption": "Stay with us",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bed_93994_lo_res_RGB-e1682469385442-718x730.jpg"
-        },
-        {
-            "caption": "Maliula residences",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_master_bed_94999_lo_res_RGB-1775x800.jpg"
-        },
-        {
-            "caption": "Kaiholo residences",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1775x800.jpg"
-        },
-        {
-            "caption": "Laola Residences",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_laola_1004_lr_4660_lo_res_RGB-1775x800.jpg"
-        },
-        {
-            "caption": "Laola Nani Residences",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/06/Laola-Nani-Residence-Style-D-002-A-1500x800.jpg"
-        },
-        {
-            "caption": "Book Early & Save",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/03/DSC_1311-570x372.jpg"
-        },
-        {
-            "caption": "4th Night Free",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2302_dbl_bedrm_95084_lo_res_RGB-570x372.jpg"
-        },
-        {
-            "caption": "Experience Hōkūala",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Aerial_0021_lo_res_RGB-570x372.jpg"
-        },
-        {
-            "caption": "The Ocean Course at Hōkūala",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/KAU_Golf_Dyer_3154_2015_10_05_lo_res_RGB-747x460.jpg"
         }
-
     ],
     "roomsArr": [
         {
@@ -163,96 +114,12 @@
                 {
                     "caption": "Features",
                     "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kithchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Interiors",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining Table",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
                 }
 
             ],
             "roomAmenitiesArr": [
                 {
                     "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
                     "url": "https://www.timberskauai.com/stay/kaiholo-residences"
                 }
             ]
@@ -277,97 +144,12 @@
                 {
                     "caption": "Features",
                     "url": "https://www.timberskauai.com/wp-content/uploads/2024/02/TKAU_kaiholo_3105_lr_94240_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_dining_rm_94148_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bed_94450_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_master_bath_94029_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kithchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3109_guest_master_93956_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bath",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_master_bath_94525_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Kitchen",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Kithchen2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Interiors",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_004_Edit_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Guest Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_kaiholo_3105_guest_master_bed_94553_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Dining Table",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_dining_table2018_07_19_looking_out2018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Living Room",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Livingroom2018_07_19_looking_out_v22018_07_19_lo_res_RGB-1440x800.jpg"
-                },
-                {
-                    "caption": "Kaiholo Master Bed",
-                    "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_Kaiholo_3106_Master_Bed2018_07_19_looking_out__v22018_07_19_lo_res_RGB-1440x800.jpg"
                 }
-
             ],
             "roomAmenitiesArr": [
 
                 {
                     "name": "Free Wifi",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Luxurious Bathrobes",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Full Kitchen",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Washer/Dryer",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Living Area",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "No Smoking",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Balcony/Lanai/Terrace",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Coffee/Tea Maker",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Upgraded Bathroom Amenities",
-                    "url": "https://www.timberskauai.com/stay/kaiholo-residences"
-                },
-                {
-                    "name": "Kitchen Supplies",
                     "url": "https://www.timberskauai.com/stay/kaiholo-residences"
                 }
             ]
