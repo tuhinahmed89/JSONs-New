@@ -1746,32 +1746,39 @@
             "acceptsReservations": true,
             "servesCuisine": ["Seafood"],
             "contact": {
-                "phone": "1-843-722-8881",
-                "email": "info@39ruedejean.com"
+                "phone": "1-843-722-8838",
+                "email": ""
             },
             "location": {
-                "street": "39 John St",
+                "street": "39D John St",
                 "city": "Charleston",
                 "state": "SC",
                 "zip": "29403",
                 "country": "US"
             },
             "rating": {
-                "value": "4.2",
-                "count": "1509"
+                "value": "4.3",
+                "count": "1579"
             }
         }
     ],
     "reviews": [
         {
-            "author": "Doug Duff",
+            "author": "Joshua Widener",
             "value": "5",
-            "datePublished": "2024-07-22"
+            "datePublished": "2024-06-08"
         },
         {
-            "author": "Patrick O'Shaughnessy",
+            "author": "Jeff Vaughan",
             "value": "5",
-            "datePublished": "2024-04-08"
+            "datePublished": "2024-07-08"
         }
     ],
+    "spas": [
+    {
+      "name": "the spa",
+      "url": "https://www.hotelbennett.com/spa/spa",
+      "description": "Rejuvenate your body and soul at The Spa at Hotel Bennett. Our expert therapists provide personalized treatments to restore your inner balance. From massages to facials, body treatments and manicures and pedicures, you’ll leave feeling like your best self. Unwind with uniquely luxurious treatments, like the Holy City Wrap, with a suite of enhancements tailored to your needs."
+    }
+  ],
 }
