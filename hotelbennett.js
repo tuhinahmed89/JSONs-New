@@ -102,7 +102,23 @@
         {
             "caption": "Happily ever after begins here",
             "url": "https://www.hotelbennett.com/images/hero/full/gabrielle-lifestyle-2-cropped.jpg"
-        }
+        },
+        {
+            "caption": "Gabrielle",
+            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/gabrielle-dining-plaza.jpeg?02077831094906457"
+        },
+        {
+            "caption": "Fiat Lux",
+            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/5j5a0215-1-.jpg?00009612664694524931"
+        },
+        {
+            "caption": "Camellias",
+            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/k0668m-k0661m-k0666m-gmgc-november-2019-5715-1-.jpg?007970936774176063"
+        },
+        {
+            "caption": "La Pâtisserie",
+            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/img_4692-1-.jpeg?07397561135902118"
+        },
     ],
     "roomsArr": [
         {
