@@ -88,8 +88,20 @@
     ],
     "imageArr": [
         {
-            "caption": "Own with us",
-            "url": "https://www.timberskauai.com/wp-content/uploads/2023/02/TKAU_maliula_2102_liv_rm_view_95214_lo_res_RGB-960x960.jpg"
+            "caption": "Give the gift of Charleston",
+            "url": "https://www.hotelbennett.com/images/hero/full/home-hero-couple.jpg"
+        },
+        {
+            "caption": "Keys to king's club",
+            "url": "https://www.hotelbennett.com/images/hero/full/gabrielle-lifestyle-2-cropped.jpg"
+        },
+        {
+            "caption": "In the know",
+            "url": "https://www.hotelbennett.com/images/hero/full/home-hero-couple.jpg"
+        },
+        {
+            "caption": "Happily ever after begins here",
+            "url": "https://www.hotelbennett.com/images/hero/full/gabrielle-lifestyle-2-cropped.jpg"
         }
     ],
     "roomsArr": [
