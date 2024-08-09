@@ -1,89 +1,77 @@
 {
     "config": {
         "UrlsWithLodgingBusinessFull": [
-            'https://www.hotelbennett.com',
-            'https://www.hotelbennett.com/about-us',
+            'https://www.thefontainehotel.com',
+            'https://www.thefontainehotel.com/the-hotel',
         ]
     },
-    "name": "Hotel Bennett Charlestone",
+    "name": "The Fontaine Hotel Kansas City",
     "type": "Hotel",
-    "key": "hotelbennett",
-    "homepage": "https://www.hotelbennett.com",
-    "sitemap": "https://www.hotelbennett.com/sitemap_index.xml",
-    "slogan": "Charleston Roots Reimagined",
-    "description": " In the center of historic downtown, Hotel Bennett is the culmination of steep tradition, intricate European-inspired architecture, and southern hospitality. From our doors, walk onto King Street, the gateway to culture and class. Embrace the allure of the Holy City and cherish moments of discovery and exploration with luxurious accommodations, amenities, and dining experiences.",
+    "key": "thefontainehotel",
+    "homepage": "https://www.thefontainehotel.com",
+    "sitemap": "https://www.thefontainehotel.com/sitemap",
+    "slogan": "",
+    "description": "Located in the heart of Kansas City's best upscale shopping at Country Club Plaza, The Fontaine is a sophisticated, new destination for business and leisure travel. Walk across custom tile mosaics inset into the gleaming marble floor, enjoy intricately carved wood paneling and playful Renaissance artwork adorning the walls and marvel at the hand-blown Venetian glass chandeliers floating overhead. Each detail is designed to delight the senses while setting a scene of serene sophistication—a place in which guests are both dazzled and utterly relaxed.",
     "petsAllowedTrueFalse": true,
-    "totalRoomCount": "",
+    "totalRoomCount": "132",
     "priceRange": "$$$",
-    "checkInTime": "16:00",
-    "checkOutTime": "12:00",
+    "checkInTime": "16:00 to 23:30",
+    "checkOutTime": "11:00",
     "currenciesAccepted": ["USD"],
     "paymentAccepted": ["Credit Card", "Debit Card"],
-    "availableLanguage": ["English"],
-    "logoUrl": "https://www.hotelbennett.com/images/hero/full/drew-castelhano-hotel-bennett-exterior-twilight-reedit-2-.jpg",
-    "copyrightUrl": "https://www.hotelbennett.com/privacy",
-    "facebookUrl": "https://www.facebook.com/HotelBennett",
-    "twitterUrl": "",
-    "instagramUrl": "https://www.instagram.com/hotelbennett",
-    "linkedinUrl": "",
+    "availableLanguage": ["English", "French", "Spanish"],
+    "logoUrl": "",
+    "copyrightUrl": "https://www.thefontainehotel.com/privacy",
+    "facebookUrl": "https://www.facebook.com/TheFontaineHotel",
+    "twitterUrl": "https://twitter.com/Fontaine_KC",
+    "instagramUrl": "https://www.instagram.com/thefontainehotel",
+    "linkedinUrl": "https://www.linkedin.com/company/the-fontaine-hotel",
     "rating": {
-        "value": "4.6",
-        "count": "730"
+        "value": "4.3",
+        "count": "1469"
     },
     "contact": {
-        "phone": "1-833-313-1798",
-        "email": ""
+        "phone": "1-816-753-8800",
+        "email": "info@thefontainehotel.com"
     },
     "location": {
-        "street": "404 King St",
-        "city": "Charleston",
-        "state": "SC",
-        "zip": "29403",
+        "street": "901 W 48th Pl",
+        "city": "Kansas City",
+        "state": "MO",
+        "zip": "64112",
         "country": "US",
-        "lat": "32.8121",
-        "long": "-79.2902"
+        "lat": "39.6618",
+        "long": "-94.8823"
     },
 
     "amenitiesArr": [
         {
-            "name": "Outdoor swimming pool",
-            "url": ""
+            "name": "high-speed wireless internet access",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         },
         {
-            "name": "Private parking",
-            "url": ""
+            "name": "Rooftop swimming pool",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         },
         {
-            "name": "Free WiFi",
-            "url": ""
+            "name": "Business center",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         },
         {
-            "name": "Non-smoking rooms",
-            "url": ""
+            "name": "24-hour fitness center",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         },
         {
-            "name": "Family rooms",
-            "url": ""
+            "name": "valet parking and self parking",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         },
         {
-            "name": "4 restaurants",
-            "url": ""
+            "name": "2 restaurants",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         },
         {
-            "name": "Spa and wellness centre",
-            "url": ""
-        },
-        {
-            "name": "Tea/coffee maker in all rooms",
-            "url": ""
-        },
-        {
-            "name": "Bar",
-            "url": ""
-        },
-        {
-            "name": "Breakfast",
-            "url": ""
+            "name": "Pet friendly accommodations",
+            "url": "https://www.thefontainehotel.com/the-hotel/services-and-amenities"
         }
     ],
     "imageArr": [
