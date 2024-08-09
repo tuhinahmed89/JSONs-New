@@ -510,7 +510,7 @@
                 {
                     "caption": "Ada Bath",
                     "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/ada-bath.jpg?06652306727335107"
-                
+                }
             ],
             "roomAmenitiesArr": [
                 {
@@ -572,7 +572,7 @@
                 {
                     "caption": "premier king bathroom",
                     "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage2/premier-king-bathroom-626-angle-1.jpg?038518193504733245"
-                
+                }
             ],
             "roomAmenitiesArr": [
 
