@@ -76,95 +76,15 @@
     ],
     "imageArr": [
         {
-            "caption": "Give the gift of Charleston",
-            "url": "https://www.hotelbennett.com/images/hero/full/home-hero-couple.jpg"
-        },
-        {
-            "caption": "Keys to king's club",
-            "url": "https://www.hotelbennett.com/images/hero/full/gabrielle-lifestyle-2-cropped.jpg"
-        },
-        {
-            "caption": "In the know",
-            "url": "https://www.hotelbennett.com/images/hero/full/home-hero-couple.jpg"
-        },
-        {
-            "caption": "Happily ever after begins here",
-            "url": "https://www.hotelbennett.com/images/hero/full/gabrielle-lifestyle-2-cropped.jpg"
-        },
-        {
-            "caption": "Fine dining overlooking marion square",
-            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/gabrielle-dining-plaza.jpeg?02077831094906457"
-        },
-        {
-            "caption": "Panoramic rooftop views of Charleston",
-            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/5j5a0215-1-.jpg?00009612664694524931"
-        },
-        {
-            "caption": "Afternoon tea and Champagne Toasts",
-            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/k0668m-k0661m-k0666m-gmgc-november-2019-5715-1-.jpg?007970936774176063"
-        },
-        {
-            "caption": "A Parisian café on King Street",
-            "url": "https://www.hotelbennett.com/images/content/homepageclubslidersmallimg/img_4692-1-.jpeg?07397561135902118"
-        },
-        {
-            "caption": "south carolina aquarium",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/south-carolina-aquarium.jpg?02205319562988537"
-        },
-        {
-            "caption": "historic landmark",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/tezza-8244-1-.jpg?09142360351380985"
-        },
-        {
-            "caption": "outdoor activities",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/unique-2.jpg?02319454058737136"
-        },
-        {
-            "caption": "family getaway",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/5j5a0401-1-.jpg?025007999842576334"
-        },
-        {
-            "caption": "charleston museum",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/charleston-museum.jpg?01627966208020537"
-        },
-        {
-            "caption": "Spoleto Arts Festival",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/4YFk6UZg.jpeg?008906093314411145"
-        },
-        {
-            "caption": "south carolina aquarium",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/south-carolina-aquarium.jpg?02205319562988537"
-        },
-        {
-            "caption": "Rooftop Pool",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/Familygetaway.jpeg?0665842340204841"
-        },
-        {
-            "caption": "private cabanas",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/private-cabanas.jpg?09582009516713554"
-        },
-        {
-            "caption": "heated year round",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/rooftop-pool.jpg?07908594967795084"
-        },
-        {
-            "caption": "farmer's market",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/marion-square-1.jpg?049613533440231405"
-        },
-        {
-            "caption": "sewe",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/sewedog-1-.jpg?09744037870401894"
-        },
-        {
-            "caption": "Spoleto Arts Festival",
-            "url": "https://www.hotelbennett.com/images/content/homeactivities/4YFk6UZg.jpeg?008906093314411145"
+            "caption": "",
+            "url": ""
         }
     ],
     "roomsArr": [
         {
             "type": "Room",
             "name": "Deluxe Double Queen",
-            "url": "https://www.hotelbennett.com/rooms/rooms",
+            "url": "https://www.thefontainehotel.com/accommodations/suites",
             "bookUrl": "https://www.hotelbennett.com/rooms/rooms#/booking/step-1",
             "tourUrl": "",
             "petsAllowedTrueOrFalse": true,
