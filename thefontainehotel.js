@@ -273,8 +273,8 @@
 
             "images": [
                 {
-                    "caption": "Bedroom",
-                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/deluxe-king.jpg?041674018061736295"
+                    "caption": "",
+                    "url": ""
                 }
 
             ],
