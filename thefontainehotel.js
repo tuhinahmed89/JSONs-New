@@ -449,8 +449,8 @@
 
             "images": [
                 {
-                    "caption": "Deluxe King Bedroom",
-                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/deluxe-king.jpg?06585961939060816"
+                    "caption": "",
+                    "url": ""
                 }
             ],
             "roomAmenitiesArr": [
@@ -567,8 +567,8 @@
 
             "images": [
                 {
-                    "caption": "Junior Suite Living Room",
-                    "url": "https://www.hotelbennett.com/images/content/roomsaltrowimage1/junior-suite.jpg?041166392866941726"
+                    "caption": "",
+                    "url": ""
                 }
             ],
             "roomAmenitiesArr": [
