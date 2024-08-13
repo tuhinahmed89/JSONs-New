@@ -21,7 +21,7 @@
     "paymentAccepted": ["Credit Card", "Debit Card"],
     "availableLanguage": ["English", "French", "Spanish"],
     "logoUrl": "",
-    "copyrightUrl": "https://www.thefontainehotel.com/privacy",
+    "copyrightUrl": "https://www.thefontainehotel.com/privacy-policy",
     "facebookUrl": "https://www.facebook.com/TheFontaineHotel",
     "twitterUrl": "https://twitter.com/Fontaine_KC",
     "instagramUrl": "https://www.instagram.com/thefontainehotel",
