@@ -275,7 +275,7 @@
         },
         {
             "type": "Suite",
-            "name": "Junior Suite, Accessible",
+            "name": "Junior Suite Accessible",
             "url": "https://www.thefontainehotel.com/accommodations/suites",
             "bookUrl": "https://www.thefontainehotel.com/accommodations/suites#/booking/step-1",
             "tourUrl": "",
@@ -291,8 +291,16 @@
             "roomCount": "1",
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com//images/hero/accommodations-suites.jpg"
+                },
+                {
+                    "caption": "Standard Suites",
+                    "url": "https://www.thefontainehotel.com/images/interior/accommodations/stay-suites-1.jpg"
+                },
+                {
+                    "caption": "Standard Suites Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/accommodations/suites-1.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -332,7 +340,7 @@
         },
         {
             "type": "Room",
-            "name": "Traditional Room, 1 King Bed (Traditional King Hearing Impaired)",
+            "name": "Traditional Room 1 King Bed (Traditional King Hearing Impaired)",
             "url": "https://www.thefontainehotel.com/accommodations/guestrooms",
             "bookUrl": "https://www.thefontainehotel.com/accommodations/guestrooms#/booking/step-1",
             "tourUrl": "",
@@ -349,10 +357,13 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
-
             ],
             "roomAmenitiesArr": [
                 {
@@ -391,7 +402,7 @@
         },
         {
             "type": "Room",
-            "name": "Traditional Room, 1 King Bed",
+            "name": "Traditional Room 1 King Bed",
             "url": "https://www.thefontainehotel.com/accommodations/guestrooms#/",
             "bookUrl": "https://www.thefontainehotel.com/accommodations/guestrooms#/booking/step-1",
             "tourUrl": "",
@@ -408,8 +419,12 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -450,9 +465,9 @@
         },
         {
             "type": "Suite",
-            "name": "Junior Suite, Accessible (Hearing Impaired)",
-            "url": "https://www.thefontainehotel.com/accommodations/suites#/booking/step-1",
-            "bookUrl": "",
+            "name": "Junior Suite Accessible (Hearing Impaired)",
+            "url": "https://www.thefontainehotel.com/accommodations/suites",
+            "bookUrl": "https://www.thefontainehotel.com/accommodations/suites#/booking/step-1",
             "tourUrl": "",
             "petsAllowedTrueOrFalse": true,
             "description": "If you're planning on a longer stay, looking for more spacious accommodations or simply want a place to entertain guests and colleagues, our luxuriously appointed suites offer the space you need in the style you demand. Relax in the tastefully understated sitting area, combining comfort and a clean, modern design. It's the perfect spot for a private meeting or mini-mixer with colleagues, or a great place for the family to relax after a busy day of shopping and sight-seeing. We have nine King suites available, most of which are ADA-accessible for our guests with disabilities. Turndown service is also available. All of our suites are 100% smoke-free.",
@@ -467,8 +482,16 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com//images/hero/accommodations-suites.jpg"
+                },
+                {
+                    "caption": "Standard Suites",
+                    "url": "https://www.thefontainehotel.com/images/interior/accommodations/stay-suites-1.jpg"
+                },
+                {
+                    "caption": "Standard Suites Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/accommodations/suites-1.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -525,8 +548,12 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -584,8 +611,12 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -643,8 +674,12 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -701,8 +736,12 @@
             "roomCount": "1",
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -760,8 +799,12 @@
 
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -818,9 +861,17 @@
             "roomCount": "1",
 
             "images": [
+                 {
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com//images/hero/accommodations-suites.jpg"
+                },
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Standard Suites",
+                    "url": "https://www.thefontainehotel.com/images/interior/accommodations/stay-suites-1.jpg"
+                },
+                {
+                    "caption": "Standard Suites Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/accommodations/suites-1.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -877,9 +928,13 @@
             "roomCount": "1",
 
             "images": [
+               {
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
