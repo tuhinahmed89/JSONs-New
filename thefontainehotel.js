@@ -991,8 +991,12 @@
             "roomCount": "1",
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
@@ -1051,8 +1055,12 @@
             "roomCount": "1",
             "images": [
                 {
-                    "caption": "",
-                    "url": ""
+                    "caption": "Living Room",
+                    "url": "https://www.thefontainehotel.com/images/nav-specials/our-hotel.jpg"
+                },
+                {
+                    "caption": "Bedroom",
+                    "url": "https://www.thefontainehotel.com/images/hero/accommodations-guestrooms.jpg"
                 }
             ],
             "roomAmenitiesArr": [
