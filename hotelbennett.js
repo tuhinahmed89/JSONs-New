@@ -1551,116 +1551,160 @@
    
     "restaurants": [
         {
-            "name": "Victor's Seafood & Steak",
-            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
-            "description": "Victor's Seafood & Steak pays homage to Charleston's legendary 18th-century clubs, bringing the community together over delectable food and drinks. In a space that’s both elegant and warm, Victor’s menu highlights flavors from around the world along with classic cocktails, chilled beers and an extensive wine list.",
+            "name": "Gabrielle",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle",
+            "description": "This cuisine showcases Lowcountry’s fresh bounty with bold, yet refined, flavors. From the moment you arrive, Gabrielle exudes warmth and grace. Enjoy inspired dishes upon our impressive outdoor dining terrace overlooking Marion Square or at the elegant bar and dining room. It’s an experience you won’t forget.",
             "menu": [
                 {
-                    "name": "Victor's Seafood & Steak Menu",
-                    "url": "https://www.holycityhospitality.com/victors-seafood-and-steak/menus"
+                    "name": "Breakfast",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#breakfast"
+                },
+                 {
+                    "name": "Brunch",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#brunch"
+                },
+                {
+                    "name": "Lunch",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#lunch"
+                },
+                {
+                    "name": "Lounge",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#lounge"
+                },
+                {
+                    "name": "Dinner",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#dinner"
+                },
+                {
+                    "name": "Drinks",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#drinks"
+                },
+                {
+                    "name": "Desserts",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/gabrielle#desserts"
                 }
             ],
-            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
-            "reservationUrl": "https://www.opentable.com/r/victors-seafood-and-steak-charleston",
-            "priceRange": "31-50",
+            "logoUrl": "https://www.hotelbennett.com/images/layout/logos/gabrielle-white.svg",
+            "reservationUrl": "https://www.opentable.com/r/gabrielle-charleston-in-hotel-bennett-charleston",
+            "priceRange": "50–100",
             "acceptsReservations": true,
-            "servesCuisine": ["American", "Seafood", "Steakhouse"],
+            "servesCuisine": ["Contemporary Southern", "Seafood", "South Carolina"],
             "contact": {
-                "phone": "1-843-203-3001",
-                "email": "info@victorsseafoodandsteak.com"
+                "phone": "1-855-577-7564",
+                "email": "gabriellesocial@hotelbennett.com"
             },
             "location": {
-                "street": "39F John St",
+                "street": "404 King St",
                 "city": "Charleston",
                 "state": "SC",
                 "zip": "29403",
                 "country": "US"
             },
             "rating": {
-                "value": "4.2",
-                "count": "202"
+                "value": "4.1",
+                "count": "134"
             }
         }
     ],
     "reviews": [
         {
-            "author": "Nick Markel",
+            "author": "Jill Scherling",
             "value": "5",
-            "datePublished": "2024-07-07"
+            "datePublished": "2024-01-22"
         },
         {
-            "author": "Joy Marsh",
+            "author": "Steve Salisbury",
             "value": "5",
-            "datePublished": "2024-07-20"
+            "datePublished": "2023-08-10"
         }
     ],
     [
         {
-            "name": "Vincent Chicco's",
-            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
-            "description": "This charming hideaway delivers classic Italian-American cuisine including handmade pasta, flavorful sauces and delectable desserts. Dishes are brought to life with simple, high quality ingredients. Step back into the romantic time of the past and enjoy the storied setting boasting wholesome flavors.",
+            "name": "Fiat Lux",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/fiat-lux",
+            "description": "This rooftop bar delights all of the senses. It’s the destination for specialty cocktails and an extensive wine list with spectacular panoramic views overlooking the Holy City. Here, sunset is best paired with a bottle of rosé.",
             "menu": [
                 {
-                    "name": "Vincent Chicco's Menu",
-                    "url": "https://www.holycityhospitality.com/vincent-chiccos/menus/"
+                    "name": "Wine",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/fiat-lux#wine"
+                },
+                {
+                    "name": "Cocktails",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/fiat-lux#cocktails"
+                },
+                {
+                    "name": "Beer",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/fiat-lux#beer"
+                },
+                {
+                    "name": "Spirits",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/fiat-lux#spirits"
+                },
+                {
+                    "name": "Chef's Selection",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/fiat-lux#chefs-selection"
                 }
             ],
-            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
-            "reservationUrl": "https://www.opentable.com/vincent-chiccos",
-            "priceRange": "0-30",
+            "logoUrl": "https://www.hotelbennett.com/images/layout/logos/fiat-lux-w.png",
+            "reservationUrl": "",
+            "priceRange": "20–30",
             "acceptsReservations": true,
-            "servesCuisine": ["Italian", "Seafood", "Contemporary Italian"],
+            "servesCuisine": [""],
             "contact": {
-                "phone": "1-843-203-3002",
-                "email": "info@vincentchiccos.com"
+                "phone": "1-855-577-7561",
+                "email": "fiatluxsocial@hotelbennett.com"
             },
             "location": {
-                "street": "39G John St",
+                "street": "404 King St",
                 "city": "Charleston",
                 "state": "SC",
                 "zip": "29403",
                 "country": "US"
             },
             "rating": {
-                "value": "3.9",
-                "count": "290"
+                "value": "4.5",
+                "count": "67"
             }
         }
     ],
     "reviews": [
         {
-            "author": "Christa Sullivan",
+            "author": "Michael O'Connor",
             "value": "5",
-            "datePublished": "2024-06-07"
+            "datePublished": "2023-08-13"
         },
         {
-            "author": "Michelle Wilhoit",
+            "author": "Meredith Going",
             "value": "5",
-            "datePublished": "2024-07-20"
+            "datePublished": "2023-08-15"
         }
     ],
      [
         {
-            "name": "Virginia's on King",
-            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
-            "description": "The sophisticated restaurant blends traditional southern dining with familiar regional dishes. Prepared with utmost care for quality and flavor, Virginia’s on King incorporates local fresh ingredients and old family recipes to bring you southern cooking, lowcountry style.",
+            "name": "Camellias",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/camellias",
+            "description": "Step into a design and architectural wonder. Inspired by the renowned Fabergé jewels, Camellias' etched-mirror ceiling and crystal chandelier creates a breathtaking world unlike any other champagne lounge. Named "Most Instagrammable Restaurant" in South Carolina by Food Network, Camellias boasts an extensive collection of bottle and by-the-glass drinks paired with a decadent selection of caviar, charcuterie, local seafood and homemade desserts by La Pâtisserie. The bold pink interiors include marble reclaimed from the library that stood in this spot, a nod to the area’s rich history and tradition. Whether you’re looking to celebrate over Afternoon Tea or treat yourself with friends, Camellias will exceed your greatest expectations.",
             "menu": [
                 {
-                    "name": "Virginia's on King Menu",
-                    "url": "https://www.holycityhospitality.com/virginias-on-king/menus"
+                    "name": "Camellias",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/camellias#camellias"
+                },
+                {
+                    "name": "Afternoon Tea",
+                    "url": "https://www.hotelbennett.com/dining-and-lounges/camellias#afternoon-tea"
                 }
             ],
-            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
-            "reservationUrl": "https://www.opentable.com/virginias-on-king",
-            "priceRange": "20-30",
+            "logoUrl": "https://www.hotelbennett.com/images/layout/logos/camellias-w.png",
+            "reservationUrl": "https://www.opentable.com/r/camellias-charleston",
+            "priceRange": "50–100",
             "acceptsReservations": true,
-            "servesCuisine": ["Southern", "Low Country", "Comfort Food"],
+            "servesCuisine": ["Afternoon Tea", "Bar / Lounge / Bottle Service"],
             "contact": {
-                "phone": "1-843-735-5800",
-                "email": ""
+                "phone": "1-855-577-7567",
+                "email": "camelliassocial@hotelbennett.com"
             },
             "location": {
-                "street": "412 King St",
+                "street": "404 King St 107",
                 "city": "Charleston",
                 "state": "SC",
                 "zip": "29403",
@@ -1668,112 +1712,68 @@
             },
             "rating": {
                 "value": "4.3",
-                "count": "1721"
+                "count": "156"
             }
         }
     ],
     "reviews": [
         {
-            "author": "Michael LaBarbera",
+            "author": "Jacqueline V",
             "value": "5",
-            "datePublished": "2024-04-07"
+            "datePublished": "2024-07-20"
         },
         {
-            "author": "Jasmine Blanc",
+            "author": "Nicole Juhan",
             "value": "5",
-            "datePublished": "2024-06-08"
+            "datePublished": "2024-06-22"
         }
     ],
     [
         {
-            "name": "39 Rue de Jean",
-            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
-            "description": "39 Rue De Jean emanates the characteristics of a late 1800’s Brasserie, which offered Parisians hearty robust cuisine, handcrafted beers and affordable wines, in a vibrant whirl of jubilant socializing.",
+            "name": "La Pâtisserie",
+            "url": "https://www.hotelbennett.com/dining-and-lounges/la-patisserie",
+            "description": "Get carried away to Paris at La Pâtisserie, the vision of renowned French Pastry Chef and 2024 James Beard Award nominee, Rémy Fünfrock. The cafe is as authentic as it is chic, serving the finest coffee, homemade breads, pastries and more. Whether you dine in or on-the-go, La Pâtisserie opens early with sweet and savory pastries and a full coffee bar. Throughout the day, guests can enjoy sandwiches crafted with artisanal bread, prepared sides and sweet delicacies. And, of course, it is the only place to go for a slice of the famed Camellias cake.",
             "menu": [
                 {
-                    "name": "39 Rue de Jean Menu",
-                    "url": "http://www.holycityhospitality.com/39-rue-de-jean-charleston/menus"
+                    "name": "",
+                    "url": ""
                 }
             ],
-            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
-            "reservationUrl": "https://www.opentable.com/39-rue-de-jean-charleston",
-            "priceRange": "30-50",
+            "logoUrl": "https://www.hotelbennett.com/images/layout/logos/la-patisserie-w.png",
+            "reservationUrl": "https://www.ubereats.com/store/la-patisserie-404-king-st/BP6s-PBSSrqYC_VsLj9Oig?utm_campaign=place-action-link&utm_medium=organic&utm_source=google",
+            "priceRange": "10–20",
             "acceptsReservations": true,
-            "servesCuisine": ["French", "French American", "Wine Bar"],
+            "servesCuisine": [""],
             "contact": {
-                "phone": "1-843-722-8881",
-                "email": "info@39ruedejean.com"
+                "phone": "1-843-990-5460",
+                "email": "lapatisseriechs@hotelbennett.com"
             },
             "location": {
-                "street": "39 John St",
+                "street": "404 John St",
                 "city": "Charleston",
                 "state": "SC",
                 "zip": "29403",
                 "country": "US"
             },
             "rating": {
-                "value": "4.2",
-                "count": "1509"
+                "value": "4.6",
+                "count": "521"
             }
         }
     ],
     "reviews": [
         {
-            "author": "Doug Duff",
+            "author": "Olga Gloria Sundy",
+            "value": "5",
+            "datePublished": "2024-08-15"
+        },
+        {
+            "author": "Pamela Lawrence",
             "value": "5",
             "datePublished": "2024-07-22"
-        },
-        {
-            "author": "Patrick O'Shaughnessy",
-            "value": "5",
-            "datePublished": "2024-04-08"
         }
     ],
-        [
-        {
-            "name": "Coast Bar & Grill",
-            "url": "https://www.hotelbennett.com/dining-and-lounges/local-dining",
-            "description": "Our chefs meet with local farmers and fishermen daily to source the freshest seafood and produce. This unique menu incorporates Charleston Classics with our chefs’ crafted creations. Local favorites include the selection of wood-grilled fresh fish, Seared Rare Tuna, Fish Tacos and the full raw bar. At the heart of the restaurant is the hickory and oak custom-made wood-burning grill.",
-            "menu": [
-                {
-                    "name": "Coast Bar & Grill Menu",
-                    "url": "https://www.holycityhospitality.com/coast-bar-and-grill/menus"
-                }
-            ],
-            "logoUrl": "https://www.holycityhospitality.com/wp-content/uploads/2022/07/Victors_logo_white.svg",
-            "reservationUrl": "https://www.opentable.com/coast-bar-and-grill-charleston",
-            "priceRange": "30-50",
-            "acceptsReservations": true,
-            "servesCuisine": ["Seafood"],
-            "contact": {
-                "phone": "1-843-722-8838",
-                "email": ""
-            },
-            "location": {
-                "street": "39D John St",
-                "city": "Charleston",
-                "state": "SC",
-                "zip": "29403",
-                "country": "US"
-            },
-            "rating": {
-                "value": "4.3",
-                "count": "1579"
-            }
-        }
-    ],
-    "reviews": [
-        {
-            "author": "Joshua Widener",
-            "value": "5",
-            "datePublished": "2024-06-08"
-        },
-        {
-            "author": "Jeff Vaughan",
-            "value": "5",
-            "datePublished": "2024-07-08"
-        }
-    ],
+       
     "spas": [
     {
       "name": "the spa",
