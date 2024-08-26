@@ -1603,10 +1603,8 @@
             "rating": {
                 "value": "4.1",
                 "count": "134"
-            }
-        }
-    ],
-    "reviews": [
+            },
+            "reviews": [
         {
             "author": "Jill Scherling",
             "value": "5",
@@ -1618,6 +1616,9 @@
             "datePublished": "2023-08-10"
         }
     ],
+        }
+    ],
+    
     [
         {
             "name": "Fiat Lux",
@@ -1699,7 +1700,7 @@
             "reservationUrl": "https://www.opentable.com/r/camellias-charleston",
             "priceRange": "50–100",
             "acceptsReservations": true,
-            "servesCuisine": ["Afternoon Tea", "Bar / Lounge / Bottle Service"],
+            "servesCuisine": ["Afternoon Tea", "Bar or Lounge or Bottle Service"],
             "contact": {
                 "phone": "1-855-577-7567",
                 "email": "camelliassocial@hotelbennett.com"
@@ -1714,10 +1715,8 @@
             "rating": {
                 "value": "4.3",
                 "count": "156"
-            }
-        }
-    ],
-    "reviews": [
+            },
+                "reviews": [
         {
             "author": "Jacqueline V",
             "value": "5",
@@ -1729,6 +1728,9 @@
             "datePublished": "2024-06-22"
         }
     ],
+        }
+    ],
+
     [
         {
             "name": "La Pâtisserie",
@@ -1759,10 +1761,8 @@
             "rating": {
                 "value": "4.6",
                 "count": "521"
-            }
-        }
-    ],
-    "reviews": [
+            },
+            "reviews": [
         {
             "author": "Olga Gloria Sundy",
             "value": "5",
@@ -1774,6 +1774,9 @@
             "datePublished": "2024-07-22"
         }
     ],
+        }
+    ],
+    
        
     "spas": [
     {
