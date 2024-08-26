@@ -1716,7 +1716,7 @@
                 "value": "4.3",
                 "count": "156"
             },
-                "reviews": [
+           "reviews": [
         {
             "author": "Jacqueline V",
             "value": "5",
@@ -1726,7 +1726,7 @@
             "author": "Nicole Juhan",
             "value": "5",
             "datePublished": "2024-06-22"
-        }
+        }     
     ],
         }
     ],
