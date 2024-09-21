@@ -93,9 +93,470 @@ const hotel = {
 
 	imageArr: [
 		{
+			caption: "Water View King", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/nav-menu/rooms-dc.jpg" // url of the image source
+		},
+		{
+			caption: "Club", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/nav-menu/club.jpg" // url of the image source
+		},
+		{
+			caption: "Dining", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/nav-menu/dining.jpg" // url of the image source
+		},
+		{
+			caption: "The Spa at Innisbrook", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/nav-menu/stock-flowers.jpg" // url of the image source
+		},
+		{
+			caption: "DC attractions", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/nav-menu/dc.jpg" // url of the image source
+		},
+		{
+			caption: "Ballroom", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/nav-menu/meetings.jpg" // url of the image source
+		},
+		{
+			caption: "Monument Club", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/navpackages/09172020_hotelbennett_andrewcebulka-4949-1-.jpg" // url of the image source
+		},
+		{
+			caption: "Gift Cards", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/navpackages/sdc-lounge-rendering-1-1-.jpg" // url of the image source
+		},
+		{
+			caption: "Chef Kwame X Salamander DC", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/navpackages/dogon080824_0260-1-.jpg" // url of the image source
+		},
+		
+		{
+			caption: "Newly Enhanced Lounge", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/navpackages/sdc-lounge-rendering-1-1-.jpg" // url of the image source
+		},
+		{
+			caption: "Enjoy exclusive access to The Monument Club", // a name or caption of the image
+			url: "https://www.salamanderdc.comhttps://www.salamanderdc.com/images/content/homepageflyin/lifestyle-monument-club.jpg" // url of the image source
+		},
+		{
+			caption: "Suite Serenity", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageflyin/suite-serenity-photo-final.jpg" // url of the image source
+		},
+		{
+			caption: "woman on spa treatment table", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageflyin/salamanderresortscottkruitboschnoellabaronespa--99-1-.jpg" // url of the image source
+		},
+		{
+			caption: "The Art of Giving", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageflyin/231102_salamanderdc_courtyard_0221_lowres-3-1-.jpg" // url of the image source
+		},
+		{
+			caption: "A faraway shot of Salamander hotel", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageflyin/hotel-exterior.jpg?09530950337421684" // url of the image source
+		},
+		{
+			caption: "The new living room at Salamander DC", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/hero/full/sdc-lobby-rendering-1-.jpg" // url of the image source
+		},
+		{
+			caption: "The new Lounge and outdoor lounge terrace", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/hero/full/2.jpg" // url of the image source
+		},
+		{
+			caption: "Salamander DC Suites", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/hero/full/240820_SalamanderDC_300Suites_0011_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "Horizontal Exterior", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/hero/full/dc_hero_0012_horizontal-exterior-with-salamander-logo.jpg" // url of the image source
+		},
+		{
+			caption: "Luxury hotel room in D.C.", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/home/tiles/img-1/240820_SalamanderDC_300Suites_0011_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "Woman smiling in the sun", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/home/tiles/img-2/woman-looking.jpg" // url of the image source
+		},
+		{
+			caption: "A chef holding skewers over a plate of food", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningsliderlargeimg/dogon080824_0175-1-.jpg" // url of the image source
+		},
+		{
+			caption: "pancakes with bananas and maple syrup and berries", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningsliderlargeimg/pancake.jpg" // url of the image source
+		},
+		{
+			caption: "Two beds in a hotel room with blue walls", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningsliderlargeimg/double-bed.jpg" // url of the image source
+		},
+		{
+			caption: "Chef Kwame Onwuachi returns to D.C.", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningslidersmallimg/dogon080824_0260-1-.jpg" // url of the image source
+		},
+		{
+			caption: "Afternoon Tea, Curated Cocktails and Culinary Delights", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningslidersmallimg/231102_salamanderdc_courtyard_0258_lowres-1-.jpg" // url of the image source
+		},
+		{
+			caption: "Open Daily for Guests 7AM - 12PM", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningslidersmallimg/coffee-book.jpg" // url of the image source
+		},
+		{
+			caption: "Dine from the comfort of your guestroom", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagediningslidersmallimg/inroom-dining1.jpg" // url of the image source
+		},
+		{
+			caption: "Studio Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/240820_SalamanderDC_328Suites_0158_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "A bedroom with one bed", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/240820_SalamanderDC_328Suites_0196b_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "Marina View One Bedroom Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/240820_SalamanderDC_301Suites_0130_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "Deluxe Balcony One Bedroom Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/240820_SalamanderDC_328Suites_0196b_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "Premier Water View One Bedroom Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/240820_SalamanderDC_370Suites_0508_lowres.jpg" // url of the image source
+		},
+		{
+			caption: "Diplomat Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/DIPLOMAT-SUITE.jpg" // url of the image source
+		},
+		{
+			caption: "Mayor Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/MAYOR-SUITE.jpg" // url of the image source
+		},
+		{
+			caption: "Ambassador Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/AMBASSADOR-SUITE.jpg" // url of the image source
+		},
+		{
+			caption: "Bethune Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/BETHUNE-SUITE.jpg" // url of the image source
+		},
+		{
+			caption: "Presidential Suite", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/PRESIDENTIAL-SUITE.jpg" // url of the image source
+		},
+		{
+			caption: "Deluxe Room", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/DELUXE-ROOM.jpg" // url of the image source
+		},
+		{
+			caption: "Premier Water View Room", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/PREMIER-WATER-VIEW-ROOM.jpg" // url of the image source
+		},
+		{
+			caption: "Deluxe Water View Room", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageroomslider/DELUXE-WATER-VIEW-ROOM.jpg" // url of the image source
+		},
+		{
+			caption: "Weddings", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagegatheringslidersmallimg/weddings.jpg" // url of the image source
+		},
+		{
+			caption: "Meetings", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagegatheringslidersmallimg/meetings.jpg" // url of the image source
+		},
+		{
+			caption: "woman sitting in private monument club lounge", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepageoffers/untitled-design-66-.jpg" // url of the image source
+		},
+		{
+			caption: "salamander spa welcome reception area", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagespaslider/sdcspareception-rendering.jpg" // url of the image source
+		},
+		{
+			caption: "Facial", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagespaslider/facial1.jpg" // url of the image source
+		},
+		{
+			caption: "A girl holding a yoga mat", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homepagespaslider/salamander-va-scott-kruitbosch-noella-barone-4011.jpg?09353786704116607" // url of the image source
+		},
+		{
+			caption: "The Anthem", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/the-anthem-courtesy-of-washington.org-1-.jpg" // url of the image source
+		},
+		{
 			caption: "", // a name or caption of the image
-			url: "" // url of the image source
-		}
+			url: "https://www.salamanderdc.com/images/content/homeactivities/wharf.jpg" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
+		{
+			caption: "", // a name or caption of the image
+			url: "https://www.salamanderdc.com" // url of the image source
+		},
 	],
 
 	roomsArr: [
