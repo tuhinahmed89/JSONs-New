@@ -17,14 +17,14 @@ const hotel = {
 	petsAllowedTrueFalse: false, // true or false
 
 	// total number of rooms that are used as accommodations
-	totalRoomCount: 21,
+	totalRoomCount: 373,
 
 	// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
-	priceRange: "$$$",
+	priceRange: "491",
 
 	// based on 24 hours time. ex: 14:00 means 2:00 PM
-	checkInTime: "14:00",
-	checkOutTime: "10:00",
+	checkInTime: "15:00",
+	checkOutTime: "11:00",
 
 	// other urls
 	logoUrl: "", // image source url of the hotel logo
