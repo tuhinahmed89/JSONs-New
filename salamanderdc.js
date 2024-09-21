@@ -286,12 +286,16 @@ const hotel = {
 			url: "https://www.salamanderdc.com/images/content/homeactivities/the-anthem-courtesy-of-washington.org-1-.jpg" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
+			caption: "Ride The Wharf Water Taxi", // a name or caption of the image
 			url: "https://www.salamanderdc.com/images/content/homeactivities/wharf.jpg" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
+			caption: "The Municipal Fish Market at The Wharf", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/fishmarket.jpg" // url of the image source
+		},
+		{
+			caption: "The Wharf DC", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/thewharf-2-.jpg" // url of the image source
 		},
 		{
 			caption: "", // a name or caption of the image
@@ -302,68 +306,64 @@ const hotel = {
 			url: "https://www.salamanderdc.com" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
+			caption: "Diverse Restaurant Scene", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/restaurant.jpg" // url of the image source
+		},
+		{
+			caption: "Shopping", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/shopping.jpg" // url of the image source
+		},
+		{
+			caption: "ARTECHOUSE DC", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/artechouse-dc.jpg" // url of the image source
+		},
+		{
+			caption: "Martin Luther King, Jr. Memorial", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/mlkmemorial.jpg" // url of the image source
+		},
+		{
+			caption: "World War II Memorial", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/wwiimemorial-1-.jpg" // url of the image source
+		},
+		{
+			caption: "Lincoln Memorial", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/lincolnmemorial-1-.jpg?" // url of the image source
+		},
+		{
+			caption: "Washington Monument", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/washingtonmonument.jpg" // url of the image source
+		},
+		{
+			caption: "Big Bus Tour", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/BigBusTour.jpg" // url of the image source
+		},
+		{
+			caption: "United States Capitol", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/thecapitol.jpg" // url of the image source
+		},
+		{
+			caption: "National Museum of African American History and Culture", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/newdiscoveries.jpg" // url of the image source
+		},
+		{
+			caption: "Thomas Jefferson Memorial", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/thomasjeffersonmemorial.jpg" // url of the image source
+		},
+		{
+			caption: "United States Capitol dome", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/southwest-by-southwest.jpg" // url of the image source
+		},
+		{
+			caption: "New Discoveries", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/newdiscoveries.jpg" // url of the image source
+		},
+		{
+			caption: "Smithsonian National Museum of American History", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/culture.jpg" // url of the image source
 		},
 		{
 			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
+			url: "https://www.salamanderdc.com/images/content/homeactivities/woman-bridge.jpg" // url of the image source
 		},
 		{
 			caption: "", // a name or caption of the image
