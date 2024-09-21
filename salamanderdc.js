@@ -1,12 +1,12 @@
 const hotel = {
 
 	// strings, integers & booleans
-	name: "The Ranch Malibu", // the EXACT name of the hotel -> including any letter accents or special characters correctly
+	name: "SALAMANDER", // the EXACT name of the hotel -> including any letter accents or special characters correctly
 
 	// MUST be either "Hotel" or "Resort"
 	type: "Resort",
 
-	homepage: "https://theranchlife.com",
+	homepage: "https://www.salamanderdc.com",
 
 	// slogan/motto/tagline of the hotel
 	slogan: "Endurance, Nutrition, Wellness",
