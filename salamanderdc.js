@@ -78,8 +78,16 @@ const hotel = {
 	// amenities offered at the hotel
 	amenitiesArr: [
 		{
-			name: "",
-			url: ""
+			name: "The Monument Club",
+			url: "https://www.salamanderdc.com/rooms/overview"
+		},
+		{
+			name: "Indoor Pool",
+			url: "https://www.salamanderdc.com/rooms/overview"
+		},
+		{
+			name: "Dog Friendly",
+			url: "https://www.salamanderdc.com/rooms/overview"
 		}
 	],
 
