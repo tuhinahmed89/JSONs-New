@@ -9,12 +9,12 @@ const hotel = {
 	homepage: "https://www.salamanderdc.com",
 
 	// slogan/motto/tagline of the hotel
-	slogan: "Endurance, Nutrition, Wellness",
+	slogan: "Distinction, luxury, and comfort await in the new heart of D.C.",
 
-	description: "The Ranch Malibu is a luxury fitness, health and wellness retreat that offers immersive, results-oriented programs based on the principles of endurance, nutrition and wellness. Our programs are designed to help guests achieve sustainable, healthy habits that will last a lifetime.",
+	description: "Prominently located along the capital’s vibrant Southwest waterfront, Salamander Washington DC exudes a refined sense of style in a picturesque setting. The elegant, 373-room hotel features beautifully designed rooms, spacious suites, and the city’s finest spa. The hotel will undergo an exciting enhancement program under Salamander’s management, including a bold and imaginative new restaurant concept. Salamander DC is a short walk to the nation's most cherished monuments and attractions, including The Wharf DC.",
 
 	// if pets are allowed in the hotel or not
-	petsAllowedTrueFalse: false, // true or false
+	petsAllowedTrueFalse: true, // true or false
 
 	// total number of rooms that are used as accommodations
 	totalRoomCount: 373,
@@ -23,40 +23,40 @@ const hotel = {
 	priceRange: "491",
 
 	// based on 24 hours time. ex: 14:00 means 2:00 PM
-	checkInTime: "15:00",
+	checkInTime: "16:00",
 	checkOutTime: "11:00",
 
 	// other urls
-	logoUrl: "", // image source url of the hotel logo
-	copyrightUrl: "", // a copyright url for the website
+	logoUrl: "https://www.salamanderdc.com/images/layout/site-logo.png", // image source url of the hotel logo
+	copyrightUrl: "https://www.salamanderdc.com/terms", // a copyright url for the website
 
 	// social media urls
-	facebookUrl: "",
+	facebookUrl: "https://www.facebook.com/salamanderhoteldc",
 	twitterUrl: "",
-	instagramUrl: "",
-	linkedinUrl: "",
+	instagramUrl: "https://www.instagram.com/salamanderhoteldc",
+	linkedinUrl: "https://www.linkedin.com/company/salamander-washington-dc",
 	tiktokUrl: "",
 	youtubeUrl: "",
 
 	// pull rating from the official Google business listing
 	rating: {
-		value: "",
-		count: ""
+		value: "4.6",
+		count: "2184"
 	},
 
 	contact: {
-		phone: "1-234-567-8910", // format: x-xxx-xxx-xxxx
-		email: "inquiry@theranchlife.com" // primary contact email of the hotel
+		phone: "1-877-401-9818", // format: x-xxx-xxx-xxxx
+		email: "sales@salamanderdc.com" // primary contact email of the hotel
 	},
 
 	location: {
-		street: "12220 Cotharin Road",
-		city: "Malibu",
-		state: "CA", // 2 letter state abbreviation
-		zip: "90265", // 5 digit zip code
+		street: "1330 Maryland Ave SW",
+		city: "Washington DC",
+		state: "WA", // 2 letter state abbreviation
+		zip: "20024", // 5 digit zip code
 		country: "USA",
-		lat: 34.0974, // latitude coordinates
-		long: -118.7342 // longitude coordinates
+		lat: 39.2217, // latitude coordinates
+		long: -77.0728 // longitude coordinates
 	},
 
 	// arrays
@@ -65,14 +65,14 @@ const hotel = {
 	],
 
 	paymentAccepted: [
-		'Cash',
 		'Credit Card',
 		'Debit Card'
 	],
 
 	// array of languages spoken by the staff
 	availableLanguage: [
-		"English"
+		"English",
+		"Spanish"
 	],
 
 	// amenities offered at the hotel
