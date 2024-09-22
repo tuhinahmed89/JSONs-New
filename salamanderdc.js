@@ -382,28 +382,186 @@ const hotel = {
 	roomsArr: [
 		{
 			type: "Room", // must be either 'Suite' or 'Room'
-			name: "The Ranch 9.0", // name of the room
-			url: "https://theranchlife.com/health-and-fitness-programs/the-ranch-9-0", // URL of this specific room
-			bookUrl: "https://theranchlife.com/retreat-reservations/reserve", // URL from where the room can be booked (if applicable)
-			description: "The ultimate health immersion, enjoy 9 decision-free days of our transformative fitness and wellness program",
+			name: "Deluxe Room", // name of the room
+			url: "https://www.salamanderdc.com/rooms/rooms", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "An elegant room with a spa-inspired bathroom.",
 			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
-			checkInTime: "12:00", // 24 hours time. ex: 14:00
-			checkOutTime: "10:00", // 24 hours time. ex: 14:00
-			bedCount: "", // total number of beds in this accommodation
-			bedType: "",
-			bathroomCount: "", // total number of bathrooms in this accommodation
-			roomCount: "", // total number of rooms in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "2", // total number of beds in this accommodation
+			bedType: "2 Queen Beds",
+			bathroomCount: "1", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
 			images: [
 				{
-					caption: "", // a name or caption of the image
-					url: "", // url of the image source
+					caption: "Deluxe Room", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/deluxe-room-1.jpg?0019604270555581893", // url of the image source
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: "",
-					url: ""
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Spa-inspired bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Deluxe Water View Room", // name of the room
+			url: "https://www.salamanderdc.com/rooms/rooms", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "Waterfront views from a spacious room.",
+			maxOccupancy: 2, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "1", // total number of beds in this accommodation
+			bedType: "1 King Bed",
+			bathroomCount: "1", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "Deluxe Water View Room", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/deluxe-waterview-room-1.jpg?009669102673435159", // url of the image source
 				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Spa-inspired bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Premier Water View Room", // name of the room
+			url: "https://www.salamanderdc.com/rooms/rooms", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "A spacious corner room with views of the Marina or Jefferson Memorial.",
+			maxOccupancy: 2, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "1", // total number of beds in this accommodation
+			bedType: "1 King Bed",
+			bathroomCount: "1", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "Premier Water View Room", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/premier-waterview-room1.jpg?07507421903968812", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Spa-inspired bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Deluxe Connecting Room", // name of the room
+			url: "https://www.salamanderdc.com/rooms/rooms", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "Two connected rooms for up to six guests with two large bathrooms.",
+			maxOccupancy: 6, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "1", // total number of beds in this accommodation
+			bedType: "2 Queens and 1 King Bed",
+			bathroomCount: "2", // total number of bathrooms in this accommodation
+			roomCount: "2", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "Premier Water View Room", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/premier-waterview-room1.jpg?07507421903968812", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "Spa-inspired bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/rooms"
+				},
 			]
 		}
 	],
