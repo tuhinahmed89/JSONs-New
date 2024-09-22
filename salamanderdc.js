@@ -362,201 +362,21 @@ const hotel = {
 			url: "https://www.salamanderdc.com/images/content/homeactivities/culture.jpg" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
+			caption: "Salamander Exclusive Foot Bridge", // a name or caption of the image
 			url: "https://www.salamanderdc.com/images/content/homeactivities/woman-bridge.jpg" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
+			caption: "Afternoon Tea", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/afternoon-tea.jpg" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
+			caption: "Salamander Gem Car", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/01_gemcart_monument-1-.jpg" // url of the image source
 		},
 		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
-		{
-			caption: "", // a name or caption of the image
-			url: "https://www.salamanderdc.com" // url of the image source
-		},
+			caption: "Cruiser Bikes", // a name or caption of the image
+			url: "https://www.salamanderdc.com/images/content/homeactivities/bikes_mar_2023-1-1-.jpg" // url of the image source
+		}
 	],
 
 	roomsArr: [
