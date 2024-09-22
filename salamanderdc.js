@@ -381,7 +381,7 @@ const hotel = {
 
 	roomsArr: [
 		{
-			type: "Suite", // must be either 'Suite' or 'Room'
+			type: "Room", // must be either 'Suite' or 'Room'
 			name: "The Ranch 9.0", // name of the room
 			url: "https://theranchlife.com/health-and-fitness-programs/the-ranch-9-0", // URL of this specific room
 			bookUrl: "https://theranchlife.com/retreat-reservations/reserve", // URL from where the room can be booked (if applicable)
