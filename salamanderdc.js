@@ -1117,12 +1117,12 @@ const hotel = {
 			roomCount: "1", // total number of rooms in this accommodation
 			images: [
 				{
-					caption: "A white bed with a view", // a name or caption of the image
-					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/marinaview-1bed-1.jpg?08014681872724062", // url of the image source
+					caption: "A room with a view", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/diplomat-1.jpg?000865349849812913", // url of the image source
 				},
 				{
-					caption: "Two white beds side by side", // a name or caption of the image
-					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage2/premier-waterview-2bed.jpg?034696698683944693", // url of the image source
+					caption: "Glasses next to food", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage2/detail3.jpg?04659419187213063", // url of the image source
 				}
 			],
 			roomAmenitiesArr: [
@@ -1151,34 +1151,304 @@ const hotel = {
 					url: "https://www.salamanderdc.com/rooms/suites"
 				}
 			]
+		},
+		{
+			type: "Suite", // must be either 'Suite' or 'Room'
+			name: "Mayor Suite", // name of the room
+			url: "https://www.salamanderdc.com/rooms/suites", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "A top-floor, one-bedroom suite with living room and large bathroom.",
+			maxOccupancy: 2, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "1", // total number of beds in this accommodation
+			bedType: "1 King Bed",
+			bathroomCount: "1", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "A white bathroom", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/mayor1.jpg?05547008320735202", // url of the image source
+				},
+				{
+					caption: "A couch and table", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage2/mayor2.jpg?04938791555646648", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Two spa-inspired bathrooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				}
+			]
+		},
+		{
+			type: "Suite", // must be either 'Suite' or 'Room'
+			name: "Ambassador Suite", // name of the room
+			url: "https://www.salamanderdc.com/rooms/suites", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "Panoramic waterside views from this one-bedroom suite with original art.",
+			maxOccupancy: 2, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "1", // total number of beds in this accommodation
+			bedType: "1 King Bed",
+			bathroomCount: "1", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "A suite with brown furnishings", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/ambassador-1.jpg?07568545950077704", // url of the image source
+				},
+				{
+					caption: "Alcohol in an ice bucket", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage2/detail1.jpg?0882401579741719", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Two spa-inspired bathrooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				}
+			]
+		},
+		{
+			type: "Suite", // must be either 'Suite' or 'Room'
+			name: "Bethune Suite", // name of the room
+			url: "https://www.salamanderdc.com/rooms/suites", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "A 112sqm suite with Jefferson Memorial views and a living/dining room.",
+			maxOccupancy: 2, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "1", // total number of beds in this accommodation
+			bedType: "1 King Bed",
+			bathroomCount: "1", // total number of bathrooms in this accommodation
+			roomCount: "2", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "A room with a view", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/bethune-1.jpg?03273261831410298", // url of the image source
+				},
+				{
+					caption: "The side of the building", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage2/bethune-2.jpg?0929150684296669", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Two spa-inspired bathrooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				}
+			]
+		},
+		{
+			type: "Suite", // must be either 'Suite' or 'Room'
+			name: "Presidential Suite", // name of the room
+			url: "https://www.salamanderdc.com/rooms/suites", // URL of this specific room
+			bookUrl: "https://www.salamanderdc.com/#/booking/step-1", // URL from where the room can be booked (if applicable)
+			description: "The grandest two-bed suite with a vast living room and sweeping city views.",
+			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
+			checkInTime: "16:00", // 24 hours time. ex: 14:00
+			checkOutTime: "11:00", // 24 hours time. ex: 14:00
+			bedCount: "2", // total number of beds in this accommodation
+			bedType: "2 King Beds",
+			bathroomCount: "2", // total number of bathrooms in this accommodation
+			roomCount: "3", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "The presidential bed", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage1/presidential-1.jpg?015131173929720587", // url of the image source
+				},
+				{
+					caption: "The presidential bathroom", // a name or caption of the image
+					url: "https://www.salamanderdc.com/images/content/roomsaltrowimage2/presidential-2.jpg?05248329230843014", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "connecting rooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "High-speed WiFi",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Complimentary gym",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Two spa-inspired bathrooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "elegantly furnished rooms also feature smart technology",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "spa-inspired marble bathroom",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Two large bedrooms",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Grand living room with dining",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Office and media room",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Guest powder room",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				},
+				{
+					name: "Butlers pantry",
+					url: "https://www.salamanderdc.com/rooms/suites"
+				}
+			]
 		}
 	],
 	restaurants: [
 		{
-			name: "", // name of the restaurant
-			url: "", // primary url for the restaurant
-			description: "", // description of the restaurant
+			name: "Dōgon", // name of the restaurant
+			url: "https://www.salamanderdc.com/dining/dogon", // primary url for the restaurant
+			description: "To honor to the date Washington, D.C. was officially named back in 1791, Dōgon opened on Monday, September 9 as part of its commitment to highlight the District, its history, and culture.
+
+", // description of the restaurant
 			menu: [
 				{
-					name: "", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
-					url: "" // the url of the menu (can be a PDF if applicable)
+					name: "Dinner", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/dogon#dinner" // the url of the menu (can be a PDF if applicable)
+				},
+				{
+					name: "Drinks", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/dogon#drinks" // the url of the menu (can be a PDF if applicable)
 				}
 			],
-			priceRange: "", // is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			priceRange: "100+", // is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
 			contact: {
-				phone: "", // format: x-xxx-xxx-xxxx
-				email: "" // contact email of the restaurant
+				phone: "1-855-228-6325", // format: x-xxx-xxx-xxxx
+				email: "reserve@dogondc.com" // contact email of the restaurant
 			},
 
 			// pull rating from the official Google business listing
 			rating: {
-				value: "",
-				count: ""
+				value: "4.8",
+				count: "14"
 			},
 			imageArr: [
 				{
-					caption: "",
-					url: ""
+					caption: "multiple colorful dishes",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0064-1-.jpg?06393611952958549"
+				},
+				{
+					caption: "avocado and veggies",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0015-1-.jpg?035003615063264015"
+				},
+				{
+					caption: "corn bread prep in the kitchen",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0158-1-.jpg?020176112030096038"
+				},
+				{
+					caption: "Cocktail",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/DOGON080824_0199.jpg?002063612057310893"
+				},
+				{
+					caption: "entree with onion red tomatoes",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0112-1-.jpg?009472876634225247"
+				},
+				{
+					caption: "shrimp dish with lemon",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0053-1-.jpg?05580741785235628"
+				},
+				{
+					caption: "cabbage dish with greens",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0089-1-.jpg?08793216923540974"
+				},
+				{
+					caption: "signature cocktail",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0202-2-.jpg?004004685421621379"
+				},
+				{
+					caption: "fish with seasoning",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0022-1-.jpg?015076212416119472"
+				},
+				{
+					caption: "lobster entree",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0041-1-.jpg?07515396106469205"
+				},
+				{
+					caption: "frying pan caramelize onions",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0175-1-.jpg?0274111562561395"
+				},
+				{
+					caption: "Cocktail Pour",
+					url: "https://www.salamanderdc.com/images/content/dogonimagecarousel/dogon080824_0179-1-.jpg?00037306494345199503"
 				}
 			],
 
