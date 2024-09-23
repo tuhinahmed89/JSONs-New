@@ -1453,11 +1453,11 @@ const hotel = {
 			],
 
 			location: {
-				street: "", // street address of the restaurant
-				city: "", // city of the restaurant
-				state: "", // 2 letter state code
-				zip: "", // 5 digit zip code
-				country: "" // country of the restaurant
+				street: "1330 Maryland Ave SW", // street address of the restaurant
+				city: "Washington DC", // city of the restaurant
+				state: "WA", // 2 letter state code
+				zip: "20024", // 5 digit zip code
+				country: "USA" // country of the restaurant
 			},
 
 			// pull the reviews from the official Google business listing
@@ -1467,21 +1467,134 @@ const hotel = {
 				{
 					// full name of the reviewer
 					// try to fund reviews with full first and last names
-					author: "",
+					author: "Mr Key",
 
-					text: "", // the full review text
+					text: "Get the Hoe Crab! That is the most complex, delicious, and amazing thing I believe I’ve ever ate! It’s a 10/10 small share home run. And definitely don’t miss the Chicken and Rice or many other great dishes. Ambience is great for dates and  professional networking.", // the full review text
 
 					// be sure to only include 5-star reviews -> so the value should always be 5
 					value: 5,
 
-					datePublished: "",
+					datePublished: "2024-09-15",
 
 					// the url of the actual review
-					url: ""
+					url: "https://maps.app.goo.gl/xW6b1bs8Zm6kMd5p8"
+				},
+				{
+					// full name of the reviewer
+					// try to fund reviews with full first and last names
+					author: "Naomi Tanks",
+
+					text: "Dined here by happenstance on opening night. I was staying at the Salamander for work. I noticed people gathering around the entrance of Dogon , which is in the hotel lobby. I asked if I could sit at the bar and the events coordinator said bar seating was on a first come first serve basis. I quickly went upstairs to change and the when I came back, I was able to snag a seat. The food was absolutely divine! My favorites were the greens and of course , the Wagyu, of which the chef graciously gave us a sample. The bartender prepared a mix of alcohol free grapefruit liqueur and alcohol free champagne for me . The drink was amazing! Also, the cornbread was out of this world! The service was impeccable, as well. Most notably, the chef himself (Chef Kwame) came by and mingled with those of us sitting at the bar. The entire experience was truly a treat! I’ll be back for sure.", // the full review text
+
+					// be sure to only include 5-star reviews -> so the value should always be 5
+					value: 5,
+
+					datePublished: "2024-09-14",
+
+					// the url of the actual review
+					url: "https://maps.app.goo.gl/qoKS5QZX4w9pCKdZ7"
 				}
 			],
 
-			openingHours: [],
+			openingHours: [17.00],
+
+			// array of strings of the types of cuisine served ex: ["Italian", "American"]
+			servesCuisine: ["Nigerian", "Jamaican", "Trinidadian", "Creole"]
+		},
+		{
+			name: "The Lounge", // name of the restaurant
+			url: "https://www.salamanderdc.com/dining/lounge", // primary url for the restaurant
+			description: "Savor daily culinary offerings and premium beverages in our lobby-level Lounge or on the picturesque Lounge Terrace overlooking the Washington Marina. Whether you choose indoor or al fresco dining, you'll enjoy a refined experience.", // description of the restaurant
+			menu: [
+				{
+					name: "Starters", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/lounge#starters-and-mains" // the url of the menu (can be a PDF if applicable)
+				},
+				{
+					name: "Desserts", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/lounge#desserts" // the url of the menu (can be a PDF if applicable)
+				},
+				{
+					name: "Wine", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/lounge#wine" // the url of the menu (can be a PDF if applicable)
+				},
+				{
+					name: "Cocktails, Spirits & Beer", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/lounge#cocktails-spirits-and-beer" // the url of the menu (can be a PDF if applicable)
+				},
+				{
+					name: "Fall Afternoon Tea", // name of the menu, example: "Breakfast Menu" or "Drinks Menu"
+					url: "https://www.salamanderdc.com/dining/lounge#fall-afternoon-tea" // the url of the menu (can be a PDF if applicable)
+				}
+			],
+			priceRange: "", // is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
+			contact: {
+				phone: "1-202-787-6148", // format: x-xxx-xxx-xxxx
+				email: "" // contact email of the restaurant
+			},
+
+			// pull rating from the official Google business listing
+			rating: {
+				value: "4.5",
+				count: "2"
+			},
+			imageArr: [
+				{
+					caption: "A drink",
+					url: "https://www.salamanderdc.com/images/content/dinerimagecarousel/salamanderdc010422_0119-1-.jpg?04443828606950513"
+				},
+				{
+					caption: "A salad",
+					url: "https://www.salamanderdc.com/images/content/dinerimagecarousel/lounge-03.jpg?08019105530313662"
+				},
+				{
+					caption: "A drink",
+					url: "https://www.salamanderdc.com/images/content/dinerimagecarousel/drink.jpg?0677136939142257"
+				},
+				{
+					caption: "A woman and a server",
+					url: "https://www.salamanderdc.com/images/content/dinerimagecarousel/dining-woman-server.jpg?032417122412254584"
+				},
+				{
+					caption: "The lobby",
+					url: "https://www.salamanderdc.com/images/content/dinerimagecarousel/lobby-lounge.jpg?00004038093251198527"
+				},
+				{
+					caption: "Some cheesecake",
+					url: "https://www.salamanderdc.com/images/content/dinerimagecarousel/cheesecake.jpg?04964338588861593"
+				}
+			],
+
+			location: {
+				street: "1330 Maryland Ave SW", // street address of the restaurant
+				city: "Washington DC", // city of the restaurant
+				state: "WA", // 2 letter state code
+				zip: "20024", // 5 digit zip code
+				country: "USA" // country of the restaurant
+			},
+
+			// pull the reviews from the official Google business listing
+			// we should only include 5-star reviews
+			// we want 3 reviews for each (if they exist)
+			reviews: [
+				{
+					// full name of the reviewer
+					// try to fund reviews with full first and last names
+					author: "R Mil",
+
+					text: "Traditional Afternoon Tea at the Lounge at the Salamander, DC is $95/person only on Saturday and Sunday. You can get seating reservations for 1pm or 3:30pm. I went here to celebrate a birthday and it was my first time at an afternoon tea. The Lounge had a nice assortment of loose-leaf teas, champagne/bubbly, homemade scones, tea sandwiches, and small pastries served on a cute three-tier stand with Lavender-Blueberry Jam, Key Lime Curd, & Devonshire Cream! Everything served was delicious, that I can’t even pick out a favorite! You can tell this place has an amazing expert culinary team in the kitchen. Here are some of the delicious snacks we ate… New England Lobster Roll, Herb Egg Salad on brioche, Burrata Truffle Emulsion with Heirloom Tomato on a butter Biscuit, Smoked Salmon/Caviar, Chocolate Madeleines, Apricot Vanilla bean Butter Cookie, Strawberry Mousse Cheesecake, Green Forest Cherry Trifle, Carrot Pecan Cake, and Peaches & Cream Scone. Highly recommend if you want to try something relaxing and different.", // the full review text
+
+					// be sure to only include 5-star reviews -> so the value should always be 5
+					value: 5,
+
+					datePublished: "2023-09-23",
+
+					// the url of the actual review
+					url: "https://maps.app.goo.gl/oe4fhmmVCSwsGqDG6"
+				}
+			],
+
+			openingHours: [10:00],
 
 			// array of strings of the types of cuisine served ex: ["Italian", "American"]
 			servesCuisine: []
@@ -1489,21 +1602,41 @@ const hotel = {
 	],
 	spas: [
 		{
-			name: "",
-			url: "",
-			description: "",
+			name: "Salamander Spa Washington DC",
+			url: "https://www.salamanderdc.com/spa/opening",
+			description: "Introducing Salamander Spa, Washington DC's only premier two-level oasis for unparalleled relaxation and rejuvenation. Located in the heart of the city, this luxurious spa features 14 treatment rooms across its newly refreshed and elegantly designed spaces. On the Lobby Level, guests are welcomed into a serene environment offering advanced, non-invasive skin and beauty treatments using the latest technologies.",
 			imageArr: [
 				{
-					caption: "",
-					url: ""
+					caption: "Spa Pool",
+					url: "https://www.salamanderdc.com/images/content/altrow/spa-pool-2-1-.jpg?037938151092959504"
+				},
+				{
+					caption: "Geneo Glo Facial",
+					url: "https://www.salamanderdc.com/images/content/altrow/SalamanderResortScottKruitboschNoellaBaroneSpaBW--75.jpg?04525557797150941"
+				},
+				{
+					caption: "Grooming Lounge",
+					url: "https://www.salamanderdc.com/images/content/altrow/6.jpg?015861772055099133"
+				},
+				{
+					caption: "Eye Gels",
+					url: "https://www.salamanderdc.com/images/content/altrow/eyegels-massage-486x465.jpg?011966935793964506"
+				},
+				{
+					caption: "Spa Boutique Products",
+					url: "https://www.salamanderdc.com/images/content/altrow/antaraboutique-486x465.jpg?036708134219846955"
+				},
+				{
+					caption: "Appointments",
+					url: "https://www.salamanderdc.com/images/content/altrow/SalamanderResortScottKruitboschNoellaBaroneSpa--113.jpg?02792318761711705"
 				}
 			],
 
 			location: {
-				street: "",
-				city: "",
-				state: "",
-				zip: "",
+				street: "1330 Maryland Ave SW",
+				city: "Washington, DC",
+				state: "WA",
+				zip: "20024",
 				country: ""
 			},
 
@@ -1514,30 +1647,47 @@ const hotel = {
 				{
 					// full name of the reviewer
 					// try to fund reviews with full first and last names
-					author: "",
+					author: "Elie Smith",
 
-					text: "", // the full review text
+					text: "A fine mix of hospitality with luxury,complete with highly dedicated staff. While the stay continues,one staff member who caught our attention because of her passion for what she is doing is Eskedar. For 6 days we enjoyed every moment besides Mrs Eskedar, the other staff members who caught my attention because of their passion for what they do were : Dolly, Soto and Jesus, they were at the 8th floor for breakfast.", // the full review text
 
 					// be sure to only include 5-star reviews -> so the value should always be 5
 					value: 5,
 
-					datePublished: "",
+					datePublished: "2024-06-23",
 
 					// the url of the actual review
-					url: ""
+					url: "https://maps.app.goo.gl/g4DBLQdhzJRrxbGR6"
+				}
+			]
+		},
+		{
+					// full name of the reviewer
+					// try to fund reviews with full first and last names
+					author: "Jen,
+
+					text: "Enjoyed my 80 minutes massage, one of the best that I had in a long time.  The spa / hotel is under renovation, so not a nice waiting area or relaxing space but the treatment rooms, bed and everything is top notch!!!  I definitely will return when I go back to DC.", // the full review text
+
+					// be sure to only include 5-star reviews -> so the value should always be 5
+					value: 5,
+
+					datePublished: "2024-04-23",
+
+					// the url of the actual review
+					url: "https://g.co/kgs/u1BLo2b"
 				}
 			]
 		}
 	],
 	landmarksOrHistoricalBuildings: [
 		{
-			name: "",
+			name: "National Museum of Natural History",
 			url: "",
 
 			// url of the map location (get this from Google Maps)
-			mapUrl: "",
+			mapUrl: "https://maps.app.goo.gl/VfJ2McntFUbNKSHu7",
 
-			description: "",
+			description: "The Ellipse, sometimes referred to as President's Park South, is a 52-acre park south of the White House fence and north of Constitution Avenue and the National Mall in Washington, D.C., US. The Ellipse is also the name of the five-furlong circumference street within the park.",
 			imageArr: [
 				{
 					caption: "",
