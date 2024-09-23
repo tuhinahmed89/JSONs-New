@@ -1637,7 +1637,7 @@ const hotel = {
 				city: "Washington, DC",
 				state: "WA",
 				zip: "20024",
-				country: ""
+				country: "USA"
 			},
 
 			// pull the reviews from the official Google business listing
