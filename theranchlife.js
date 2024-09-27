@@ -49,16 +49,26 @@ const hotel = {
 		email: "inquiry@theranchlife.com" // primary contact email of the hotel
 	},
 
-	location: {
-		street: "12220 Cotharin Road",
-		city: "Malibu",
-		state: "CA", // 2 letter state abbreviation
-		zip: "90265", // 5 digit zip code
-		country: "USA",
-		lat: 34.0974, // latitude coordinates
-		long: -118.7342 // longitude coordinates
-	},
-
+	locationArr: [
+		{
+			street: "12220 Cotharin Road",
+			city: "Malibu",
+			state: "CA", // 2 letter state abbreviation
+			zip: "90265", // 5 digit zip code
+			country: "USA",
+			lat: 34.0974, // latitude coordinates
+			long: -118.7342 // longitude coordinates
+		},
+		{
+			street: "150 Sister Servants Lane",
+			city: "Sloatsburg",
+			state: "NY",
+			zip: "10974",
+			country: "USA",
+			lat: "41.5524",
+			long: "-74.4856"
+		}
+	],
 	// arrays
 	currenciesAccepted: [
 		'USD'
