@@ -94,47 +94,95 @@ const hotel = {
 	// amenities offered at the hotel
 	amenitiesArr: [
 		{
-			"name": "the integrative health plan",
+			"name": "private cottages",
 			"url": "https://www.theranchlife.com/locations/malibu/amenities",
 		},
 		{
-			"name": "the ranch 360",
+			"name": "outdoor heated pool",
 			"url": "https://www.theranchlife.com/locations/malibu/amenities",
 		},
 		{
-			"name": "diagnostic testing",
+			"name": "jacuzzi",
 			"url": "https://theranchmalibu.com/health-and-fitness-programs/functional-health-programs/#diagnostic",
 		},
 		{
-			"name": "meet bridgette becker",
+			"name": "infrared sauna",
 			"url": "https://theranchmalibu.com/health-and-fitness-programs/functional-health-programs/#about",
 		},
 		{
-			"name": "food & supplements",
+			"name": "cold plunge",
 			"url": "https://theranchmalibu.com/store/#food-supplements",
 		},
 		{
-			"name": "body & skincare",
+			"name": "open-air gym",
 			"url": "https://theranchmalibu.com/store/#body-skincare",
 		},
 		{
-			"name": "gift cards",
+			"name": "organic garden",
 			"url": "https://theranchmalibu.com/gift-certificate/",
 		},
 		{
-			"name": "gift sets",
+			"name": "iv therapy",
 			"url": "https://theranchmalibu.com/store/#gift-sets",
 		},
 		{
-			"name": "apparel & home",
+			"name": "hydrotherapy",
+			"url": "https://theranchmalibu.com/store/#apparel-home",
+		},
+		{
+			"name": "chiropractic care",
+			"url": "https://theranchmalibu.com/store/#apparel-home",
+		},
+		{
+			"name": "energy healing services",
 			"url": "https://theranchmalibu.com/store/#apparel-home",
 		}
 	],
 
 	imageArr: [
 		{
-			caption: "", // a name or caption of the image
-			url: "" // url of the image source
+			caption: "group hike", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/intro/tile_1/_dsc3847_150.dpi-2-1-.jpg?0056673968582649614" // url of the image source
+		},
+		{
+			caption: "group fitness class", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/intro/tile_4/07172022_fitness-yoga_0759.jpg?003301241935532273" // url of the image source
+		},
+		{
+			caption: "yoga class", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/intro/tile_2/23.09.19_The-Ranch_YOGA_1023_300.DPI.jpg?004492275867688855" // url of the image source
+		},
+		{
+			caption: "eggplant dinner", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/intro/tile_5/20231026_italy-recipes_0080-2.jpg?003649329802049839" // url of the image source
+		},
+		{
+			caption: "spa", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/intro/tile_3/240701_trhv__pool_1009v2-2-.jpg?08164186463642065" // url of the image source
+		},
+		{
+			caption: "dining", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/intro/tile_6/_dsc1521_150.dpi-3-.jpg?049672865583906023" // url of the image source
+		},
+		{
+			caption: "vegetables", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/nutrition/tile_1/IMG_0883.jpeg?05390790876763412" // url of the image source
+		},
+		{
+			caption: "roasted squash meal", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/nutrition/tile_1/IMG_0883.jpeg?05390790876763412" // url of the image source
+		},
+		{
+			caption: "vegetable pizza", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/nutrition/tile_2/veggie-pizza-slices-on-wood.jpg?01315828332973974" // url of the image source
+		},
+		{
+			caption: "tacos", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/nutrition/tile_5/20230622_food-vail_0869.jpeg?0407635218587709" // url of the image source
+		},
+		{
+			caption: "Store products", // a name or caption of the image
+			url: "https://www.theranchlife.com/images/content/home/store/foodgiftset_1.jpg?04535084768786537" // url of the image source
 		}
 	],
 
