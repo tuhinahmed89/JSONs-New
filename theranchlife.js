@@ -39,10 +39,16 @@ const hotel = {
 	youtubeUrl: "",
 
 	// pull rating from the official Google business listing
-	rating: {
-		value: "",
-		count: ""
-	},
+	ratingArr: [ 
+		{
+			"value": 4.6,
+			"count": 24
+		},
+		{
+			"value": 4.4,
+			"count": 10
+		}
+	],
 
 	contact: {
 		phone: "1-310-457-8700", // format: x-xxx-xxx-xxxx
