@@ -1,7 +1,7 @@
 const hotel = {
 
 	// strings, integers & booleans
-	name: "The Ranch Malibu", // the EXACT name of the hotel -> including any letter accents or special characters correctly
+	name: "The Ranch Life", // the EXACT name of the hotel -> including any letter accents or special characters correctly
 
 	// MUST be either "Hotel" or "Resort"
 	type: "Resort",
@@ -9,9 +9,9 @@ const hotel = {
 	homepage: "https://theranchlife.com",
 
 	// slogan/motto/tagline of the hotel
-	slogan: "Endurance, Nutrition, Wellness",
+	slogan: "More than a retreat. A way forward.",
 
-	description: "The Ranch Malibu is a luxury fitness, health and wellness retreat that offers immersive, results-oriented programs based on the principles of endurance, nutrition and wellness. Our programs are designed to help guests achieve sustainable, healthy habits that will last a lifetime.",
+	description: "The Ranch is a collection of restorative destinations designed to ignite your spirit, challenge your body and cultivate authentic human connection. Through results-driven, structured wellness programs, we aim to rejuvenate your physical, mental and spiritual health in environments that foster inner harmony and self-discovery, resulting in meaningful positive change.",
 
 	// if pets are allowed in the hotel or not
 	petsAllowedTrueFalse: false, // true or false
@@ -27,13 +27,13 @@ const hotel = {
 	checkOutTime: "10:00",
 
 	// other urls
-	logoUrl: "", // image source url of the hotel logo
-	copyrightUrl: "", // a copyright url for the website
+	logoUrl: "https://www.theranchlife.com/images/favicon.png", // image source url of the hotel logo
+	copyrightUrl: "https://www.theranchlife.com/terms-conditions", // a copyright url for the website
 
 	// social media urls
-	facebookUrl: "",
+	facebookUrl: "https://www.facebook.com/TheRanchExperience",
 	twitterUrl: "",
-	instagramUrl: "",
+	instagramUrl: "https://www.instagram.com/theranch.life",
 	linkedinUrl: "",
 	tiktokUrl: "",
 	youtubeUrl: "",
