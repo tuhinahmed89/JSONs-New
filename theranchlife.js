@@ -136,6 +136,22 @@ const hotel = {
 		{
 			"name": "energy healing services",
 			"url": "https://theranchmalibu.com/store/#apparel-home",
+		},
+		{
+			"name": "indoor heated pool",
+			"url": "https://www.theranchlife.com/locations/hudson-valley/amenities",
+		},
+		{
+			"name": "great room",
+			"url": "https://www.theranchlife.com/locations/hudson-valley/amenities",
+		},
+		{
+			"name": "multiple sitting areas",
+			"url": "https://www.theranchlife.com/locations/hudson-valley/amenities",
+		},
+		{
+			"name": "colon hydrotherapy",
+			"url": "https://www.theranchlife.com/locations/hudson-valley/amenities",
 		}
 	],
 
@@ -202,40 +218,56 @@ const hotel = {
 			roomCount: "1", // total number of rooms in this accommodation
 			images: [
 				{
-					caption: "", // a name or caption of the image
-					url: "", // url of the image source
+					caption: "Guest bedroom", // a name or caption of the image
+					url: "https://www.theranchlife.com/images/content/altrow/01212023_rooms_0308-HDR.jpeg?015173481364928953", // url of the image source
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: "",
-					url: ""
+					name: "wifi service",
+					url: "https://www.theranchlife.com/locations/malibu/amenities"
+				},
+				{
+					name: "wood floor",
+					url: "https://www.theranchlife.com/locations/malibu/amenities"
+				},
+				{
+					name: "limestone bathrooms",
+					url: "https://www.theranchlife.com/locations/malibu/amenities"
 				}
 			]
 		},
 		{
 			type: "Room", // must be either 'Suite' or 'Room'
 			name: "Guest Cottage", // name of the room
-			url: "https://www.theranchlife.com/locations/malibu/amenities", // URL of this specific room
-			bookUrl: "https://www.theranchlife.com/locations/malibu/amenities", // URL from where the room can be booked (if applicable)
-			description: "Each of our 21 private cottages are beautifully decorated with reclaimed wood floors, limestone bathrooms, and linen-covered queen and king-sized beds. The serene aesthetic of your own private room will not only add to your relaxation, but also support a restful night’s sleep.",
+			url: "https://www.theranchlife.com/locations/hudson-valley/amenities/", // URL of this specific room
+			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities/", // URL from where the room can be booked (if applicable)
+			description: "When it’s time to unwind from the day, retreat to one of 25 beautifully-appointed private rooms. Guests have four categories of room types from which to choose, along with the option for double occupancy rooms with two queen beds or one king bed for those traveling with a loved one. Blending custom upholstery and antique furnishings, each room has the feel of staying in a luxurious guest room, with views featuring the lake, landscaped courtyard, or mountain trails. To further assist in calming the mind, our luxury accommodations are free from televisions and we recommend minimal use of electronic devices to further benefit your mental health. For those who need to stay connected, we ask that you limit any usage to your private room which is equipped with wi-fi.",
 			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
 			checkInTime: "12:00", // 24 hours time. ex: 14:00
 			checkOutTime: "10:00", // 24 hours time. ex: 14:00
 			bedCount: "2", // total number of beds in this accommodation
-			bedType: "1 King Bed or 2 Twin Beds",
+			bedType: "1 King Bed or 2 Queen Beds",
 			bathroomCount: "2", // total number of bathrooms in this accommodation
 			roomCount: "1", // total number of rooms in this accommodation
 			images: [
 				{
-					caption: "", // a name or caption of the image
-					url: "", // url of the image source
+					caption: "guest bedroom", // a name or caption of the image
+					url: "https://www.theranchlife.com/images/content/altrow/junior-suite-theranch_bruno-1-150.jpg?03051922161965026", // url of the image source
 				}
 			],
 			roomAmenitiesArr: [
 				{
-					name: "",
-					url: ""
+					name: "wifi service",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "wood floor",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "limestone bathrooms",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
 				}
 			]
 		}
