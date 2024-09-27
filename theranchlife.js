@@ -212,6 +212,32 @@ const hotel = {
 					url: ""
 				}
 			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Guest Cottage", // name of the room
+			url: "https://www.theranchlife.com/locations/malibu/amenities", // URL of this specific room
+			bookUrl: "https://www.theranchlife.com/locations/malibu/amenities", // URL from where the room can be booked (if applicable)
+			description: "Each of our 21 private cottages are beautifully decorated with reclaimed wood floors, limestone bathrooms, and linen-covered queen and king-sized beds. The serene aesthetic of your own private room will not only add to your relaxation, but also support a restful night’s sleep.",
+			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
+			checkInTime: "12:00", // 24 hours time. ex: 14:00
+			checkOutTime: "10:00", // 24 hours time. ex: 14:00
+			bedCount: "2", // total number of beds in this accommodation
+			bedType: "1 King Bed or 2 Twin Beds",
+			bathroomCount: "2", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "", // a name or caption of the image
+					url: "", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "",
+					url: ""
+				}
+			]
 		}
 	],
 	restaurants: [
