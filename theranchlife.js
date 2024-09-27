@@ -17,10 +17,9 @@ const hotel = {
 	petsAllowedTrueFalse: false, // true or false
 
 	// total number of rooms that are used as accommodations
-	//totalRoomCount: 21, [Different]
-
+	//totalRoomCount: 21 (Malibu), 25(Hudson Valley),
 	// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
-	//priceRange: "2250-42100", No Google business listing Found
+	//priceRange: "2250-42100", No official google business listing found
 
 	// based on 24 hours time. ex: 14:00 means 2:00 PM
 	checkInTime: "12:00",
@@ -40,10 +39,12 @@ const hotel = {
 
 	// pull rating from the official Google business listing
 	ratingArr: [ 
+		//Malibu
 		{
 			"value": 4.6,
 			"count": 24
 		},
+		//Hudson Valley
 		{
 			"value": 4.4,
 			"count": 10
@@ -56,6 +57,7 @@ const hotel = {
 	},
 
 	locationArr: [
+		//Malibu
 		{
 			street: "12220 Cotharin Road",
 			city: "Malibu",
@@ -65,6 +67,7 @@ const hotel = {
 			lat: 34.0974, // latitude coordinates
 			long: -118.7342 // longitude coordinates
 		},
+		//Hudson Valley
 		{
 			street: "150 Sister Servants Lane",
 			city: "Sloatsburg",
@@ -240,8 +243,110 @@ const hotel = {
 		{
 			type: "Room", // must be either 'Suite' or 'Room'
 			name: "Guest Cottage", // name of the room
-			url: "https://www.theranchlife.com/locations/hudson-valley/amenities/", // URL of this specific room
-			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities/", // URL from where the room can be booked (if applicable)
+			url: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL of this specific room
+			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL from where the room can be booked (if applicable)
+			description: "When it’s time to unwind from the day, retreat to one of 25 beautifully-appointed private rooms. Guests have four categories of room types from which to choose, along with the option for double occupancy rooms with two queen beds or one king bed for those traveling with a loved one. Blending custom upholstery and antique furnishings, each room has the feel of staying in a luxurious guest room, with views featuring the lake, landscaped courtyard, or mountain trails. To further assist in calming the mind, our luxury accommodations are free from televisions and we recommend minimal use of electronic devices to further benefit your mental health. For those who need to stay connected, we ask that you limit any usage to your private room which is equipped with wi-fi.",
+			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
+			checkInTime: "12:00", // 24 hours time. ex: 14:00
+			checkOutTime: "10:00", // 24 hours time. ex: 14:00
+			bedCount: "2", // total number of beds in this accommodation
+			bedType: "1 King Bed or 2 Queen Beds",
+			bathroomCount: "2", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "guest bedroom", // a name or caption of the image
+					url: "https://www.theranchlife.com/images/content/altrow/junior-suite-theranch_bruno-1-150.jpg?03051922161965026", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "wifi service",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "wood floor",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "limestone bathrooms",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				}
+			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Guest Cottage - Lake Side View", // name of the room
+			url: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL of this specific room
+			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL from where the room can be booked (if applicable)
+			description: "When it’s time to unwind from the day, retreat to one of 25 beautifully-appointed private rooms. Guests have four categories of room types from which to choose, along with the option for double occupancy rooms with two queen beds or one king bed for those traveling with a loved one. Blending custom upholstery and antique furnishings, each room has the feel of staying in a luxurious guest room, with views featuring the lake, landscaped courtyard, or mountain trails. To further assist in calming the mind, our luxury accommodations are free from televisions and we recommend minimal use of electronic devices to further benefit your mental health. For those who need to stay connected, we ask that you limit any usage to your private room which is equipped with wi-fi.",
+			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
+			checkInTime: "12:00", // 24 hours time. ex: 14:00
+			checkOutTime: "10:00", // 24 hours time. ex: 14:00
+			bedCount: "2", // total number of beds in this accommodation
+			bedType: "1 King Bed or 2 Queen Beds",
+			bathroomCount: "2", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "guest bedroom", // a name or caption of the image
+					url: "https://www.theranchlife.com/images/content/altrow/junior-suite-theranch_bruno-1-150.jpg?03051922161965026", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "wifi service",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "wood floor",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "limestone bathrooms",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				}
+			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Guest Cottage - landscaped courtyard View", // name of the room
+			url: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL of this specific room
+			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL from where the room can be booked (if applicable)
+			description: "When it’s time to unwind from the day, retreat to one of 25 beautifully-appointed private rooms. Guests have four categories of room types from which to choose, along with the option for double occupancy rooms with two queen beds or one king bed for those traveling with a loved one. Blending custom upholstery and antique furnishings, each room has the feel of staying in a luxurious guest room, with views featuring the lake, landscaped courtyard, or mountain trails. To further assist in calming the mind, our luxury accommodations are free from televisions and we recommend minimal use of electronic devices to further benefit your mental health. For those who need to stay connected, we ask that you limit any usage to your private room which is equipped with wi-fi.",
+			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
+			checkInTime: "12:00", // 24 hours time. ex: 14:00
+			checkOutTime: "10:00", // 24 hours time. ex: 14:00
+			bedCount: "2", // total number of beds in this accommodation
+			bedType: "1 King Bed or 2 Queen Beds",
+			bathroomCount: "2", // total number of bathrooms in this accommodation
+			roomCount: "1", // total number of rooms in this accommodation
+			images: [
+				{
+					caption: "guest bedroom", // a name or caption of the image
+					url: "https://www.theranchlife.com/images/content/altrow/junior-suite-theranch_bruno-1-150.jpg?03051922161965026", // url of the image source
+				}
+			],
+			roomAmenitiesArr: [
+				{
+					name: "wifi service",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "wood floor",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				},
+				{
+					name: "limestone bathrooms",
+					url: "https://www.theranchlife.com/locations/hudson-valley/amenities"
+				}
+			]
+		},
+		{
+			type: "Room", // must be either 'Suite' or 'Room'
+			name: "Guest Cottage - mountain trails View", // name of the room
+			url: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL of this specific room
+			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL from where the room can be booked (if applicable)
 			description: "When it’s time to unwind from the day, retreat to one of 25 beautifully-appointed private rooms. Guests have four categories of room types from which to choose, along with the option for double occupancy rooms with two queen beds or one king bed for those traveling with a loved one. Blending custom upholstery and antique furnishings, each room has the feel of staying in a luxurious guest room, with views featuring the lake, landscaped courtyard, or mountain trails. To further assist in calming the mind, our luxury accommodations are free from televisions and we recommend minimal use of electronic devices to further benefit your mental health. For those who need to stay connected, we ask that you limit any usage to your private room which is equipped with wi-fi.",
 			maxOccupancy: 4, // maximum number of guests that can stay in this accommodation
 			checkInTime: "12:00", // 24 hours time. ex: 14:00
@@ -525,20 +630,37 @@ const hotel = {
 	// we should only include 5-star reviews
 	// we want 3 reviews for each (if they exist)
 	reviews: [
+		//Malibu Review
 		{
 			// full name of the reviewer
 			// try to fund reviews with full first and last names
-			author: "",
+			author: "Tulane Grad",
 
-			text: "", // the full review text
+			text: "Just the best! You can go to other, lesser boot camp spas and have your steak and wine with dinner. But not here. The Ranch is the real deal. Their program sold me before my arrival. Their management and staff, at every level, delivered during my stay. It wasn't an easy week but that's on me. The hiking guides supported me in every way possible. They kept me moving on hikes step after step, day after day, and encouraged me when I wanted to throw in the towel. The food was thoughtful and well presented. The accommodations were calming and peaceful. The massages were excellent; the exercise and yoga classes great. It was a beneficial week that, hopefully, I can build on moving forward. And I could have that corn and zucchini warm soup every night for life! While The Ranch and its staff deserve high praise, their guests do not neccesarily rate 5 stars. They can be quite dismissive of you if you don't have anything to offer them when they want to network. I wasn't expecting it to be so many Type A personalities that wanted to market their companies or themselves. At times it felt like a conference for high achievers. As a retired architect, I had nothing to offer to all of these successful entrepreneuers. I was often odd man out as a result. I thought it was supposed to be a time to unplug, not time for networking. It's really something to consider before going here. It was at times painful. I would give one guest... internet savvy-obsessed, CEO of two companies, constant dress wearing (at The Ranch?), fellow Charleston resident, NYC native, Harvard grad ONE star. So thankful we don't run into each other in our small town. Different circles, you know. What I would give to have gone a different week and not met her. A famous actress would likely have been friendlier. Just CEO's, entrepreneuers, dog food company owners, physicians, S.F. area tech executives, trust funders. However, I did enjoy one NYC psychiatrist and we laughed all week long. Just food for thought before you spend all of that money for a week of potential 'rejuvenation'.", // the full review text
 
 			// be sure to only include 5-star reviews -> so the value should always be 5
 			value: 5,
 
-			datePublished: "",
+			datePublished: "2024-08-27",
 
 			// the url of the actual review
-			url: ""
+			url: "https://g.co/kgs/bNa7wPv"
+		},
+		//Hudson Valley Review
+		{
+			// full name of the reviewer
+			// try to fund reviews with full first and last names
+			author: "Alexandra Nickson",
+
+			text: "TRANSFORMATIVE!!! The Ranch is not just a luxury wellness retreat; it's a sanctuary for rejuvenation and transformation. My experience at the Malibu location left me utterly impressed and deeply refreshed, and I cannot wait to check out it's east coast sister, Hudson Valley!! From the moment I arrived, I was enveloped in an atmosphere of tranquility and warmth. The staff made me feel instantly at ease. The accommodations were nothing short of luxurious, with every detail meticulously designed for comfort and relaxation. What truly sets The Ranch apart, is it's holistic approach to wellness. Each day began with invigorating hikes, offering not only physical exercise but also a profound connection to nature. The knowledgeable guides led us on scenic trails, encouraging us to push our limits while also fostering a sense of mindfulness and appreciation for our surroundings. The culinary experience was equally exceptional. The meals, crafted from locally sourced, organic ingredients, were as delicious as they were nourishing. I found myself eagerly anticipating each meal. Again, truly transformational, and I plan on utilizing this new incredible location for my next self care retreat!!", // the full review text
+
+			// be sure to only include 5-star reviews -> so the value should always be 5
+			value: 5,
+
+			datePublished: "2024-04-27",
+
+			// the url of the actual review
+			url: "https://g.co/kgs/m2XbyMc"
 		}
 	]
 
