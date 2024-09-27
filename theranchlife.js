@@ -1,7 +1,7 @@
 const hotel = {
 
 	// strings, integers & booleans
-	name: "The Ranch Malibu", // the EXACT name of the hotel -> including any letter accents or special characters correctly
+	name: "The Ranch Life", // the EXACT name of the hotel -> including any letter accents or special characters correctly
 
 	// MUST be either "Hotel" or "Resort"
 	type: "Resort",
