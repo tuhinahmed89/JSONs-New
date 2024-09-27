@@ -17,13 +17,13 @@ const hotel = {
 	petsAllowedTrueFalse: false, // true or false
 
 	// total number of rooms that are used as accommodations
-	totalRoomCount: 21,
+	//totalRoomCount: 21, [Different]
 
 	// is either "$", "$$", "$$$", "$$$$". Pull this info from the official Google business listing
-	priceRange: "$$$",
+	//priceRange: "2250-42100", No Google business listing Found
 
 	// based on 24 hours time. ex: 14:00 means 2:00 PM
-	checkInTime: "14:00",
+	checkInTime: "12:00",
 	checkOutTime: "10:00",
 
 	// other urls
@@ -45,7 +45,7 @@ const hotel = {
 	},
 
 	contact: {
-		phone: "1-234-567-8910", // format: x-xxx-xxx-xxxx
+		phone: "1-310-457-8700", // format: x-xxx-xxx-xxxx
 		email: "inquiry@theranchlife.com" // primary contact email of the hotel
 	},
 
