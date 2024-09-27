@@ -94,8 +94,40 @@ const hotel = {
 	// amenities offered at the hotel
 	amenitiesArr: [
 		{
-			name: "",
-			url: ""
+			"name": "the integrative health plan",
+			"url": "https://www.theranchlife.com/locations/malibu/amenities",
+		},
+		{
+			"name": "the ranch 360",
+			"url": "https://www.theranchlife.com/locations/malibu/amenities",
+		},
+		{
+			"name": "diagnostic testing",
+			"url": "https://theranchmalibu.com/health-and-fitness-programs/functional-health-programs/#diagnostic",
+		},
+		{
+			"name": "meet bridgette becker",
+			"url": "https://theranchmalibu.com/health-and-fitness-programs/functional-health-programs/#about",
+		},
+		{
+			"name": "food & supplements",
+			"url": "https://theranchmalibu.com/store/#food-supplements",
+		},
+		{
+			"name": "body & skincare",
+			"url": "https://theranchmalibu.com/store/#body-skincare",
+		},
+		{
+			"name": "gift cards",
+			"url": "https://theranchmalibu.com/gift-certificate/",
+		},
+		{
+			"name": "gift sets",
+			"url": "https://theranchmalibu.com/store/#gift-sets",
+		},
+		{
+			"name": "apparel & home",
+			"url": "https://theranchmalibu.com/store/#apparel-home",
 		}
 	],
 
