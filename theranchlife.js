@@ -208,7 +208,7 @@ const hotel = {
 	roomsArr: [
 		{
 			type: "Room", // must be either 'Suite' or 'Room'
-			name: "Guest Cottage", // name of the room
+			name: "Guest Cottage - the ranch malibu", // name of the room
 			url: "https://www.theranchlife.com/locations/malibu/amenities", // URL of this specific room
 			bookUrl: "https://www.theranchlife.com/locations/malibu/amenities", // URL from where the room can be booked (if applicable)
 			description: "Each of our 21 private cottages are beautifully decorated with reclaimed wood floors, limestone bathrooms, and linen-covered queen and king-sized beds. The serene aesthetic of your own private room will not only add to your relaxation, but also support a restful night’s sleep.",
@@ -242,7 +242,7 @@ const hotel = {
 		},
 		{
 			type: "Room", // must be either 'Suite' or 'Room'
-			name: "Guest Cottage", // name of the room
+			name: "Guest Cottage - the ranch hudson valley", // name of the room
 			url: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL of this specific room
 			bookUrl: "https://www.theranchlife.com/locations/hudson-valley/amenities", // URL from where the room can be booked (if applicable)
 			description: "When it’s time to unwind from the day, retreat to one of 25 beautifully-appointed private rooms. Guests have four categories of room types from which to choose, along with the option for double occupancy rooms with two queen beds or one king bed for those traveling with a loved one. Blending custom upholstery and antique furnishings, each room has the feel of staying in a luxurious guest room, with views featuring the lake, landscaped courtyard, or mountain trails. To further assist in calming the mind, our luxury accommodations are free from televisions and we recommend minimal use of electronic devices to further benefit your mental health. For those who need to stay connected, we ask that you limit any usage to your private room which is equipped with wi-fi.",
